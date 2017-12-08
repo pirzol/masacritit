@@ -1,3 +1,9 @@
 # masacritit
 
-Wordpress project
+# Wordpress project
+
+## plugins
+- elementor
+
+## themes
+- oceanup
