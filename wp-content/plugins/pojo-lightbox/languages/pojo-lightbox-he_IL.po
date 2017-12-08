@@ -1,0 +1,2312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pojo Lightbox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-17 18:02+0300\n"
+"PO-Revision-Date: 2016-05-17 18:03+0300\n"
+"Last-Translator: Yakir Sitbon <yakir@pojo.me>\n"
+"Language-Team: Pojo Themes <team@pojo.me>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: classes/pojo-lightbox-admin-ui.php:7
+msgid "GitHub"
+msgstr ""
+
+#: classes/pojo-lightbox-admin-ui.php:10
+msgid "Settings"
+msgstr "הגדרות"
+
+#: classes/pojo-lightbox-setting-page.php:11
+msgid "LightBox Script"
+msgstr "סוג LightBox"
+
+#: classes/pojo-lightbox-setting-page.php:14
+msgid "PhotoSwipe"
+msgstr ""
+
+#: classes/pojo-lightbox-setting-page.php:16
+msgid "prettyPhoto"
+msgstr ""
+
+#: classes/pojo-lightbox-setting-page.php:29
+#: classes/pojo-lightbox-setting-page.php:346
+msgid "Lightbox"
+msgstr "לייטבוקס"
+
+#: classes/pojo-lightbox-setting-page.php:43
+msgid "LightBox Theme"
+msgstr "סגנון לייטבוקס"
+
+#: classes/pojo-lightbox-setting-page.php:45
+msgid "6 Themes to choose from"
+msgstr "6 סגנונות לבחירה"
+
+#: classes/pojo-lightbox-setting-page.php:48
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: classes/pojo-lightbox-setting-page.php:49
+#, fuzzy
+msgid "Light Rounded"
+msgstr "בהיר"
+
+#: classes/pojo-lightbox-setting-page.php:50
+#, fuzzy
+msgid "Dark Rounded"
+msgstr "כהה"
+
+#: classes/pojo-lightbox-setting-page.php:51
+#, fuzzy
+msgid "Dark Square"
+msgstr "כהה"
+
+#: classes/pojo-lightbox-setting-page.php:52
+#, fuzzy
+msgid "Light Square"
+msgstr "בהיר"
+
+#: classes/pojo-lightbox-setting-page.php:53
+msgid "Facebook"
+msgstr "פייסבוק"
+
+#: classes/pojo-lightbox-setting-page.php:60
+msgid "Animation Speed"
+msgstr "מהירות אנימציה"
+
+#: classes/pojo-lightbox-setting-page.php:65
+msgid "Fast"
+msgstr "מהיר"
+
+#: classes/pojo-lightbox-setting-page.php:66
+msgid "Normal"
+msgstr "רגיל"
+
+#: classes/pojo-lightbox-setting-page.php:67
+msgid "Slow"
+msgstr "איטי"
+
+#: classes/pojo-lightbox-setting-page.php:73
+msgid "Background Opacity"
+msgstr "שקיפות"
+
+#: classes/pojo-lightbox-setting-page.php:81
+msgid "Show Title"
+msgstr "הצגת כותרת"
+
+#: classes/pojo-lightbox-setting-page.php:85
+#: classes/pojo-lightbox-setting-page.php:97
+#: classes/pojo-lightbox-setting-page.php:119
+#: classes/pojo-lightbox-setting-page.php:216
+#: classes/pojo-lightbox-setting-page.php:228
+#: classes/pojo-lightbox-setting-page.php:240
+#: classes/pojo-lightbox-setting-page.php:252
+#: classes/pojo-lightbox-setting-page.php:264
+#: classes/pojo-lightbox-setting-page.php:276
+#: classes/pojo-lightbox-setting-page.php:288
+msgid "Show"
+msgstr "להציג"
+
+#: classes/pojo-lightbox-setting-page.php:86
+#: classes/pojo-lightbox-setting-page.php:98
+#: classes/pojo-lightbox-setting-page.php:120
+#: classes/pojo-lightbox-setting-page.php:217
+#: classes/pojo-lightbox-setting-page.php:229
+#: classes/pojo-lightbox-setting-page.php:241
+#: classes/pojo-lightbox-setting-page.php:253
+#: classes/pojo-lightbox-setting-page.php:265
+#: classes/pojo-lightbox-setting-page.php:277
+#: classes/pojo-lightbox-setting-page.php:289
+msgid "Hide"
+msgstr "להסתיר"
+
+#: classes/pojo-lightbox-setting-page.php:93
+msgid "Gallery Thumbnails"
+msgstr "תמונות ממוזערות"
+
+#: classes/pojo-lightbox-setting-page.php:105
+msgid "Autoplay Gallery Speed"
+msgstr "מהירות מעבר תמונות בגלריה"
+
+#: classes/pojo-lightbox-setting-page.php:106
+msgid "Default: 5000, 1000 ms = 1 second"
+msgstr "ברירת מחדל: 5000, 1000 מילישניות = 1 שניה"
+
+#: classes/pojo-lightbox-setting-page.php:114
+msgid "Social Icons"
+msgstr "כפתורי שיתוף"
+
+#: classes/pojo-lightbox-setting-page.php:116
+msgid "Show social sharing buttons on lightbox"
+msgstr "הצגת כפתורי שיתוף על הלייטבוקס"
+
+#: classes/pojo-lightbox-setting-page.php:134
+msgid "Loop"
+msgstr ""
+
+#: classes/pojo-lightbox-setting-page.php:136
+msgid ""
+"Loop slides when using swipe gesture. If set to `enable` you'll be able to "
+"swipe from last to first image. Option is always `disable` when there are "
+"less than 3 slides."
+msgstr ""
+"מעבר בין תמונות גלריה באמצעות מחווה. במידה ומוגדר 'אפשר' ניתן לעבור בין "
+"התמונות באמצעות מחווה. אפשרות זו קיימת רק בגלריה עם 3 תמונות לפחות."
+
+#: classes/pojo-lightbox-setting-page.php:139
+#: classes/pojo-lightbox-setting-page.php:152
+#: classes/pojo-lightbox-setting-page.php:165
+#: classes/pojo-lightbox-setting-page.php:178
+#: classes/pojo-lightbox-setting-page.php:191
+#: classes/pojo-lightbox-setting-page.php:204
+#: classes/pojo-lightbox-setting-page.php:305
+#: classes/pojo-lightbox-setting-page.php:317
+msgid "Enable"
+msgstr "אפשר"
+
+#: classes/pojo-lightbox-setting-page.php:140
+#: classes/pojo-lightbox-setting-page.php:153
+#: classes/pojo-lightbox-setting-page.php:166
+#: classes/pojo-lightbox-setting-page.php:179
+#: classes/pojo-lightbox-setting-page.php:192
+#: classes/pojo-lightbox-setting-page.php:205
+#: classes/pojo-lightbox-setting-page.php:306
+#: classes/pojo-lightbox-setting-page.php:318
+msgid "Disable"
+msgstr "אל תאפשר"
+
+#: classes/pojo-lightbox-setting-page.php:147
+msgid "Close on Scroll"
+msgstr "סגירה בעת גלילה"
+
+#: classes/pojo-lightbox-setting-page.php:149
+msgid ""
+"Close gallery on page scroll. Option works just for devices without hardware "
+"touch support."
+msgstr "סגירת גלריה בעת גלילת העמוד. אפשרות זו עובדת רק במכשירים ללא מסך טאצ'."
+
+#: classes/pojo-lightbox-setting-page.php:160
+msgid "Close on Vertical Drag"
+msgstr "סגירה בעת הזזה אנכית"
+
+#: classes/pojo-lightbox-setting-page.php:162
+msgid ""
+"Close gallery when dragging vertically and when image is not zoomed. Always "
+"`disable` when mouse is used."
+msgstr "סגירת גלריה בעת גרירה אנכית וכאשר התמונה אינה במצב זום."
+
+#: classes/pojo-lightbox-setting-page.php:173
+msgid "Esc Key"
+msgstr "כפתור Esc"
+
+#: classes/pojo-lightbox-setting-page.php:175
+msgid "Esc keyboard key to close Lightbox"
+msgstr "שימוש בכפתור Esc כדי לסגור את הלייטבוקס"
+
+#: classes/pojo-lightbox-setting-page.php:186
+msgid "Arrow Key"
+msgstr "ניווט באמצעות חיצי מקלדת"
+
+#: classes/pojo-lightbox-setting-page.php:188
+msgid "Keyboard left or right arrow key navigation."
+msgstr "חיצי מקלדת שמאל וימין כדי לנווט בין תמונות גלריה."
+
+#: classes/pojo-lightbox-setting-page.php:199
+msgid "History"
+msgstr "היסטוריה"
+
+#: classes/pojo-lightbox-setting-page.php:201
+msgid ""
+"If set to `disable` disables history module (back button to close gallery, "
+"unique URL for each slide)."
+msgstr ""
+"ניתן להשבית את את אפשרויות ההיסטוריה (היסטוריה שומרת כתובת ייחודית לכל "
+"שקופית)."
+
+#: classes/pojo-lightbox-setting-page.php:212
+msgid "Caption"
+msgstr "כיתוב תמונה"
+
+#: classes/pojo-lightbox-setting-page.php:224
+msgid "Close Button"
+msgstr "כפתור סגירה"
+
+#: classes/pojo-lightbox-setting-page.php:236
+msgid "FullScreen Button"
+msgstr "כפתור מסך מלא"
+
+#: classes/pojo-lightbox-setting-page.php:248
+msgid "Zoom Button"
+msgstr "כפתור זום"
+
+#: classes/pojo-lightbox-setting-page.php:260
+msgid "Image Counter"
+msgstr "סופר תמונות"
+
+#: classes/pojo-lightbox-setting-page.php:272
+msgid "Arrow Navigation"
+msgstr "חיצי ניווט"
+
+#: classes/pojo-lightbox-setting-page.php:284
+msgid "Share Button"
+msgstr "כפתורי שיתוף"
+
+#: classes/pojo-lightbox-setting-page.php:302
+msgid "LightBox on Smartphone"
+msgstr "לייטבוקס על סמארטפונים"
+
+#: classes/pojo-lightbox-setting-page.php:314
+msgid "LightBox on WooCommerce"
+msgstr "לייטבוקס על WooCommerce"
+
+#: classes/pojo-lightbox-setting-page.php:345
+msgid "Lightbox Settings"
+msgstr "לייטבוקס:"
+
+#: languages/strings.php:4
+msgid ""
+"This plugin used to add the lightbox (overlay) effect to all images on your "
+"WordPress site with Pojo Framework"
+msgstr ""
+"תוסף זה משמש להוספת אפקט Lightbox על כל התמונות באתר WordPress שעובד עלPojo "
+"Framework."
+
+#: pojo-lightbox.php:149
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Pojo Framework</a> is not active. Please "
+"activate any theme by Pojo before you are using \"Pojo Lightbox\" plugin."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">Pojo Framework</a> אינו פעיל. יש להפעיל "
+"ערכת עיצוב של Pojo לפני שמשתמשים בתוסף \"Pojo Lightbox\"."
+
+#~ msgid "Lightbox:"
+#~ msgstr "לייטבוקס:"
+
+#~ msgid "Enable LightBox"
+#~ msgstr "אפשר לייטבוקס"
+
+#~ msgid "404"
+#~ msgstr "שגיאה 404"
+
+#~ msgid "Not Found"
+#~ msgstr "לא נמצא"
+
+#~ msgid "Sorry, this page could not be found!"
+#~ msgstr "מצטערים, דף זה לא נמצא!"
+
+#, fuzzy
+#~ msgid "%1$s"
+#~ msgstr "%1$s"
+
+#~ msgid "(Edit)"
+#~ msgstr "(עריכה)"
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "תגובתך מחכה לאישור המערכת."
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr "עמוד זה מוגן בסיסמה. הזינו את הפסיסמה כדי לצפות בו."
+
+#~ msgid "One Response"
+#~ msgid_plural "%1$s Responses"
+#~ msgstr[0] "תגובה אחת"
+#~ msgstr[1] "%1$s תגובות"
+
+#~ msgid "&larr; Older comments"
+#~ msgstr "תגובות ישנות &larr;"
+
+#~ msgid "Newer comments &rarr;"
+#~ msgstr "&rarr; תגובות חדשות"
+
+#~ msgid "Leave a Reply"
+#~ msgstr "השארת תגובה"
+
+#~ msgid "Leave a Reply to %s"
+#~ msgstr "השארת תגובה ל-%s"
+
+#~ msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+#~ msgstr "חייבים <a href=\"%s\">להתחבר</a> כדי להגיב."
+
+#~ msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+#~ msgstr "תגובתך תתפרסם תחת השם-<a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+#~ msgid "Log out of this account"
+#~ msgstr "התנתקות מחשבון זה"
+
+#~ msgid "Log out &raquo;"
+#~ msgstr "התנתקות &raquo;"
+
+#~ msgid "Name"
+#~ msgstr "שם:"
+
+#~ msgid " (required)"
+#~ msgstr "(חובה)"
+
+#~ msgid "Email"
+#~ msgstr "אימייל"
+
+#~ msgid "Website"
+#~ msgstr "אתר:"
+
+#~ msgid "Enter your comment"
+#~ msgstr "כתיבת תגובה"
+
+#~ msgid "Send"
+#~ msgstr "שליחה"
+
+#~ msgid "Sorry, no results were found."
+#~ msgstr "אופס, לא נמצאו תוצאות."
+
+#~ msgid "No Comments"
+#~ msgstr "אין תגובות"
+
+#~ msgid "One Comment"
+#~ msgstr "תגובה אחת"
+
+#~ msgid "% Comments"
+#~ msgstr "% תגובות"
+
+#~ msgid "Galleries"
+#~ msgstr "גלריות"
+
+#~ msgid "Gallery"
+#~ msgstr "גלריה"
+
+#~ msgid "Add New"
+#~ msgstr "הוספת חדש"
+
+#~ msgid "Add New Gallery"
+#~ msgstr "הוספת גלריה חדשה"
+
+#~ msgid "Edit Gallery"
+#~ msgstr "עריכת גלריה"
+
+#~ msgid "New Gallery"
+#~ msgstr "גלריה חדשה"
+
+#~ msgid "All Galleries"
+#~ msgstr "כל הגלריות"
+
+#~ msgid "View Gallery"
+#~ msgstr "הצגת גלריה"
+
+#~ msgid "Search Gallery"
+#~ msgstr "חיפוש גלריה"
+
+#~ msgid "No Galleries found"
+#~ msgstr "לא נמצאו גלריות"
+
+#~ msgid "No Galleries found in Trash"
+#~ msgstr "לא נמצאו גלריות בפח"
+
+#~ msgid "Gallery Categories"
+#~ msgstr "קטגוריות גלריה"
+
+#~ msgid "Gallery Category"
+#~ msgstr "קטגורית גלריה"
+
+#~ msgctxt "Admin menu name"
+#~ msgid "Categories"
+#~ msgstr "קטגוריות"
+
+#~ msgid "Search Categories"
+#~ msgstr "חיפוש קטגוריות"
+
+#~ msgid "All Categories"
+#~ msgstr "כל הקטגוריות"
+
+#~ msgid "Parent Category"
+#~ msgstr "קטגורית אב"
+
+#~ msgid "Parent Category:"
+#~ msgstr "קטגורית אב:"
+
+#~ msgid "Edit Category"
+#~ msgstr "עריכת קטגוריה"
+
+#~ msgid "Update Category"
+#~ msgstr "עדכון קטגוריה"
+
+#~ msgid "Add New Category"
+#~ msgstr "הוספת קטגוריה חדשה"
+
+#~ msgid "New Category Name"
+#~ msgstr "שם קטגוריה חדשה"
+
+#~ msgid "gallery updated. <a href=\"%s\">View gallery</a>"
+#~ msgstr "גלריה עודכנה. <a href=\"%s\">הצגת גלריה</a>"
+
+#~ msgid "Custom field updated."
+#~ msgstr "שדות מיוחדות עודכנו"
+
+#~ msgid "Custom field deleted."
+#~ msgstr "שדות מיוחדים נמחקו"
+
+#~ msgid "Gallery updated."
+#~ msgstr "גלריה עודכנה."
+
+#~ msgid "Post restored to revision from %s"
+#~ msgstr "הגלריה שוחזרה לגרסה מ %s"
+
+#~ msgid "Post published. <a href=\"%s\">View post</a>"
+#~ msgstr "הגלריה פורסמה. <a href=\"%s\">הצגת גלריה</a>"
+
+#~ msgid "Gallery saved."
+#~ msgstr "גלריה נשמרה."
+
+#~ msgid "Post submitted. <a target=\"_blank\" href=\"%s\">Preview post</a>"
+#~ msgstr "הגלריה נשלחה. <a target=\"_blank\" href=\"%s\">תצוגה מקדימה</a>"
+
+#~ msgid ""
+#~ "Post scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+#~ "\"%2$s\">Preview post</a>"
+#~ msgstr ""
+#~ "הגלריה מתוזמנת ל: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+#~ "\">תצוגה מקדימה</a>"
+
+#~ msgid ""
+#~ "Post draft updated. <a target=\"_blank\" href=\"%s\">Preview post</a>"
+#~ msgstr ""
+#~ "טיוטת גלריה עודכנה. <a target=\"_blank\" href=\"%s\">תצוגה מקדימה</a>"
+
+#~ msgid "%s Gallery"
+#~ msgid_plural "%s Galleries"
+#~ msgstr[0] "גלריה %s"
+#~ msgstr[1] "%s גלריות"
+
+#~ msgid "Choose Category"
+#~ msgstr "בחירת קטגוריה"
+
+#~ msgid "Select Content Layout"
+#~ msgstr "מבנה תוכן"
+
+#~ msgid "Gallery with 3 or 4 columns"
+#~ msgstr "גלריה עם 3 או 4 עמודות"
+
+#~ msgid "Add Filter By Category"
+#~ msgstr "סינון לפי קטגוריות"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "הגדרות מתקדמות"
+
+#~ msgid "Galleries Per Page"
+#~ msgstr "מספר גלריות בעמוד"
+
+#~ msgid "Custom"
+#~ msgstr "מותאם אישית"
+
+#~ msgid "Number Posts"
+#~ msgstr "מספר פוסטים"
+
+#~ msgid "Order By"
+#~ msgstr "סידור לפי"
+
+#~ msgid "Date"
+#~ msgstr "תאריך"
+
+#~ msgid "Menu Order"
+#~ msgstr "סדר תפריט"
+
+#~ msgid "Title"
+#~ msgstr "כותרת"
+
+#~ msgid "Random"
+#~ msgstr "אקראי"
+
+#~ msgid "Order"
+#~ msgstr "סדר"
+
+#~ msgid "DESC"
+#~ msgstr "סדר יורד"
+
+#~ msgid "ASC"
+#~ msgstr "סדר עולה"
+
+#~ msgid "Pagination"
+#~ msgstr "ניווט בין עמודים"
+
+#~ msgid "Simple"
+#~ msgstr "תצוגת גריד"
+
+#~ msgid "Slideshow"
+#~ msgstr "מצגת"
+
+#~ msgid "Link To"
+#~ msgstr "קישור אל"
+
+#~ msgid "Full Image"
+#~ msgstr "תמונה מלאה"
+
+#~ msgid "None"
+#~ msgstr "ללא"
+
+#~ msgid "Columns"
+#~ msgstr "עמודות"
+
+#~ msgid "Random Order"
+#~ msgstr "סידור אקראי"
+
+#~ msgid "Thumbnails Ratio"
+#~ msgstr "יחס תמונות ממוזערות"
+
+#, fuzzy
+#~ msgid "1:1"
+#~ msgstr "%1$s"
+
+#, fuzzy
+#~ msgid "4:3"
+#~ msgstr "גלריה עם 3 או 4 עמודות"
+
+#~ msgid "Transitions"
+#~ msgstr "סגנון אנימציה"
+
+#~ msgid "Fade"
+#~ msgstr "עמעום"
+
+#~ msgid "Slide Horizontal"
+#~ msgstr "גלילה אופקית"
+
+#~ msgid "Slide Vertical"
+#~ msgstr "גלילה אנכית"
+
+#~ msgid "Scale"
+#~ msgstr "זום"
+
+#~ msgid "Autoplay"
+#~ msgstr "ניגון אוטומטי"
+
+#~ msgid "On"
+#~ msgstr "הפעלה"
+
+#~ msgid "Off"
+#~ msgstr "כיבוי"
+
+#~ msgid "Navigation Arrow"
+#~ msgstr "חיצי ניווט"
+
+#~ msgid "hide"
+#~ msgstr "להסתיר"
+
+#~ msgid "Open in LightBox"
+#~ msgstr "פתיחה בלייטבוקס"
+
+#~ msgid "Images"
+#~ msgstr "תמונות"
+
+#~ msgid "Select Display Type"
+#~ msgstr "סוג תצוגה"
+
+#~ msgid "Gallery Archive:"
+#~ msgstr "ארכיון גלריה:"
+
+#~ msgid "Choose Gallery Layout"
+#~ msgstr "בחירת פריסת גלריה"
+
+#~ msgid "All"
+#~ msgstr "הכל"
+
+#~ msgid "Title:"
+#~ msgstr "כותרת:"
+
+#~ msgid "Style:"
+#~ msgstr "סגנון:"
+
+#~ msgid "Category:"
+#~ msgstr ":קטגוריה"
+
+#~ msgid "Number Galleries:"
+#~ msgstr "מספר גלריות:"
+
+#~ msgid "No found posts."
+#~ msgstr "לא נמצאו פוסטים."
+
+#~ msgid "Galleries not found. Please select a category."
+#~ msgstr " לא נמצאו גלריות, יש לבחור קטגוריה."
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "יש להתקין תוספי מערכת"
+
+#~ msgid "Install Plugins"
+#~ msgstr "התקנת תוספים"
+
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "התקנת תוסף: %s"
+
+#~ msgid "Something went wrong."
+#~ msgstr "משהו היה שגוי"
+
+#, fuzzy
+#~ msgid "The following required plugin is currently inactive: %1$s."
+#~ msgid_plural "The following required plugins are currently inactive: %1$s."
+#~ msgstr[0] "התוסף הבא הופעל בהצלחה: %s."
+#~ msgstr[1] "התוסף הבא הופעל בהצלחה: %s."
+
+#, fuzzy
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgid_plural ""
+#~ "The following recommended plugins are currently inactive: %1$s."
+#~ msgstr[0] "התוסף הבא הופעל בהצלחה: %s."
+#~ msgstr[1] "התוסף הבא הופעל בהצלחה: %s."
+
+#, fuzzy
+#~ msgid "Begin installing plugin"
+#~ msgid_plural "Begin installing plugins"
+#~ msgstr[0] "התקנת תוסף: %s"
+#~ msgstr[1] "התקנת תוסף: %s"
+
+#, fuzzy
+#~ msgid "Activate installed plugin"
+#~ msgid_plural "Activate installed plugins"
+#~ msgstr[0] "התקנת תוספים"
+#~ msgstr[1] "התקנת תוספים"
+
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "חזרה להתקנת תוספי מערכת"
+
+#~ msgid "Plugin activated successfully."
+#~ msgstr "תוסף הופעל בהצלחה"
+
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "כל התוספים הותקנו והופעלו בהצלחה. %1$s"
+
+#~ msgid "Return to the Dashboard"
+#~ msgstr "חזרה אל לוח הבקרה"
+
+#~ msgid "The following plugin was activated successfully: %s."
+#~ msgstr "התוסף הבא הופעל בהצלחה: %s."
+
+#~ msgid "Dismiss this notice"
+#~ msgstr "הסתר הערה זו"
+
+#~ msgid "External Link"
+#~ msgstr "קישור חיצוני"
+
+#~ msgid "Private Repository"
+#~ msgstr "מאגר פרטי"
+
+#, fuzzy
+#~ msgid "WordPress Repository"
+#~ msgstr "מאגר פרטי"
+
+#~ msgid "Required"
+#~ msgstr "(חובה)"
+
+#~ msgid "Recommended"
+#~ msgstr "מומלץ"
+
+#~ msgid "Not Installed"
+#~ msgstr "לא מותקן"
+
+#, fuzzy
+#~ msgid "Installed But Not Activated"
+#~ msgstr "כל התוספים הותקנו והופעלו בהצלחה. %1$s"
+
+#~ msgid "Plugin"
+#~ msgstr "תוסף"
+
+#~ msgid "Source"
+#~ msgstr "מקור"
+
+#~ msgid "Type"
+#~ msgstr "סוג"
+
+#~ msgid "Status"
+#~ msgstr "סטטוס"
+
+#~ msgid "Install"
+#~ msgstr "התקנה"
+
+#~ msgid "Activate"
+#~ msgstr "הפעלה"
+
+#, fuzzy
+#~ msgid "The following plugin was activated successfully:"
+#~ msgid_plural "The following plugins were activated successfully:"
+#~ msgstr[0] "התוסף הבא הופעל בהצלחה: %s."
+#~ msgstr[1] "התוסף הבא הופעל בהצלחה: %s."
+
+#, fuzzy
+#~ msgid "Install package not available."
+#~ msgstr "התקנה"
+
+#, fuzzy
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "התקנת תוסף: %s"
+
+#, fuzzy
+#~ msgid "Plugin install failed."
+#~ msgstr "התקנה"
+
+#, fuzzy
+#~ msgid "Plugin installed successfully."
+#~ msgstr "תוסף הופעל בהצלחה"
+
+#, fuzzy
+#~ msgid "Plugin activation failed."
+#~ msgstr "תוסף"
+
+#, fuzzy
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "כל התוספים הותקנו והופעלו בהצלחה. %1$s"
+
+#~ msgid "Show Details"
+#~ msgstr "הצגת פרטים"
+
+#~ msgid "Hide Details"
+#~ msgstr "הסתרת פרטים"
+
+#, fuzzy
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "%1$s"
+
+#, fuzzy
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s"
+
+#, fuzzy
+#~ msgid "All installations have been completed."
+#~ msgstr "כל הפעילויות נמחקו בהצלחה."
+
+#, fuzzy
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "התקנת תוסף: %s"
+
+#, fuzzy
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "משהו היה שגוי"
+
+#, fuzzy
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "כל התוספים הותקנו והופעלו בהצלחה. %1$s"
+
+#~ msgid "Slideshows"
+#~ msgstr "מצגות"
+
+#~ msgid "Add New Slideshow"
+#~ msgstr "הוספת מצגת חדשה"
+
+#~ msgid "Edit Slideshow"
+#~ msgstr "עריכת מצגת"
+
+#~ msgid "New Slideshow"
+#~ msgstr "מצגת חדשה"
+
+#~ msgid "All Slideshows"
+#~ msgstr "כל המצגות"
+
+#~ msgid "View Slideshow"
+#~ msgstr "הצגת מצגת"
+
+#~ msgid "Search Slideshow"
+#~ msgstr "חיפוש מצגת"
+
+#~ msgid "No slideshows found"
+#~ msgstr "לא נמצאו מצגות"
+
+#~ msgid "No slideshows found in Trash"
+#~ msgstr "לא נמצאו מצגות בפח"
+
+#~ msgid "Slideshow updated."
+#~ msgstr "מצגת עודכנה"
+
+#~ msgid "Slideshow restored to revision from %s"
+#~ msgstr "המצגת שוחזרה לגרסה קודמת מ %s"
+
+#~ msgid "Slideshow published."
+#~ msgstr "המצגת פורסמה"
+
+#~ msgid "Slideshow saved."
+#~ msgstr "מצגת נשמרה"
+
+#~ msgid "Slideshow submitted."
+#~ msgstr "המצגת נשלחה."
+
+#~ msgid "Post scheduled for: <strong>%1$s</strong>."
+#~ msgstr "הפוסט מתוזמן ל: <strong>%1$s</strong>."
+
+#~ msgid "Slideshow draft updated."
+#~ msgstr "טיוטת מצגת עודכנה"
+
+#~ msgid "Slider Title"
+#~ msgstr "כותרת מצגת"
+
+#~ msgid "Preview Slideshow"
+#~ msgstr "תצוגה מקדימה"
+
+#~ msgid "Slides"
+#~ msgstr "שקופיות"
+
+#~ msgid "Shortcode"
+#~ msgstr "שורטקוד"
+
+#~ msgid "Preview"
+#~ msgstr "תצוגה מקדימה"
+
+#~ msgid "%s Slideshow"
+#~ msgid_plural "%s Slideshows"
+#~ msgstr[0] "שקופית %s"
+#~ msgstr[1] "%s שקופיות"
+
+#~ msgid "Slider"
+#~ msgstr "סליידר"
+
+#~ msgid "Carousel"
+#~ msgstr "קרוסלה"
+
+#~ msgid "Slider Settings"
+#~ msgstr "הגדרות סליידר"
+
+#~ msgid "Carousel Settings"
+#~ msgstr "הגדרות קרוסלה"
+
+#~ msgid "Width Carousel"
+#~ msgstr "רוחב קרוסלה"
+
+#~ msgid "Height Carousel"
+#~ msgstr "גובה קרוסלה"
+
+#~ msgid "Width Slider (px)"
+#~ msgstr "רוחב סליידר (px)"
+
+#~ msgid "Height Slider (px)"
+#~ msgstr "גובה סליידר (px)"
+
+#~ msgid "Slide Width (px)"
+#~ msgstr "רוחב שקופית (px)"
+
+#~ msgid "Minimum Slides"
+#~ msgstr "מינימום שקופיות"
+
+#~ msgid "Maximum Slides"
+#~ msgstr "מקסימום שקופיות"
+
+#~ msgid "Move Slides"
+#~ msgstr "תזוזת שקופיות"
+
+#~ msgid "Navigation"
+#~ msgstr "ניווט"
+
+#~ msgid "Arrows"
+#~ msgstr "חיצים"
+
+#~ msgid "Bullets"
+#~ msgstr "נקודות"
+
+#~ msgid "Both"
+#~ msgstr "שניהם"
+
+#~ msgid "Transition Style"
+#~ msgstr "סגנון אנימציה"
+
+#~ msgid "Transition Speed (in ms)"
+#~ msgstr "מהירות אנימציה (ms)"
+
+#~ msgid "Slide Duration (in ms)"
+#~ msgstr "אורך זמן שקופית (ms)"
+
+#~ msgid "Auto Play"
+#~ msgstr "ניגון אוטומטי"
+
+#~ msgid "Auto Pause Hover"
+#~ msgstr "עצירה אוטומטית במעבר"
+
+#~ msgid "Slideshow Options"
+#~ msgstr "אפשרויות מצגת"
+
+#~ msgid "Add to Slide"
+#~ msgstr "הוספה לשקופית"
+
+#~ msgid "Add Link"
+#~ msgstr "הוספת קישור"
+
+#~ msgid "Open Link in"
+#~ msgstr "פתיחת קישור:"
+
+#~ msgid "Same Window"
+#~ msgstr "באותו חלון"
+
+#~ msgid "New Tab or Window"
+#~ msgstr "לשונית חדשה"
+
+#~ msgid "+ Add Slide"
+#~ msgstr "+ הוספת שקופית"
+
+#~ msgid ""
+#~ "Copy and paste this shortcode into your Text editor or use with Slideshow "
+#~ "Widget."
+#~ msgstr ""
+#~ "יש להעתיק ולהדביק את השורטקוד לתוך עורך הטקסט, או להשתמש בוידג'ט טפסים."
+
+#~ msgid "Choose Slider:"
+#~ msgstr "בחירת מצגת:"
+
+#~ msgid "Create a Slider"
+#~ msgstr "יצירת מצגת"
+
+#~ msgid "General"
+#~ msgstr "כללי"
+
+#~ msgid "Article of: %s"
+#~ msgstr "מאמרים של: %s"
+
+#~ msgid "Tag: \"%s\""
+#~ msgstr "תגית: \"%s\""
+
+#~ msgid "Error 404"
+#~ msgstr "שגיאה 404"
+
+#~ msgid " (Page %d)"
+#~ msgstr " (עמוד %d)"
+
+#~ msgid "Home"
+#~ msgstr "ראשי"
+
+#~ msgid "Remove"
+#~ msgstr "מחיקה"
+
+#~ msgid "Choose Image"
+#~ msgstr "בחירת תמונה"
+
+#~ msgid "Background Position"
+#~ msgstr "מיקום"
+
+#~ msgid "Background Repeat"
+#~ msgstr "חזרה"
+
+#~ msgid "Background Size"
+#~ msgstr "גודל"
+
+#~ msgid "Background Attachment"
+#~ msgstr "גלילה"
+
+#~ msgid "Text Selection"
+#~ msgstr "טקסט נבחר"
+
+#~ msgid "Text Background Selection"
+#~ msgstr "רקע טקסט נבחר"
+
+#~ msgid "Link"
+#~ msgstr "קישור"
+
+#~ msgid "Hover"
+#~ msgstr "מעבר"
+
+#~ msgid "Font & Size"
+#~ msgstr "פונט & גודל"
+
+#~ msgid "Size"
+#~ msgstr "גודל"
+
+#~ msgid "Family"
+#~ msgstr "משפחה"
+
+#~ msgid "Weight"
+#~ msgstr "משקל"
+
+#~ msgid "Line Height"
+#~ msgstr "גובה שורה"
+
+#~ msgid "Do you want remove the Widget?"
+#~ msgstr "בטוח למחוק את הוידג'ט?"
+
+#~ msgid "Do you want remove the Row?"
+#~ msgstr "בטוח למחוק את השורה הזאת?"
+
+#, fuzzy
+#~ msgid "Image rotate failed."
+#~ msgstr "תמונה"
+
+#, fuzzy
+#~ msgid "Image grayscale failed."
+#~ msgstr "תמונה"
+
+#, fuzzy
+#~ msgid "Image negate failed."
+#~ msgstr "תמונה"
+
+#~ msgid "Page %s"
+#~ msgstr "עמוד %s"
+
+#, fuzzy
+#~ msgid "No setup render field"
+#~ msgstr "שדה חובה"
+
+#, fuzzy
+#~ msgid "Pojo Meta Box"
+#~ msgstr "פוג'ו"
+
+#~ msgid "No found any results"
+#~ msgstr "לא נמצאו תוצאות"
+
+#~ msgid "Add/Edit Gallery"
+#~ msgstr "הוספת/עריכת גלריה"
+
+#~ msgid "Reset Gallery"
+#~ msgstr "איפוס גלריה"
+
+#~ msgid "Add to Post"
+#~ msgstr "הוספת פוסט"
+
+#~ msgid "Add image"
+#~ msgstr "הוספת תמונה"
+
+#~ msgid "No found any options"
+#~ msgstr "לא נמצאו אפשרויות"
+
+#~ msgid "+ Add Row"
+#~ msgstr "+ הוספת שורה"
+
+#~ msgid "Width Content"
+#~ msgstr "רוחב תוכן"
+
+#~ msgid "Full Width"
+#~ msgstr "רוחב מלא"
+
+#~ msgid "100% Width"
+#~ msgstr "100% רוחב"
+
+#~ msgid "Background Color"
+#~ msgstr "צבע רקע"
+
+#~ msgid "Background Image"
+#~ msgstr "רקע תמונה"
+
+#~ msgid "No repeat"
+#~ msgstr "ללא חזרה"
+
+#~ msgid "repeat"
+#~ msgstr "חזרה"
+
+#~ msgid "repeat-x"
+#~ msgstr "חזרה לרוחב"
+
+#~ msgid "repeat-y"
+#~ msgstr "חזרה לאורך"
+
+#~ msgid "Auto"
+#~ msgstr "אוטומטי"
+
+#~ msgid "Top Left"
+#~ msgstr "עליון שמאל"
+
+#~ msgid "Top Center"
+#~ msgstr "עליון מרכז"
+
+#~ msgid "Top Right"
+#~ msgstr "עליון ימין"
+
+#~ msgid "Center Left"
+#~ msgstr "מרכז שמאל"
+
+#~ msgid "Center Center"
+#~ msgstr "מרכז מרכז"
+
+#~ msgid "Center Right"
+#~ msgstr "מרכז ימין"
+
+#~ msgid "Bottom Left"
+#~ msgstr "תחתון שמאל"
+
+#~ msgid "Bottom Center"
+#~ msgstr "מרכז תחתון"
+
+#~ msgid "Bottom Right"
+#~ msgstr "תחתון ימין"
+
+#~ msgid "Scroll"
+#~ msgstr "גלילה"
+
+#~ msgid "fixed"
+#~ msgstr "קבוע"
+
+#~ msgid "Padding Top"
+#~ msgstr "ריווח עליון:"
+
+#~ msgid "Padding Bottom"
+#~ msgstr "ריווח תחתון:"
+
+#~ msgid "Row Setting"
+#~ msgstr "הגדרות שורה"
+
+#~ msgid "Delete"
+#~ msgstr "מחיקה"
+
+#~ msgid "Close"
+#~ msgstr "סגירה"
+
+#~ msgid "Text Button:"
+#~ msgstr "טקסט כפתור:"
+
+#~ msgid "Link:"
+#~ msgstr "קישור:"
+
+#, fuzzy
+#~ msgid "http://pojo.me/"
+#~ msgstr "ברוך הבא ל Pojo.me!"
+
+#~ msgid "Size:"
+#~ msgstr "גודל:"
+
+#~ msgid "Small"
+#~ msgstr "קטן"
+
+#~ msgid "Medium"
+#~ msgstr "רגיל"
+
+#~ msgid "Large"
+#~ msgstr "גדול"
+
+#~ msgid "Align:"
+#~ msgstr "יישור:"
+
+#~ msgid "Right"
+#~ msgstr "ימין"
+
+#~ msgid "Left"
+#~ msgstr "שמאל"
+
+#~ msgid "Block"
+#~ msgstr "בלוק"
+
+#~ msgid "Button"
+#~ msgstr "כפתור"
+
+#~ msgid "Divider Style:"
+#~ msgstr "סגנון מפריד"
+
+#~ msgid "Solid"
+#~ msgstr "קו אחיד"
+
+#~ msgid "Space"
+#~ msgstr "מרווח"
+
+#~ msgid "Double"
+#~ msgstr "קו כפול"
+
+#~ msgid "Dotted"
+#~ msgstr "קו מנוקד"
+
+#~ msgid "Dashed"
+#~ msgstr "קו מקווקו"
+
+#~ msgid "Divider Color:"
+#~ msgstr "צבע מפריד:"
+
+#~ msgid "Width:"
+#~ msgstr "רוחב:"
+
+#~ msgid "Center"
+#~ msgstr "מרכז"
+
+#~ msgid "Margin Top:"
+#~ msgstr "ריווח עליון:"
+
+#~ msgid "Margin Bottom:"
+#~ msgstr "ריווח תחתון:"
+
+#~ msgid "Divider"
+#~ msgstr "מפריד"
+
+#~ msgid "No have any register Rev Slider in website"
+#~ msgstr "לא מצאו סליידר של Rev Slider במערכת"
+
+#, fuzzy
+#~ msgid "Rev Slider:"
+#~ msgstr "לא מצאו סליידר של Rev Slider במערכת"
+
+#, fuzzy
+#~ msgid "Rev Slider"
+#~ msgstr "לא מצאו סליידר של Rev Slider במערכת"
+
+#~ msgid "Heading Size:"
+#~ msgstr "גודל כותרת:"
+
+#~ msgid "H1"
+#~ msgstr "H1"
+
+#~ msgid "H3"
+#~ msgstr "H3"
+
+#~ msgid "H4"
+#~ msgstr "H4 - כותרת גריד"
+
+#~ msgid "H5"
+#~ msgstr "H5 - כותרת וידג'ט"
+
+#~ msgid "Title Widget"
+#~ msgstr "וידג'ט כותרת"
+
+#~ msgid "Editor:"
+#~ msgstr "עורך:"
+
+#~ msgid "Text Editor"
+#~ msgstr "עורך טקסט"
+
+#~ msgid "Editor"
+#~ msgstr "עורך טקסט"
+
+#, fuzzy
+#~ msgid "Page Builder"
+#~ msgstr "כותרת עמוד"
+
+#~ msgid "Page Format"
+#~ msgstr "פורמט עמוד"
+
+#~ msgid "Format"
+#~ msgstr "פורמט"
+
+#~ msgid "Layout"
+#~ msgstr "פריסת עמוד"
+
+#~ msgid "Select Taxonomy"
+#~ msgstr "סוג קטגוריה"
+
+#~ msgid "Blog with thumbnail (List) or Gallery with columns (Grid)"
+#~ msgstr "תצוגת בלוג עם תמונות (רשימה) או תצוגת עמודות (גריד)"
+
+#~ msgid "Posts Per Page"
+#~ msgstr "מספר פוסטים בעמוד"
+
+#~ msgid "Meta Data"
+#~ msgstr "פרטי פוסט"
+
+#~ msgid "Time"
+#~ msgstr "זמן"
+
+#~ msgid "Comments"
+#~ msgstr "תגובות"
+
+#~ msgid "Author"
+#~ msgstr "מחבר"
+
+#~ msgid "Excerpt Post"
+#~ msgstr "תקציר פוסט"
+
+#~ msgid "Excerpt"
+#~ msgstr "תקציר"
+
+#~ msgid "Number Words"
+#~ msgstr "מספר מילים"
+
+#~ msgid "Read More"
+#~ msgstr "קרא עוד"
+
+#~ msgid "Text Read More"
+#~ msgstr "טקסט קרא עוד"
+
+#~ msgid "Sidebar Right"
+#~ msgstr "סרגל ימני"
+
+#~ msgid "Sidebar Left"
+#~ msgstr "סרגל שמאלי"
+
+#~ msgid "100% width"
+#~ msgstr "100% רוחב"
+
+#~ msgid "Page Header"
+#~ msgstr "באנר עמוד"
+
+#~ msgid "Default Background"
+#~ msgstr "רקע ברירת מחדל"
+
+#~ msgid "Don't Display"
+#~ msgstr "לא להציג"
+
+#~ msgid "Page Header Style"
+#~ msgstr "סגנון כותרת עמוד"
+
+#~ msgid "Custom Title"
+#~ msgstr "כותרת מותאמת אישית"
+
+#~ msgid "Page Header Slider"
+#~ msgstr "סליידר כותרת עמוד"
+
+#~ msgid "Choose from Revolution Slider"
+#~ msgstr "בחירה מתוך Rev Slider"
+
+#~ msgid "NO Found any Slideshows"
+#~ msgstr "לא נמצאו מצגות"
+
+#~ msgid "Page Header Slideshow"
+#~ msgstr "מצגת באנר עמוד"
+
+#~ msgid "Sharing"
+#~ msgstr "שיתוף"
+
+#~ msgid "Hide sharing buttons"
+#~ msgstr "להסתיר כפתורי שיתוף"
+
+#~ msgid "Advanced Options"
+#~ msgstr "אפשרויות מתקדמות"
+
+#~ msgid "General Settings"
+#~ msgstr "הגדרות כלליות"
+
+#~ msgid "Page Title"
+#~ msgstr "כותרת עמוד"
+
+#~ msgid "If you want to Hide/Show the Page Title."
+#~ msgstr "ניתן להסתיר/להציג את הכותרת של העמוד"
+
+#~ msgid "Breadcrumbs"
+#~ msgstr "לינקים פנימיים"
+
+#~ msgid "Choose Layout"
+#~ msgstr "בחירת פריסה"
+
+#~ msgid "&mdash; Select &mdash;"
+#~ msgstr "&mdash; בחירה &mdash;"
+
+#~ msgid "Posts:"
+#~ msgstr "פוסטים:"
+
+#~ msgid "Archive:"
+#~ msgstr "ארכיון:"
+
+#~ msgid "Content Settings"
+#~ msgstr "הגדרות תוכן"
+
+#~ msgid "Content"
+#~ msgstr "תוכן"
+
+#~ msgid ""
+#~ "Log into your google analytics account to find your ID. e.g. UA-XXXXX-X"
+#~ msgstr ""
+#~ "היכנס לחשבון Google Analytics כדי למצוא את קוד ה ID שלך. למשל UA-XXXXX-X"
+
+#~ msgid "Integrations"
+#~ msgstr "אינטגרציות"
+
+#~ msgid ""
+#~ "Google Analytics is a free service offered by Google that generates "
+#~ "detailed statistics about the visitors to a website."
+#~ msgstr ""
+#~ "Google Analytics הוא שירות חינם המוצע על ידי גוגל על מנת לאסוף ולהציג "
+#~ "נתונים סטטיסטיים מפורטים על המבקרים באתר."
+
+#~ msgid "Favicon Upload"
+#~ msgstr "העלאת אייקון (Favicon)"
+
+#~ msgid "Upload Icon for any Browser (16x16px ico/png)"
+#~ msgstr "העלאת אייקון (16x16px ico/png)"
+
+#~ msgid "Apple Touch Icon iPhone"
+#~ msgstr "אייקון לאייפון"
+
+#~ msgid "Upload Icon for Apple iPhone (57x57 png)"
+#~ msgstr "העלאת אייקון עבור אייפון (57x57 png)"
+
+#~ msgid "Apple Touch Icon iPhone retina"
+#~ msgstr "אייקון אייפון (Retina)"
+
+#~ msgid "Upload Icon for Apple iPhone Retina Version (114x114 png)"
+#~ msgstr "העלאת אייקון עבור אייפון במצב רטינה (114x114 png)"
+
+#~ msgid "Apple Touch Icon iPad"
+#~ msgstr "אייקון לאייפד"
+
+#~ msgid "Upload Icon for Apple iPad (72x72 png)"
+#~ msgstr "העלאת אייקון עבור אייפד (72x72 png)"
+
+#~ msgid "Apple Touch Icon iPad retina"
+#~ msgstr "אייקוד לאייפד (Retina)"
+
+#~ msgid "Upload Icon for Apple iPad Retina Version (144x144 png)"
+#~ msgstr "העלאת אייקון עבור אייפד במצב רטינה (144x144 png)"
+
+#~ msgid "Custom Favicons"
+#~ msgstr "אייקונים מותאמים אישית"
+
+#~ msgid "Right Text"
+#~ msgstr "טקסט משמאל"
+
+#, fuzzy
+#~ msgid "Powered by <a href=\"%s\">WordPress</a>"
+#~ msgstr "באמצעות <a href=\"%s\">%s</a> / %s"
+
+#~ msgid "Left Text"
+#~ msgstr "טקסט מימין"
+
+#~ msgid "Copyright Text"
+#~ msgstr "טקסט קרדיט"
+
+#~ msgid "Theme Options"
+#~ msgstr "אפשרויות תבנית"
+
+#~ msgid "You have entered an invalid e-mail address."
+#~ msgstr "יש להזין כתובת אימייל חוקית."
+
+#~ msgid "Primary Menu"
+#~ msgstr "תפריט ראשי"
+
+#~ msgid "Primary Mobile Menu"
+#~ msgstr "תפריט מובייל ראשי"
+
+#~ msgid "Read More &raquo;"
+#~ msgstr "קרא עוד &larr;"
+
+#~ msgid "Edit"
+#~ msgstr "עריכה"
+
+#~ msgid "Open Visual Editor"
+#~ msgstr "פתיחת עורך טקסט"
+
+#~ msgid "No have any options."
+#~ msgstr "לא נמצאו אפשרויות."
+
+#~ msgid "No have any terms."
+#~ msgstr "לא נמצאו קטגוריות"
+
+#~ msgid "Video Link:"
+#~ msgstr "קישור וידאו:"
+
+#~ msgid "Video"
+#~ msgstr "וידאו"
+
+#~ msgid "Address field text:"
+#~ msgstr "כתובת שדה טקסט"
+
+#~ msgid "Ibn Gabirol 69, Tel Aviv-Yafo israel"
+#~ msgstr "אבן גבירול 69, תל אביב-יפו, ישראל"
+
+#~ msgid "Zoom:"
+#~ msgstr "תקריב:"
+
+#~ msgid "Maps"
+#~ msgstr "מפות"
+
+#~ msgid "Choose Image:"
+#~ msgstr "בחירת תמונה:"
+
+#~ msgid "Caption:"
+#~ msgstr "כיתוב תמונה:"
+
+#~ msgid "Image"
+#~ msgstr "תמונה"
+
+#~ msgid "Facebook Page URL:"
+#~ msgstr "קישור לעמוד הפייסבוק:"
+
+#~ msgid "Height:"
+#~ msgstr "גובה:"
+
+#~ msgid "Color Scheme"
+#~ msgstr "סגנון צבע"
+
+#~ msgid "Light"
+#~ msgstr "בהיר"
+
+#~ msgid "Dark"
+#~ msgstr "כהה"
+
+#~ msgid "Show Friends' Faces"
+#~ msgstr "הצגת תמונות חברים"
+
+#~ msgid "Show Posts"
+#~ msgstr "הצגת פוסטים"
+
+#~ msgid "Show Header"
+#~ msgstr "הצגת הידר"
+
+#~ msgid "Show Border"
+#~ msgstr "הצגת מסגרת"
+
+#~ msgid "Sunday"
+#~ msgstr "ראשון"
+
+#~ msgid "Monday"
+#~ msgstr "שני"
+
+#~ msgid "Tuesday"
+#~ msgstr "שלישי"
+
+#~ msgid "Wednesday"
+#~ msgstr "רביעי"
+
+#~ msgid "Thursday"
+#~ msgstr "חמישי"
+
+#~ msgid "Friday"
+#~ msgstr "שישי"
+
+#~ msgid "Saturday"
+#~ msgstr "שבת"
+
+#~ msgid ""
+#~ "Week starts by <a href=\"%s\" target=\"_blank\">General Settings</a>."
+#~ msgstr "השבוע מתחיל לפי <a href=\"%s\" target=\"_blank\">הגדרות כלליות</a>."
+
+#~ msgid "Hours"
+#~ msgstr "שעות"
+
+#~ msgid "Opening Hours Widget"
+#~ msgstr "וידגט שעות פתיחה"
+
+#~ msgid "List"
+#~ msgstr "רשימה"
+
+#~ msgid "Grid Three"
+#~ msgstr "גריד - 3 עמודות"
+
+#~ msgid "Grid Four"
+#~ msgstr "גריד - 4 עמודות"
+
+#~ msgid "Number Posts:"
+#~ msgstr "מספר פוסטים:"
+
+#~ msgid "Thumbnail:"
+#~ msgstr "תמונה ראשית:"
+
+#~ msgid "Except:"
+#~ msgstr "תקציר:"
+
+#~ msgid "Number Words:"
+#~ msgstr "מספר מילים:"
+
+#~ msgid "Posts"
+#~ msgstr "פוסטים"
+
+#~ msgid "Content not found. Please select a category."
+#~ msgstr "תוכן לא נמצא, יש לבחור קטגוריה."
+
+#~ msgid "Do not show anything"
+#~ msgstr "לא מציג שום דבר"
+
+#~ msgid "Post Type:"
+#~ msgstr "סוג פוסט:"
+
+#~ msgid "Sort by:"
+#~ msgstr "סידור לפי:"
+
+#~ msgid "Post title"
+#~ msgstr "כותרת פוסט"
+
+#~ msgid "Page order"
+#~ msgstr "סידור לפי"
+
+#~ msgid "Page ID"
+#~ msgstr "מקט עמוד"
+
+#~ msgid "Exclude:"
+#~ msgstr "למעט:"
+
+#~ msgid "Page IDs, separated by commas."
+#~ msgstr "מספרי עמודים, מחולקים בפסיקים."
+
+#~ msgid "Show menu if no found sub pages:"
+#~ msgstr "הצגת תפריט אם אין עמודי משנה"
+
+#~ msgid "Sub Page Menu"
+#~ msgstr "תפריט עמודי משנה"
+
+#~ msgid "Show menu if no found posts:"
+#~ msgstr "הצגת תפריט אם אין עמודי משנה"
+
+#, fuzzy
+#~ msgid "R-Title:"
+#~ msgstr "כותרת"
+
+#~ msgid "Tabs"
+#~ msgstr "לשוניות"
+
+#~ msgid "Description"
+#~ msgstr "תיאור"
+
+#~ msgid "Address"
+#~ msgstr "כתובת"
+
+#~ msgid "Phone"
+#~ msgstr "טלפון"
+
+#~ msgid "Fax"
+#~ msgstr "פקס"
+
+#~ msgid "Mobile"
+#~ msgstr "נייד"
+
+#~ msgid "Contact Info"
+#~ msgstr "פרטי קשר"
+
+#~ msgid "Contact Info Widget"
+#~ msgstr "וידגט פרטי קשר"
+
+#~ msgid "Select Exclude Social:"
+#~ msgstr "אל תציג את הרשתות הבאות"
+
+#~ msgid "Social"
+#~ msgstr "שיתוף"
+
+#~ msgid "Social Widget"
+#~ msgstr "וידג'ט שיתוף"
+
+#~ msgid "Please setup Menu <a href=\"%s\">here</a>"
+#~ msgstr "יש להגדיר תפריט ראשי ב<a href=\"%s\">אזור התפריטים</a>"
+
+#~ msgid "Site Name"
+#~ msgstr "שם אתר"
+
+#~ msgid "Choose Logo"
+#~ msgstr "בחירת לוגו"
+
+#~ msgid "Percent Size"
+#~ msgstr "גודל באחוזים"
+
+#~ msgid "Logo Margin Top"
+#~ msgstr "ריווח עליון מעל הלוגו"
+
+#~ msgid "Logo"
+#~ msgstr "לוגו"
+
+#~ msgid "Background"
+#~ msgstr "רקע"
+
+#~ msgid "Body Text"
+#~ msgstr "טקסט כללי"
+
+#~ msgid "Link Hover"
+#~ msgstr "מעבר על קישור"
+
+#~ msgid "H1 - Page Title"
+#~ msgstr "H1 - כותרת עמוד"
+
+#~ msgid "H3 - List Title"
+#~ msgstr "H3 - כותרת רשימה"
+
+#~ msgid "H4 - Grid Title"
+#~ msgstr "H4 - כותרת גריד"
+
+#~ msgid "H5 - Widget Title"
+#~ msgstr "H5 - כותרת וידג'ט"
+
+#~ msgid "Typography"
+#~ msgstr "טיפוגרפיה"
+
+#~ msgid "Height"
+#~ msgstr "גובה"
+
+#~ msgid "Menu Primary"
+#~ msgstr "תפריט ראשי"
+
+#~ msgid "Menu Hover"
+#~ msgstr "מעבר טקסט על התפריט"
+
+#~ msgid "Header"
+#~ msgstr "הידר"
+
+#~ msgid "Style"
+#~ msgstr "סגנון"
+
+#~ msgid "Custom Background"
+#~ msgstr "רקע מותאם אישית"
+
+#~ msgid "Transparent Background"
+#~ msgstr "רקע שקוף"
+
+#~ msgid "Choose Page Layout"
+#~ msgstr "פריסת עמוד"
+
+#~ msgid "Choose Post Layout"
+#~ msgstr "פריסת פוסט"
+
+#~ msgid "Text"
+#~ msgstr "טקסט"
+
+#~ msgid "Widget Title"
+#~ msgstr "כותרת וידג'ט"
+
+#~ msgid "Footer"
+#~ msgstr "פוטר"
+
+#~ msgid "Copyright"
+#~ msgstr "קרדיט"
+
+#~ msgid "List - without Thumbnail"
+#~ msgstr "רשימה - ללא תמונות"
+
+#~ msgid "List - Small Thumbnail"
+#~ msgstr "רשימה - עם תמונות"
+
+#~ msgid "Grid - Three Columns"
+#~ msgstr "גריד - 3 עמודות"
+
+#~ msgid "Grid - Four Columns"
+#~ msgstr "גריד - 4 עמודות"
+
+#~ msgid "Main Sidebar"
+#~ msgstr "סרגל צדדי ראשי"
+
+#~ msgid "These are widgets for the Main Sidebar"
+#~ msgstr "וידג'טים עבור סרגל צדדי ראשי"
+
+#~ msgid "These are widgets for the Footer"
+#~ msgstr "וידג'טים עבור סרגל פוטר"
+
+#~ msgid "Not found <br /><small>Sorry, this page could not be found !</small>"
+#~ msgstr "לא נמצא<br /><small>מצטערים, דף זה לא נמצא!</small>"
+
+#~ msgid "Atlanta"
+#~ msgstr "אטלנטה"
+
+#, fuzzy
+#~ msgid "Pojo"
+#~ msgstr "פוג'ו"
+
+#~ msgid "Daily Archives: %s"
+#~ msgstr "ארכיון יומי: %s"
+
+#~ msgid "Monthly Archives: %s"
+#~ msgstr "ארכיון חודשי: %s"
+
+#, fuzzy
+#~ msgctxt "monthly archives date format"
+#~ msgid "F Y"
+#~ msgstr "חזרה לאורך"
+
+#~ msgid "Yearly Archives: %s"
+#~ msgstr "ארכיון שנתי: %s"
+
+#, fuzzy
+#~ msgctxt "yearly archives date format"
+#~ msgid "Y"
+#~ msgstr "חזרה לאורך"
+
+#~ msgid "Archives"
+#~ msgstr "ארכיון"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "תוצאות חיפוש עבור: %s"
+
+#~ msgid "Search"
+#~ msgstr "חיפוש"
+
+#~ msgid "Widget Header Margin Top"
+#~ msgstr "ריווח עליון מעל סרגל הידר"
+
+#~ msgid "Border Color Header"
+#~ msgstr "צבע בודר עליון"
+
+#~ msgid "Menu Background"
+#~ msgstr "רקע תפריט"
+
+#~ msgid "Sub Menu - Background"
+#~ msgstr "רקע תפריט משנה"
+
+#~ msgid "Sub Menu - BG Hover"
+#~ msgstr "מעבר רקע על התפריט"
+
+#~ msgid "Sub Menu"
+#~ msgstr "תפריט משנה"
+
+#~ msgid "Sub Menu - Hover"
+#~ msgstr "מעבר על התפריט משנה"
+
+#~ msgid "These are widgets for the Header"
+#~ msgstr "וידג'טים עבור סרגל הידר"
+
+#~ msgid "Categories"
+#~ msgstr "קטגוריות"
+
+#~ msgid "Padding Left"
+#~ msgstr "ריווח שמאלי"
+
+#~ msgid "Padding Right"
+#~ msgstr "ריווח ימני"
+
+#~ msgid "Grid"
+#~ msgstr "גריד"
+
+#, fuzzy
+#~ msgid "<a href=\"%s\">Create your own website</a>"
+#~ msgstr "<a href=\"%s\">התחברות</a> למשתמשים רשומים"
+
+#, fuzzy
+#~ msgid "Sub Menu - Text"
+#~ msgstr "תפריט עמודי משנה"
+
+#, fuzzy
+#~ msgid "Sub Menu - Link Hover"
+#~ msgstr "מעבר על קישור"
+
+#~ msgid "Sort Posts"
+#~ msgstr "סידור פוסטים"
+
+#~ msgid "E-mail Address"
+#~ msgstr "כתובת אימייל"
+
+#~ msgid "This address is used for admin purposes."
+#~ msgstr "מצטערים, כתובת זו כבר תפוסה במערכת."
+
+#~ msgid "Site Language"
+#~ msgstr "שפת אתר"
+
+#~ msgid "Change website language only (not Dashboard)."
+#~ msgstr "לשנות את שפת האתר (לא את שפת לוח הבקרה)."
+
+#~ msgid "Week Start on"
+#~ msgstr "שבוע מתחיל ב:"
+
+#~ msgid "Search Engine Visibility"
+#~ msgstr "נראות למנועי חיפוש"
+
+#~ msgid "Discourage search engines from indexing this site"
+#~ msgstr "לא לאפשר למנועי חיפוש לאנדקס אתר זה"
+
+#~ msgid "It is up to search engines to honor this request."
+#~ msgstr "מנועי חיפוש לא חייבים לכבד בקשה זו."
+
+#~ msgid "Privacy"
+#~ msgstr "פרטיות"
+
+#~ msgid "Default post settings"
+#~ msgstr "הגדרות פוסט ברירת מחדל"
+
+#~ msgid "Allow people to post comments on new posts"
+#~ msgstr "לאפשר לגולשים להגיב על פוסטים חדשים"
+
+#~ msgid "(These settings may be overridden for individual posts.)"
+#~ msgstr "(ניתן לשנות את ההגדרה הזאת בכל פוסט בנפרד)"
+
+#~ msgid "E-mail me whenever"
+#~ msgstr "שלח אלי אימייל בכל פעם"
+
+#~ msgid "Anyone posts a comment"
+#~ msgstr "על כל תגובה"
+
+#~ msgid "Discussion"
+#~ msgstr "תגובות"
+
+#~ msgid "Advanced"
+#~ msgstr "מתקדם"
+
+#~ msgid "Front page"
+#~ msgstr "עמוד ראשי"
+
+#~ msgid "posts"
+#~ msgstr "פוסטים"
+
+#~ msgid "Media"
+#~ msgstr "מדיה"
+
+#~ msgid "Framework"
+#~ msgstr "פריימוורק"
+
+#~ msgid "Scroll (Horizontal)"
+#~ msgstr "גלילה רוחבית"
+
+#~ msgid "Excerpt Length by Words"
+#~ msgstr "אורך תקציר"
+
+#~ msgid "Full"
+#~ msgstr "רוחב מלא"
+
+#~ msgid "Meta Data - Comments"
+#~ msgstr "פרטי תגובות"
+
+#~ msgid "Comment"
+#~ msgstr "תגובה:"
+
+#~ msgid "Submit Comment"
+#~ msgstr "הוספת תגובה"
+
+#~ msgid "Navigate to..."
+#~ msgstr "עבור אל"
+
+#~ msgid "Please setup header menu"
+#~ msgstr "נא להגדיר את התפריט העליון"
+
+#, fuzzy
+#~ msgid "Next &rarr;"
+#~ msgstr "&rarr; תגובות חדשות"
+
+#~ msgid "All Gallery Categories"
+#~ msgstr "כל הקטגוריות גלריה"
+
+#, fuzzy
+#~ msgid "Parent Gallery Category"
+#~ msgstr "קטגוריית פורטפוליו"
+
+#, fuzzy
+#~ msgid "Parent Gallery Category:"
+#~ msgstr "קטגוריית פורטפוליו"
+
+#, fuzzy
+#~ msgid "Food Items"
+#~ msgstr "+ הוספת פריט"
+
+#, fuzzy
+#~ msgid "Food Item"
+#~ msgstr "+ הוספת פריט"
+
+#, fuzzy
+#~ msgid "Add New Item"
+#~ msgstr "הוספת חדש"
+
+#, fuzzy
+#~ msgid "Edit Item"
+#~ msgstr "+ הוספת פריט"
+
+#, fuzzy
+#~ msgid "All Food Items"
+#~ msgstr "כל הפוסטים"
+
+#, fuzzy
+#~ msgid "No items found in Trash"
+#~ msgstr "לא נמצאו תוצאות"
+
+#, fuzzy
+#~ msgid "Menu Categories"
+#~ msgstr "קטגוריות"
+
+#, fuzzy
+#~ msgid "Search Menu Categories"
+#~ msgstr "קטגוריות"
+
+#, fuzzy
+#~ msgid "All Menu Categories"
+#~ msgstr "קטגוריות"
+
+#, fuzzy
+#~ msgid "Parent Menu Category"
+#~ msgstr "קטגוריית פורטפוליו"
+
+#, fuzzy
+#~ msgid "Parent Menu Category:"
+#~ msgstr "קטגוריית פורטפוליו"
+
+#~ msgid "Content (drag&drop)"
+#~ msgstr "תוכן (גרור & והשלך)"
+
+#~ msgid "cancel"
+#~ msgstr "ביטול"
+
+#~ msgid "Add Shortcode"
+#~ msgstr "הוספת שורטקוד"
+
+#~ msgid "Shortcode filter..."
+#~ msgstr "סינון שורטקוד..."
+
+#~ msgid "Back to Shortcode Manager"
+#~ msgstr "חזרה למנהל השורטקודים"
+
+#~ msgid "Insert Shortcode"
+#~ msgstr "הכנסת שורטקוד"
+
+#, fuzzy
+#~ msgid "Insert Animation Shortcode"
+#~ msgstr "הכנסת שורטקוד"
+
+#, fuzzy
+#~ msgid "Insert Carousel Shortcode"
+#~ msgstr "הכנסת שורטקוד"
+
+#, fuzzy
+#~ msgid "Insert Food Items Shortcode"
+#~ msgstr "הכנסת שורטקוד"
+
+#, fuzzy
+#~ msgid "Header Align"
+#~ msgstr "תמונת סאב הידר"
+
+#, fuzzy
+#~ msgid "Insert Icon Shortcode"
+#~ msgstr "הכנסת שורטקוד"
+
+#, fuzzy
+#~ msgid "Insert Icon List Shortcode"
+#~ msgstr "הכנסת שורטקוד"
+
+#, fuzzy
+#~ msgid "Read More »"
+#~ msgstr "קרא עוד &rarr;"
+
+#, fuzzy
+#~ msgid "Insert Staff Shortcode"
+#~ msgstr "הכנסת שורטקוד"
+
+#, fuzzy
+#~ msgid "Rounded"
+#~ msgstr "מומלץ"
+
+#, fuzzy
+#~ msgid "Insert Testimonials Shortcode"
+#~ msgstr "הכנסת שורטקוד"
+
+#, fuzzy
+#~ msgid "Insert Visibility Shortcode"
+#~ msgstr "הכנסת שורטקוד"
+
+#, fuzzy
+#~ msgid "Sidebars"
+#~ msgstr "סרגל צדדי ראשי"
+
+#~ msgid "Chose Sidebar"
+#~ msgstr "בחירת סרגל צדדי"
+
+#~ msgid "Default Sidebar"
+#~ msgstr "סרגל צדדי ברירת מחדל"
+
+#~ msgid "Image Background"
+#~ msgstr "תמונת רקע"
+
+#~ msgid "Sub Header Style"
+#~ msgstr "סגנון כותרת עמוד"
+
+#~ msgid "Header Image"
+#~ msgstr "תמונת סאב הידר"
+
+#, fuzzy
+#~ msgid "Height Sub Header"
+#~ msgstr "גובה סאב הידר"
+
+#, fuzzy
+#~ msgid "Default: %s"
+#~ msgstr "ברירת מחדל"
+
+#, fuzzy
+#~ msgid "Sub Header Title"
+#~ msgstr "סגנון כותרת עמוד"
+
+#, fuzzy
+#~ msgid "Sub Header Description"
+#~ msgstr "סגנון כותרת עמוד"
+
+#, fuzzy
+#~ msgid "Add Posts to Page"
+#~ msgstr "מספר פוסטים בעמוד"
+
+#, fuzzy
+#~ msgid "Select Post Type to view in the Page."
+#~ msgstr "בחירת פוסט טייפ שיוצג בעמוד"
+
+#, fuzzy
+#~ msgid "Add Read More"
+#~ msgstr "קרא עוד &rarr;"
+
+#, fuzzy
+#~ msgid "Hide page content"
+#~ msgstr "הצגת תוכן עמוד"
+
+#~ msgid "Smart Page"
+#~ msgstr "אפשרויות עמוד"
+
+#, fuzzy
+#~ msgid "Sub Header Image"
+#~ msgstr "תמונת סאב הידר"
+
+#, fuzzy
+#~ msgid "Post Options"
+#~ msgstr "תגיות פורטפוליו"
+
+#, fuzzy
+#~ msgid "ARYO Themes Options"
+#~ msgstr "אפשרויות תבנית"
+
+#, fuzzy
+#~ msgid "<h2>Breadcrumbs</h2>"
+#~ msgstr "הצגת לינקים פנימיים"
+
+#, fuzzy
+#~ msgid "Enable Breadcrumbs"
+#~ msgstr "הצגת לינקים פנימיים"
+
+#, fuzzy
+#~ msgid "Show/Hide breadcrumbs Menu"
+#~ msgstr "הצגת לינקים פנימיים"
+
+#, fuzzy
+#~ msgid "<h2>Background</h2>"
+#~ msgstr "הצגת לינקים פנימיים"
+
+#, fuzzy
+#~ msgid "Upload your logo image"
+#~ msgstr "העלאת לוגו"
+
+#, fuzzy
+#~ msgid "Default: 30px"
+#~ msgstr "ברירת מחדל"
+
+#, fuzzy
+#~ msgid "Default: 0px"
+#~ msgstr "ברירת מחדל"
+
+#, fuzzy
+#~ msgid "<h2>Header</h2>"
+#~ msgstr "הצגת לינקים פנימיים"
+
+#, fuzzy
+#~ msgid "Top Bar Background"
+#~ msgstr "רקע שקוף"
+
+#, fuzzy
+#~ msgid "Info Bar Background"
+#~ msgstr "תמונת רקע"
+
+#, fuzzy
+#~ msgid "<h2>Sub Header</h2>"
+#~ msgstr "סגנון כותרת עמוד"
+
+#, fuzzy
+#~ msgid "Default Sub Header Style"
+#~ msgstr "סגנון כותרת עמוד"
+
+#, fuzzy
+#~ msgid "Primary Title"
+#~ msgstr "תפריט ראשי"
+
+#, fuzzy
+#~ msgid "Small Title"
+#~ msgstr "כותרת משנה"
+
+#, fuzzy
+#~ msgid "Breadcrumbs Style"
+#~ msgstr "הצגת לינקים פנימיים"
+
+#, fuzzy
+#~ msgid "<h2>General Style</h2>"
+#~ msgstr "הצגת לינקים פנימיים"
+
+#, fuzzy
+#~ msgid "<h2>Titles</h2>"
+#~ msgstr "הצגת לינקים פנימיים"
+
+#, fuzzy
+#~ msgid "Title Grid - Two Columns"
+#~ msgstr "תגיות פורטפוליו"
+
+#, fuzzy
+#~ msgid "Hide page title"
+#~ msgstr "הצג כותרת עמוד"
+
+#, fuzzy
+#~ msgid "Chose Layout Default"
+#~ msgstr "בחירת מבנה עמוד"
+
+#, fuzzy
+#~ msgid "Full Width, Right Sidebar, Left Sidebar"
+#~ msgstr "סרגל ימני"
+
+#, fuzzy
+#~ msgid "Chose Sidebar Default"
+#~ msgstr "בחירת סרגל צדדי"
+
+#, fuzzy
+#~ msgid "Default: Read More"
+#~ msgstr "סרגל צדדי ברירת מחדל"
+
+#, fuzzy
+#~ msgid "Display Meta"
+#~ msgstr "תצוגה"
+
+#, fuzzy
+#~ msgid "Post & Page"
+#~ msgstr "מספר פוסטים בעמוד"
+
+#~ msgid "Footer Code"
+#~ msgstr "קוד פוטר"
+
+#~ msgid "Portfolios"
+#~ msgstr "פורטפוליו‬"
+
+#~ msgid "Portfolio"
+#~ msgstr "פורטפוליו‬"
+
+#~ msgid "Add New Portfolio"
+#~ msgstr "הוספת פורטפוליו חדש"
+
+#~ msgid "Edit Portfolio"
+#~ msgstr "עריכת פורטפוליו"
+
+#~ msgid "New Portfolio"
+#~ msgstr "פורטפוליו חדש"
+
+#~ msgid "All Portfolios"
+#~ msgstr "כל הפורטפוליו"
+
+#~ msgid "View Portfolio"
+#~ msgstr "הצג פורטפוליו"
+
+#~ msgid "Portfolio Categories"
+#~ msgstr "קטגוריות פורטפוליו"
+
+#~ msgid "Show Sidebar in Posts"
+#~ msgstr "הצגת סרגל צדדי בתוך הפוסטים"
+
+#~ msgid "Show Sub header in Posts"
+#~ msgstr "הצגת סאב הידר בתוך הפוסטים"
+
+#, fuzzy
+#~ msgid "All rights reserved to %s %d"
+#~ msgstr "כל הזכויות שמורות ל%s"
+
+#, fuzzy
+#~ msgid "Default: 38px"
+#~ msgstr "ברירת מחדל"
+
+#, fuzzy
+#~ msgid "Search Icon Color"
+#~ msgstr "חיפוש תיק פורטפוליו"
+
+#, fuzzy
+#~ msgid "Project Details"
+#~ msgstr "הצגת פרטים"
+
+#, fuzzy
+#~ msgid "Client:"
+#~ msgstr "לקוחות"
+
+#~ msgid "Sub Desc"
+#~ msgstr "כותרת משנה"
+
+#~ msgid "Portfolio Tags"
+#~ msgstr "תגיות פורטפוליו"
+
+#~ msgid "Portfolio Tag"
+#~ msgstr "תגית פורטפוליו"
+
+#~ msgid "Tags"
+#~ msgstr "תגיות"
+
+#~ msgid "Display Sub Header"
+#~ msgstr "הצגת סאב הידר"
+
+#~ msgid "Posted on %s at %s."
+#~ msgstr "פורסם ב-%s בשעה %s"
+
+#~ msgid "Written by"
+#~ msgstr "נכתב על ידי"
+
+#~ msgid "Comments are closed."
+#~ msgstr "אפשרות התגובות סגורה"
+
+#~ msgid "One Response to &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s Responses to &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "תגובה אחת ל &ldquo;%2$s&rdquo;"
+#~ msgstr[1] "%1$s תגובות ל &ldquo;%2$s&rdquo;"
+
+#~ msgid "Email (will not be published):"
+#~ msgstr "דוא\"ל (לא יפורסם):"
+
+#~ msgid "Reset"
+#~ msgstr "איפוס"
+
+#, fuzzy
+#~ msgid "Page"
+#~ msgstr "עמוד %s"
+
+#~ msgid "Previous &larr;"
+#~ msgstr "אחורה &larr;"
+
+#~ msgid "&rarr; Next"
+#~ msgstr "&rarr; הבא"

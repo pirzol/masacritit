@@ -1,0 +1,444 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pojo-importer 1.2.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-21 15:23+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/class-pojo-importer-handler.php:95
+#: includes/wordpress-importer/wordpress-importer.php:952
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:41
+#: includes/class-pojo-importer-settings.php:56
+#: includes/class-pojo-importer-settings.php:68
+msgid "Please upload a file to import"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:82
+msgid "The demo content has been successfully imported!"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:86
+msgid "The customizer content has been successfully imported!"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:90
+msgid "The widgets content has been successfully imported!"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:125
+msgid "English"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:126
+msgid "Hebrew"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:240
+#: includes/class-pojo-importer-settings.php:241
+#: includes/class-pojo-importer-settings.php:265
+msgid "Demo Import"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:267
+msgid ""
+"Using the demo import allows you to import all the demo content (Posts, "
+"Pages, Galleries, Slideshows, WooCommerce), Widgets, Menus, Customizer and "
+"Front Page."
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:269
+#: includes/class-pojo-importer-settings.php:361
+#, php-format
+msgid ""
+"If you want to import all of the <a href=\"%s\" target=\"_blank"
+"\">WooCommerce</a> content, you must install the plugin before importing."
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:271
+#: includes/class-pojo-importer-settings.php:363
+msgid ""
+"Note: Due to copyright reasons, demo images will be replaced a placeholder "
+"image."
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:277
+#, php-format
+msgid ""
+"Please <a href=\"%s\">activate the Elementor plugin</a> before importing the "
+"demo content."
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:288
+msgid "Choose your language"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:300
+msgid "The demo content (Posts, Pages, Galleries, Slideshows, WooCommerce)"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:307
+msgid "Widgets"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:314
+msgid "Menus"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:321
+msgid "Customizer"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:328
+msgid "Front Page"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:333
+#: includes/class-pojo-importer-settings.php:375
+msgid ""
+"Please Note: If there is content in the existing site, you may not want to "
+"import the demo content, it could change the content structure."
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:334
+msgid "Import"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:339
+#, php-format
+msgid ""
+"Problem with an auto demo import? Please go to the <a href=\"%s\">Demo "
+"Import - Manual Installation</a> to manually import the files from your "
+"computer"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:348
+msgid "Demo Import (Manual Installation)"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:348
+msgid "Back to Auto Installation"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:351
+msgid ""
+"Using the demo import allows you to import all the demo content (Posts, "
+"Pages, Galleries, Slideshows, WooCommerce, Menus and Front Page), Customizer "
+"and Widgets."
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:353
+msgid ""
+"<strong>Need Help?</strong> Please go to <a href=\"http://pojo.me/go/demo-"
+"import-guide/\">Demo Import Guide</a> to learn more."
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:359
+#: includes/class-pojo-importer-settings.php:377
+msgid "Import Content"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:361
+msgid ""
+"The demo content: Posts, Pages, Galleries, Slideshows, WooCommerce, Front "
+"Page and Menus."
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:365
+msgid ""
+"Upload content file and we'll import the content into this site. Choose a "
+"content-en.xml file to upload, then click Import Content."
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:371
+msgid "Choose an XML file:"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:384
+#: includes/class-pojo-importer-settings.php:398
+msgid "Import Customizer"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:386
+msgid ""
+"Upload your Customizer Settings file and we'll import the options into this "
+"site. Choose a customizer-en.json file to upload, then click Import "
+"Customizer."
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:393
+#: includes/class-pojo-importer-settings.php:412
+msgid "Choose a JSON file:"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:405
+#: includes/class-pojo-importer-settings.php:417
+msgid "Import Widgets"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:407
+msgid ""
+"Upload widgets file and we'll import the content into this site. Choose a "
+"widgets-en.json file to upload, then click Import Widgets."
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:434
+msgid "Loading"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:451
+#, php-format
+msgid "All done. <a href=\"%s\">Have fun!</a>"
+msgstr ""
+
+#: includes/class-pojo-importer-settings.php:478
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/wordpress-importer/parsers.php:42
+#: includes/wordpress-importer/parsers.php:72
+#: includes/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: includes/wordpress-importer/parsers.php:84
+#: includes/wordpress-importer/parsers.php:89
+#: includes/wordpress-importer/parsers.php:306
+#: includes/wordpress-importer/parsers.php:495
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:132
+#: includes/wordpress-importer/wordpress-importer.php:141
+#: includes/wordpress-importer/wordpress-importer.php:192
+#: includes/wordpress-importer/wordpress-importer.php:196
+#: includes/wordpress-importer/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:322
+msgid "- Select -"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:372
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:516
+#: includes/wordpress-importer/wordpress-importer.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:642
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:704
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:869
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:876
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:939
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:996
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:1002
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:1009
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:1014
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:1020
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:1119
+msgid "Import WordPress"
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:1126
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:1141
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: includes/wordpress-importer/wordpress-importer.php:1142
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: pojo-importer.php:63 pojo-importer.php:74
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: pojo-importer.php:93
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Pojo Theme</a> is not active. Please "
+"activate any theme by Pojo.me before you are using \"Pojo Importer\" plugin."
+msgstr ""
+
+#: pojo-importer.php:97
+#, php-format
+msgid ""
+"The Pojo Importer is not supported by this version of %s. Please <a href=\"%s"
+"\">upgrade the theme to its latest version</a>."
+msgstr ""

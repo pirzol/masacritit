@@ -1,0 +1,1531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor Extras 1.0.4\n"
+"POT-Creation-Date: 2017-07-01 12:47+0200\n"
+"PO-Revision-Date: 2017-07-01 12:48+0200\n"
+"Last-Translator: Namogo <office@namogo.com>\n"
+"Language-Team: Namogo <shop@namogo.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: lib\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+"X-Poedit-SearchPathExcluded-3: languages\n"
+
+#: elementor-extras.php:109
+msgid ""
+"Please make sure you update Elementor to the latest version in order for "
+"Elementor Extras to work properly."
+msgstr ""
+
+#: elementor-extras.php:123
+msgid "Elementor Extras needs at least PHP version "
+msgstr ""
+
+#: elementor-extras.php:138
+msgid ""
+"Please update Elementor to the latest version to be able to activate "
+"Elementor Extras"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:59
+#: includes/extensions/portfolio.php:43 includes/extensions/sticky.php:45
+msgid "Extras"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:67
+#: includes/widgets/button-group.php:198 includes/widgets/button-group.php:419
+#: includes/widgets/devices.php:147 includes/widgets/heading-extended.php:116
+#: includes/widgets/hotspots.php:76 includes/widgets/hotspots.php:672
+#: includes/widgets/image-comparison.php:142
+#: includes/widgets/text-divider.php:88 includes/widgets/timeline.php:514
+#: includes/widgets/timeline.php:599
+msgid "Alignment"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:72
+#: includes/extensions/section-parallax.php:71
+#: includes/widgets/button-group.php:203 includes/widgets/button-group.php:424
+#: includes/widgets/devices.php:152 includes/widgets/heading-extended.php:120
+#: includes/widgets/heading-extended.php:311 includes/widgets/hotspots.php:80
+#: includes/widgets/hotspots.php:676 includes/widgets/image-comparison.php:147
+#: includes/widgets/text-divider.php:93 includes/widgets/timeline.php:519
+msgid "Left"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:76
+#: includes/widgets/button-group.php:207 includes/widgets/button-group.php:428
+#: includes/widgets/devices.php:156 includes/widgets/heading-extended.php:124
+#: includes/widgets/hotspots.php:84 includes/widgets/hotspots.php:680
+#: includes/widgets/image-comparison.php:151
+#: includes/widgets/text-divider.php:97 includes/widgets/timeline.php:523
+msgid "Center"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:80
+#: includes/extensions/section-parallax.php:72
+#: includes/widgets/button-group.php:211 includes/widgets/button-group.php:432
+#: includes/widgets/devices.php:160 includes/widgets/heading-extended.php:128
+#: includes/widgets/heading-extended.php:307 includes/widgets/hotspots.php:88
+#: includes/widgets/hotspots.php:684 includes/widgets/image-comparison.php:155
+#: includes/widgets/text-divider.php:101 includes/widgets/timeline.php:527
+msgid "Right"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:84
+#: includes/widgets/button-group.php:436
+#: includes/widgets/heading-extended.php:132
+msgid "Justified"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:95
+#: includes/widgets/button-group.php:388
+#: includes/widgets/image-comparison.php:200
+#: includes/widgets/text-divider.php:121
+msgid "Vertical Alignment"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:100
+#: includes/widgets/button-group.php:393
+#: includes/widgets/circle-progress.php:107 includes/widgets/devices.php:253
+#: includes/widgets/devices.php:380 includes/widgets/heading-extended.php:305
+#: includes/widgets/hotspots.php:254 includes/widgets/image-comparison.php:205
+#: includes/widgets/text-divider.php:126 includes/widgets/timeline.php:604
+msgid "Top"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:104
+#: includes/widgets/button-group.php:397
+#: includes/widgets/circle-progress.php:111 includes/widgets/devices.php:257
+#: includes/widgets/devices.php:384 includes/widgets/image-comparison.php:209
+#: includes/widgets/text-divider.php:130 includes/widgets/timeline.php:608
+msgid "Middle"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:108
+#: includes/widgets/button-group.php:401
+#: includes/widgets/circle-progress.php:115 includes/widgets/devices.php:261
+#: includes/widgets/devices.php:388 includes/widgets/heading-extended.php:309
+#: includes/widgets/hotspots.php:253 includes/widgets/image-comparison.php:213
+#: includes/widgets/text-divider.php:134 includes/widgets/timeline.php:612
+msgid "Bottom"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:112
+#: includes/widgets/button-group.php:405
+#: includes/widgets/circle-progress.php:119
+msgid "Stretch"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:123
+msgid "Image Size Ratio"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:149
+msgid "Horizontal spacing"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:169
+msgid "Vertical spacing"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:189
+#: includes/extensions/portfolio.php:50 includes/widgets/devices.php:396
+msgid "Parallax"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:192
+#: includes/extensions/portfolio.php:53
+#: includes/extensions/section-parallax.php:51
+#: includes/extensions/sticky.php:56 includes/widgets/button-group.php:495
+#: includes/widgets/circle-progress.php:157 includes/widgets/devices.php:133
+#: includes/widgets/devices.php:318 includes/widgets/devices.php:447
+#: includes/widgets/devices.php:506 includes/widgets/devices.php:523
+#: includes/widgets/devices.php:540 includes/widgets/devices.php:557
+#: includes/widgets/devices.php:574 includes/widgets/devices.php:590
+#: includes/widgets/devices.php:657 includes/widgets/timeline.php:141
+#: includes/widgets/timeline.php:211 includes/widgets/timeline.php:637
+msgid "Yes"
+msgstr ""
+
+#: includes/extensions/image-gallery.php:193
+#: includes/extensions/portfolio.php:54
+#: includes/extensions/section-parallax.php:52
+#: includes/extensions/sticky.php:57 includes/widgets/button-group.php:496
+#: includes/widgets/circle-progress.php:158 includes/widgets/devices.php:134
+#: includes/widgets/devices.php:319 includes/widgets/devices.php:448
+#: includes/widgets/devices.php:507 includes/widgets/devices.php:524
+#: includes/widgets/devices.php:541 includes/widgets/devices.php:558
+#: includes/widgets/devices.php:575 includes/widgets/devices.php:591
+#: includes/widgets/devices.php:658 includes/widgets/timeline.php:142
+#: includes/widgets/timeline.php:212 includes/widgets/timeline.php:638
+msgid "No"
+msgstr ""
+
+#: includes/extensions/section-parallax.php:47
+msgid "Enable Parallax"
+msgstr ""
+
+#: includes/extensions/section-parallax.php:48
+#, php-format
+msgid ""
+"Parallax cannot be previewed inside the editor. You need to %1$s visit the "
+"page %2$s."
+msgstr ""
+
+#: includes/extensions/section-parallax.php:65
+#: includes/widgets/heading-extended.php:302
+msgid "Direction"
+msgstr ""
+
+#: includes/extensions/section-parallax.php:69
+msgid "Up"
+msgstr ""
+
+#: includes/extensions/section-parallax.php:70
+msgid "Down"
+msgstr ""
+
+#: includes/extensions/section-parallax.php:83
+msgid "Speed"
+msgstr ""
+
+#: includes/extensions/sticky.php:52
+msgid "Sticky"
+msgstr ""
+
+#: includes/extensions/sticky.php:53
+msgid ""
+"Enables sticky on this element. Only works if parent column and section both "
+"have \"Content Position\" set to \"Default\""
+msgstr ""
+
+#: includes/extensions/sticky.php:66
+msgid "Offset Top"
+msgstr ""
+
+#: includes/licensing.php:80 includes/licensing.php:114
+#, php-format
+msgid "%s License"
+msgstr ""
+
+#: includes/licensing.php:124
+msgid "On this page you can add your licensing information."
+msgstr ""
+
+#: includes/licensing.php:130
+msgid "License Key"
+msgstr ""
+
+#: includes/licensing.php:143
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/licensing.php:145
+msgid "Activate License"
+msgstr ""
+
+#: includes/licensing.php:148
+msgid "Save"
+msgstr ""
+
+#: includes/licensing.php:164
+#, php-format
+msgid ""
+"Insert your %s license information to enable future updates (including bug "
+"fixes and new features) and gain access to support."
+msgstr ""
+
+#: includes/licensing.php:191
+msgid "Active"
+msgstr ""
+
+#: includes/licensing.php:193
+msgid "Inactive"
+msgstr ""
+
+#: includes/licensing.php:286 includes/licensing.php:333
+#: includes/licensing.php:399
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: includes/licensing.php:300
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: includes/licensing.php:307
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: includes/licensing.php:312
+msgid "Invalid license."
+msgstr ""
+
+#: includes/licensing.php:318
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: includes/licensing.php:323
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: includes/licensing.php:328
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: includes/licensing.php:433
+#, php-format
+msgid "Please %1$sactivate your license%2$s key to enable updates for %3$s."
+msgstr ""
+
+#: includes/tracker.php:228
+msgid "Once a month"
+msgstr ""
+
+#: includes/updater.php:198
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: includes/updater.php:206
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: includes/updater.php:393
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/updater.php:393
+msgid "Error"
+msgstr ""
+
+#: includes/widgets/button-group.php:28 includes/widgets/button-group.php:381
+msgid "Button Group"
+msgstr ""
+
+#: includes/widgets/button-group.php:55 includes/widgets/button-group.php:361
+#: includes/widgets/button-group.php:507
+msgid "Buttons"
+msgstr ""
+
+#: includes/widgets/button-group.php:63 includes/widgets/hotspots.php:124
+#: includes/widgets/timeline.php:167
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/button-group.php:68
+#: includes/widgets/circle-progress.php:245
+#: includes/widgets/circle-progress.php:416 includes/widgets/hotspots.php:131
+#: includes/widgets/text-divider.php:52 includes/widgets/text-divider.php:59
+#: includes/widgets/text-divider.php:154
+msgid "Text"
+msgstr ""
+
+#: includes/widgets/button-group.php:70 includes/widgets/button-group.php:71
+msgid "Click me"
+msgstr ""
+
+#: includes/widgets/button-group.php:78
+#: includes/widgets/heading-extended.php:66 includes/widgets/timeline.php:181
+msgid "Link"
+msgstr ""
+
+#: includes/widgets/button-group.php:90 includes/widgets/timeline.php:221
+msgid "Icon"
+msgstr ""
+
+#: includes/widgets/button-group.php:100
+msgid "Icon Position"
+msgstr ""
+
+#: includes/widgets/button-group.php:104
+#: includes/widgets/circle-progress.php:93
+#: includes/widgets/text-divider.php:330
+msgid "Before"
+msgstr ""
+
+#: includes/widgets/button-group.php:105
+#: includes/widgets/circle-progress.php:92
+#: includes/widgets/text-divider.php:354
+msgid "After"
+msgstr ""
+
+#: includes/widgets/button-group.php:116
+msgid "Icon Spacing"
+msgstr ""
+
+#: includes/widgets/button-group.php:137
+#: includes/widgets/heading-extended.php:146 includes/widgets/hotspots.php:102
+msgid "View"
+msgstr ""
+
+#: includes/widgets/button-group.php:146 includes/widgets/hotspots.php:148
+msgid "CSS ID"
+msgstr ""
+
+#: includes/widgets/button-group.php:150 includes/widgets/hotspots.php:152
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: includes/widgets/button-group.php:157 includes/widgets/hotspots.php:159
+msgid "CSS Classes"
+msgstr ""
+
+#: includes/widgets/button-group.php:161 includes/widgets/hotspots.php:164
+msgid "Add your custom class WITHOUT the dot. e.g: my-class"
+msgstr ""
+
+#: includes/widgets/button-group.php:167 includes/widgets/timeline.php:485
+msgid "Layout"
+msgstr ""
+
+#: includes/widgets/button-group.php:172 includes/widgets/devices.php:61
+msgid "Type"
+msgstr ""
+
+#: includes/widgets/button-group.php:176 includes/widgets/button-group.php:272
+#: includes/widgets/button-group.php:451 includes/widgets/devices.php:214
+#: includes/widgets/devices.php:950 includes/widgets/heading-extended.php:83
+#: includes/widgets/hotspots.php:468 includes/widgets/tables.php:109
+#: includes/widgets/timeline.php:645 includes/widgets/timeline.php:810
+msgid "Default"
+msgstr ""
+
+#: includes/widgets/button-group.php:177
+msgid "Info"
+msgstr ""
+
+#: includes/widgets/button-group.php:178
+msgid "Success"
+msgstr ""
+
+#: includes/widgets/button-group.php:179
+msgid "Warning"
+msgstr ""
+
+#: includes/widgets/button-group.php:180
+msgid "Danger"
+msgstr ""
+
+#: includes/widgets/button-group.php:188
+#: includes/widgets/circle-progress.php:271
+#: includes/widgets/heading-extended.php:79
+#: includes/widgets/heading-extended.php:282 includes/widgets/hotspots.php:541
+#: includes/widgets/hotspots.php:637 includes/widgets/timeline.php:815
+msgid "Size"
+msgstr ""
+
+#: includes/widgets/button-group.php:224 includes/widgets/timeline.php:204
+msgid "Style"
+msgstr ""
+
+#: includes/widgets/button-group.php:229
+msgid "Animation"
+msgstr ""
+
+#: includes/widgets/button-group.php:238 includes/widgets/devices.php:786
+#: includes/widgets/devices.php:1040 includes/widgets/devices.php:1148
+#: includes/widgets/hotspots.php:711
+msgid "Border"
+msgstr ""
+
+#: includes/widgets/button-group.php:247 includes/widgets/devices.php:798
+#: includes/widgets/devices.php:884 includes/widgets/hotspots.php:406
+#: includes/widgets/hotspots.php:436 includes/widgets/hotspots.php:719
+#: includes/widgets/text-divider.php:232 includes/widgets/timeline.php:622
+#: includes/widgets/timeline.php:1014
+msgid "Border Radius"
+msgstr ""
+
+#: includes/widgets/button-group.php:258
+msgid "Text Padding"
+msgstr ""
+
+#: includes/widgets/button-group.php:280 includes/widgets/button-group.php:316
+#: includes/widgets/circle-progress.php:424
+#: includes/widgets/heading-extended.php:192
+msgid "Text Color"
+msgstr ""
+
+#: includes/widgets/button-group.php:292 includes/widgets/button-group.php:328
+#: includes/widgets/hotspots.php:487 includes/widgets/hotspots.php:583
+#: includes/widgets/hotspots.php:741 includes/widgets/image-comparison.php:282
+#: includes/widgets/image-comparison.php:321
+#: includes/widgets/image-comparison.php:362
+#: includes/widgets/text-divider.php:211 includes/widgets/text-divider.php:313
+#: includes/widgets/timeline.php:663 includes/widgets/timeline.php:693
+#: includes/widgets/timeline.php:723 includes/widgets/timeline.php:861
+#: includes/widgets/timeline.php:914 includes/widgets/timeline.php:955
+msgid "Background Color"
+msgstr ""
+
+#: includes/widgets/button-group.php:308 includes/widgets/devices.php:1058
+#: includes/widgets/hotspots.php:269 includes/widgets/hotspots.php:564
+#: includes/widgets/image-comparison.php:314 includes/widgets/tables.php:133
+#: includes/widgets/timeline.php:675
+msgid "Hover"
+msgstr ""
+
+#: includes/widgets/button-group.php:343
+msgid "Border Color"
+msgstr ""
+
+#: includes/widgets/button-group.php:365
+msgid "Button #1"
+msgstr ""
+
+#: includes/widgets/button-group.php:368
+msgid "Button #2"
+msgstr ""
+
+#: includes/widgets/button-group.php:447
+msgid "Buttons Gap"
+msgstr ""
+
+#: includes/widgets/button-group.php:452
+msgid "No Gap"
+msgstr ""
+
+#: includes/widgets/button-group.php:453
+msgid "Narrow"
+msgstr ""
+
+#: includes/widgets/button-group.php:454
+msgid "Extended"
+msgstr ""
+
+#: includes/widgets/button-group.php:455
+msgid "Wide"
+msgstr ""
+
+#: includes/widgets/button-group.php:456
+msgid "Wider"
+msgstr ""
+
+#: includes/widgets/button-group.php:457 includes/widgets/devices.php:265
+#: includes/widgets/devices.php:392 includes/widgets/timeline.php:63
+#: includes/widgets/timeline.php:209
+msgid "Custom"
+msgstr ""
+
+#: includes/widgets/button-group.php:466
+msgid "Custom Gap"
+msgstr ""
+
+#: includes/widgets/button-group.php:491
+msgid "Stack"
+msgstr ""
+
+#: includes/widgets/button-group.php:492
+msgid "Enable to stack buttons. Use this to stack buttons on tablet or mobile."
+msgstr ""
+
+#: includes/widgets/button-group.php:516
+#: includes/widgets/heading-extended.php:212
+msgid "Typography"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:29
+msgid "Circle Progress"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:53
+#: includes/widgets/circle-progress.php:263
+msgid "Circle"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:60
+#: includes/widgets/circle-progress.php:365
+msgid "Value"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:79
+msgid "Suffix"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:88
+msgid "Suffix Position"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:102
+msgid "Suffix Vertical Alignment"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:130
+msgid "Suffix Top Offset"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:154
+msgid "Reverse Animation"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:166
+msgid "Easing"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:170
+msgid "easeInQuad"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:171
+msgid "easeOutQuad"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:172
+msgid "easeInOutQuad"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:173
+msgid "easeInCubic"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:174
+msgid "easeOutCubic"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:175
+msgid "easeInOutCubic"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:176
+msgid "easeInQuart"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:177
+msgid "easeOutQuart"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:178
+msgid "easeInOutQuart"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:179
+msgid "easeInQuint"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:180
+msgid "easeOutQuint"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:181
+msgid "easeInOutQuint"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:182
+msgid "easeInSine"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:183
+msgid "easeOutSine"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:184
+msgid "easeInOutSine"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:185
+msgid "easeInExpo"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:186
+msgid "easeOutExpo"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:187
+msgid "easeInOutExpo"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:188
+msgid "easeInCirc"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:189
+msgid "easeOutCirc"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:190
+msgid "easeInOutCirc"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:191
+msgid "easeInElastic"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:192
+msgid "easeOutElastic"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:193
+msgid "easeInOutElastic"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:194
+msgid "easeInBack"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:195
+msgid "easeOutBack"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:196
+msgid "easeInOutBack"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:197
+msgid "easeInBounce"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:198
+msgid "easeOutBounce"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:199
+msgid "easeInOutBounce"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:207
+msgid "Duration (ms)"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:225
+msgid "Appear Offset"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:226
+msgid ""
+"Specifies the offset, relative to when the widget enteres the viewport, "
+"after which the animation starts"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:254
+msgid ""
+"I am text block. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: includes/widgets/circle-progress.php:288
+msgid "Thickness (%)"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:305
+msgid "Line Cap"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:309
+msgid "Butt"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:310
+msgid "Round"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:311
+msgid "Square"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:321
+#: includes/widgets/circle-progress.php:336
+#: includes/widgets/heading-extended.php:267 includes/widgets/hotspots.php:475
+#: includes/widgets/hotspots.php:571 includes/widgets/hotspots.php:758
+#: includes/widgets/image-comparison.php:297
+#: includes/widgets/image-comparison.php:337
+#: includes/widgets/image-comparison.php:378 includes/widgets/tables.php:116
+#: includes/widgets/tables.php:140 includes/widgets/text-divider.php:196
+#: includes/widgets/timeline.php:650 includes/widgets/timeline.php:680
+#: includes/widgets/timeline.php:710
+msgid "Color"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:351
+msgid "Empty Fill"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:373
+msgid "Value Color"
+msgstr ""
+
+#: includes/widgets/circle-progress.php:389
+msgid "Suffix Color"
+msgstr ""
+
+#: includes/widgets/devices.php:28
+msgid "Devices"
+msgstr ""
+
+#: includes/widgets/devices.php:54 includes/widgets/devices.php:645
+msgid "Device"
+msgstr ""
+
+#: includes/widgets/devices.php:66
+msgid "Phone"
+msgstr ""
+
+#: includes/widgets/devices.php:70
+msgid "Tablet"
+msgstr ""
+
+#: includes/widgets/devices.php:74
+msgid "Laptop"
+msgstr ""
+
+#: includes/widgets/devices.php:78
+msgid "Desktop"
+msgstr ""
+
+#: includes/widgets/devices.php:82
+msgid "Window"
+msgstr ""
+
+#: includes/widgets/devices.php:92
+msgid "Media Type"
+msgstr ""
+
+#: includes/widgets/devices.php:96 includes/widgets/hotspots.php:49
+#: includes/widgets/hotspots.php:368 includes/widgets/tables.php:85
+msgid "Image"
+msgstr ""
+
+#: includes/widgets/devices.php:97 includes/widgets/devices.php:469
+#: includes/widgets/devices.php:481
+msgid "Video"
+msgstr ""
+
+#: includes/widgets/devices.php:105
+msgid "Orientation"
+msgstr ""
+
+#: includes/widgets/devices.php:110
+msgid "Portrait"
+msgstr ""
+
+#: includes/widgets/devices.php:114 includes/widgets/devices.php:335
+msgid "Landscape"
+msgstr ""
+
+#: includes/widgets/devices.php:129
+msgid "Orientation Control"
+msgstr ""
+
+#: includes/widgets/devices.php:130
+msgid "Show orientation swticher "
+msgstr ""
+
+#: includes/widgets/devices.php:173 includes/widgets/hotspots.php:325
+msgid "Maximum Width"
+msgstr ""
+
+#: includes/widgets/devices.php:202 includes/widgets/devices.php:773
+msgid "Screen"
+msgstr ""
+
+#: includes/widgets/devices.php:221 includes/widgets/devices.php:347
+msgid "Choose Screenshot"
+msgstr ""
+
+#: includes/widgets/devices.php:236 includes/widgets/devices.php:361
+msgid "Screenshot Size"
+msgstr ""
+
+#: includes/widgets/devices.php:248 includes/widgets/devices.php:375
+msgid "Vertical Align"
+msgstr ""
+
+#: includes/widgets/devices.php:269
+msgid "Parallax (coming soon)"
+msgstr ""
+
+#: includes/widgets/devices.php:288 includes/widgets/devices.php:416
+msgid "Offset Top (%)"
+msgstr ""
+
+#: includes/widgets/devices.php:315 includes/widgets/devices.php:444
+msgid "Scrollable"
+msgstr ""
+
+#: includes/widgets/devices.php:488
+msgctxt "Background Control"
+msgid "Video Link"
+msgstr ""
+
+#: includes/widgets/devices.php:491
+msgid "Insert URL to local video file (mp4 is recommended)"
+msgstr ""
+
+#: includes/widgets/devices.php:503
+msgid "Show Controls"
+msgstr ""
+
+#: includes/widgets/devices.php:519
+msgid "Show Rewind"
+msgstr ""
+
+#: includes/widgets/devices.php:520
+msgid "Shown only when video is paused."
+msgstr ""
+
+#: includes/widgets/devices.php:537
+msgid "Auto Play"
+msgstr ""
+
+#: includes/widgets/devices.php:553
+msgid "Play in Viewport"
+msgstr ""
+
+#: includes/widgets/devices.php:554
+msgid "Auto Play video when the device is in viewport"
+msgstr ""
+
+#: includes/widgets/devices.php:571
+msgid "Restart on pause"
+msgstr ""
+
+#: includes/widgets/devices.php:587
+msgid "Loop"
+msgstr ""
+
+#: includes/widgets/devices.php:605
+msgid "Cover"
+msgstr ""
+
+#: includes/widgets/devices.php:615
+msgid "Choose Cover"
+msgstr ""
+
+#: includes/widgets/devices.php:627
+msgid "Cover Size"
+msgstr ""
+
+#: includes/widgets/devices.php:653
+msgid "Override Style"
+msgstr ""
+
+#: includes/widgets/devices.php:654
+msgid "Override default device style"
+msgstr ""
+
+#: includes/widgets/devices.php:666
+msgid "Skin"
+msgstr ""
+
+#: includes/widgets/devices.php:670
+msgid "Jet black"
+msgstr ""
+
+#: includes/widgets/devices.php:671
+msgid "Black"
+msgstr ""
+
+#: includes/widgets/devices.php:672
+msgid "Silver"
+msgstr ""
+
+#: includes/widgets/devices.php:673
+msgid "Gold"
+msgstr ""
+
+#: includes/widgets/devices.php:674
+msgid "Rose Gold"
+msgstr ""
+
+#: includes/widgets/devices.php:689
+msgid "Frame"
+msgstr ""
+
+#: includes/widgets/devices.php:700
+msgid "Device Background"
+msgstr ""
+
+#: includes/widgets/devices.php:718
+msgid "Overlay"
+msgstr ""
+
+#: includes/widgets/devices.php:729
+msgid "Tone"
+msgstr ""
+
+#: includes/widgets/devices.php:733
+msgid "Light"
+msgstr ""
+
+#: includes/widgets/devices.php:734
+msgid "Dark"
+msgstr ""
+
+#: includes/widgets/devices.php:747 includes/widgets/devices.php:845
+#: includes/widgets/hotspots.php:376 includes/widgets/hotspots.php:503
+#: includes/widgets/hotspots.php:599
+msgid "Opacity (%)"
+msgstr ""
+
+#: includes/widgets/devices.php:817
+msgid "Video Overlay"
+msgstr ""
+
+#: includes/widgets/devices.php:829
+msgid "Background"
+msgstr ""
+
+#: includes/widgets/devices.php:872
+msgid "Video Controls"
+msgstr ""
+
+#: includes/widgets/devices.php:900 includes/widgets/image-comparison.php:120
+#: includes/widgets/image-comparison.php:398
+msgid "Size (%)"
+msgstr ""
+
+#: includes/widgets/devices.php:924
+msgid "Controls Spacing"
+msgstr ""
+
+#: includes/widgets/devices.php:957 includes/widgets/devices.php:1065
+msgid "Controls Background"
+msgstr ""
+
+#: includes/widgets/devices.php:973 includes/widgets/devices.php:1081
+msgid "Controls Color"
+msgstr ""
+
+#: includes/widgets/devices.php:989 includes/widgets/devices.php:1097
+msgid "Controls Opacity (%)"
+msgstr ""
+
+#: includes/widgets/devices.php:1014 includes/widgets/devices.php:1122
+msgid "Icon Size (em)"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:25
+msgid "Extended Heading"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:49
+#: includes/widgets/heading-extended.php:56 includes/widgets/timeline.php:444
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:58
+msgid "Enter your title"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:59
+msgid "This is heading element"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:84
+msgid "Small"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:85
+msgid "Medium"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:86
+msgid "Large"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:87
+msgid "XL"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:88
+msgid "XXL"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:96
+#: includes/widgets/text-divider.php:68
+msgid "HTML Tag"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:99
+#: includes/widgets/text-divider.php:71
+msgid "H1"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:100
+#: includes/widgets/text-divider.php:72
+msgid "H2"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:101
+#: includes/widgets/text-divider.php:73
+msgid "H3"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:102
+#: includes/widgets/text-divider.php:74
+msgid "H4"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:103
+#: includes/widgets/text-divider.php:75
+msgid "H5"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:104
+#: includes/widgets/text-divider.php:76
+msgid "H6"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:105
+#: includes/widgets/text-divider.php:77
+msgid "div"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:106
+#: includes/widgets/text-divider.php:78
+msgid "span"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:107
+#: includes/widgets/text-divider.php:79
+msgid "p"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:157
+#: includes/widgets/heading-extended.php:165
+msgid "Fill"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:168
+msgid "Solid"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:169
+msgid "Gradient"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:231
+#: includes/widgets/heading-extended.php:239
+msgid "Shadow"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:242
+msgid "None"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:243
+msgid "Classic"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:244
+msgid "Long"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:306
+msgid "Top Right"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:308
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:310
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/widgets/heading-extended.php:312
+msgid "Top Left"
+msgstr ""
+
+#: includes/widgets/hotspots.php:29 includes/widgets/hotspots.php:113
+#: includes/widgets/hotspots.php:216 includes/widgets/hotspots.php:428
+#: includes/widgets/tables.php:63 includes/widgets/tables.php:97
+msgid "Hotspots"
+msgstr ""
+
+#: includes/widgets/hotspots.php:56
+msgid "Choose Image"
+msgstr ""
+
+#: includes/widgets/hotspots.php:68
+msgid "Image Size"
+msgstr ""
+
+#: includes/widgets/hotspots.php:129
+msgid "X"
+msgstr ""
+
+#: includes/widgets/hotspots.php:141
+msgid "I am a tooltip for a hotspot"
+msgstr ""
+
+#: includes/widgets/hotspots.php:170 includes/widgets/hotspots.php:249
+msgid "Position"
+msgstr ""
+
+#: includes/widgets/hotspots.php:175
+msgid "Horizontal position (%)"
+msgstr ""
+
+#: includes/widgets/hotspots.php:193
+msgid "Vertical position (%)"
+msgstr ""
+
+#: includes/widgets/hotspots.php:239 includes/widgets/hotspots.php:664
+#: includes/widgets/tables.php:74
+msgid "Tooltips"
+msgstr ""
+
+#: includes/widgets/hotspots.php:265
+msgid "Trigger"
+msgstr ""
+
+#: includes/widgets/hotspots.php:270
+msgid "Click"
+msgstr ""
+
+#: includes/widgets/hotspots.php:281
+msgid "Arrow"
+msgstr ""
+
+#: includes/widgets/hotspots.php:285
+msgid "Show"
+msgstr ""
+
+#: includes/widgets/hotspots.php:286
+msgid "Hide"
+msgstr ""
+
+#: includes/widgets/hotspots.php:300
+msgid "Distance"
+msgstr ""
+
+#: includes/widgets/hotspots.php:301
+msgid "The distance between the tooltip and the hotspot. Defaults to 6px"
+msgstr ""
+
+#: includes/widgets/hotspots.php:348
+msgid "zIndex"
+msgstr ""
+
+#: includes/widgets/hotspots.php:349
+msgid "Adjust the z-index of the tooltips. Defaults to 999"
+msgstr ""
+
+#: includes/widgets/hotspots.php:398 includes/widgets/timeline.php:1006
+msgid "Image Border"
+msgstr ""
+
+#: includes/widgets/hotspots.php:525 includes/widgets/hotspots.php:621
+#: includes/widgets/text-divider.php:224
+msgid "Text Border"
+msgstr ""
+
+#: includes/widgets/hotspots.php:698 includes/widgets/text-divider.php:184
+#: includes/widgets/timeline.php:587 includes/widgets/timeline.php:759
+msgid "Padding"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:26
+msgid "Image Comparison"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:52
+msgid "Images & Labels"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:59
+msgid "Choose Original Image"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:70
+msgid "Choose Modified Image"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:84
+msgid "Original Label"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:86
+#: includes/widgets/image-comparison.php:87
+msgid "Original"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:97
+msgid "Modified Label"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:99
+#: includes/widgets/image-comparison.php:100
+msgid "Modified"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:112
+msgid "Widget"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:170
+msgid "Labels"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:178
+msgid "Spacing (em)"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:224
+msgid "Original Color"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:239
+msgid "Modified Color"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:265
+msgid "Handle"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:275
+msgid "Normal"
+msgstr ""
+
+#: includes/widgets/image-comparison.php:355
+msgid "Dragged"
+msgstr ""
+
+#: includes/widgets/tables.php:28
+msgid "Tables"
+msgstr ""
+
+#: includes/widgets/tables.php:52
+msgid "Rows"
+msgstr ""
+
+#: includes/widgets/text-divider.php:28 includes/widgets/text-divider.php:61
+msgid "Text Divider"
+msgstr ""
+
+#: includes/widgets/text-divider.php:114 includes/widgets/text-divider.php:263
+msgid "Divider"
+msgstr ""
+
+#: includes/widgets/text-divider.php:138
+msgid "Baseline"
+msgstr ""
+
+#: includes/widgets/text-divider.php:162
+msgid "Text Spacing"
+msgstr ""
+
+#: includes/widgets/text-divider.php:271
+msgid "Width"
+msgstr ""
+
+#: includes/widgets/text-divider.php:292
+msgid "Height"
+msgstr ""
+
+#: includes/widgets/timeline.php:34 includes/widgets/timeline.php:156
+msgid "Timeline"
+msgstr ""
+
+#: includes/widgets/timeline.php:59
+msgid "Source"
+msgstr ""
+
+#: includes/widgets/timeline.php:68 includes/widgets/timeline.php:70
+#: includes/widgets/timeline.php:424
+msgid "Posts"
+msgstr ""
+
+#: includes/widgets/timeline.php:76
+msgid "Settings"
+msgstr ""
+
+#: includes/widgets/timeline.php:105
+msgid "Oups, hang on!"
+msgstr ""
+
+#: includes/widgets/timeline.php:108
+msgid "This feature is only available if you have Elementor Pro."
+msgstr ""
+
+#: includes/widgets/timeline.php:111
+msgid "Go Pro"
+msgstr ""
+
+#: includes/widgets/timeline.php:126
+msgid "Posts Per Page"
+msgstr ""
+
+#: includes/widgets/timeline.php:139
+msgid "Enable Links"
+msgstr ""
+
+#: includes/widgets/timeline.php:144
+msgid "Enable links at card level."
+msgstr ""
+
+#: includes/widgets/timeline.php:172 includes/widgets/timeline.php:443
+msgid "Date"
+msgstr ""
+
+#: includes/widgets/timeline.php:174
+msgid "19 January 2000"
+msgstr ""
+
+#: includes/widgets/timeline.php:190
+msgctxt "Default title for the content of a hotspot."
+msgid "The birth of mankind"
+msgstr ""
+
+#: includes/widgets/timeline.php:191
+msgctxt "Default title for the content of a hotspot."
+msgid ""
+"Something really big happened around this period of time. It affected all of "
+"humanity. That explains everything."
+msgstr ""
+
+#: includes/widgets/timeline.php:214
+msgid "Set custom style that will only affect this specific item."
+msgstr ""
+
+#: includes/widgets/timeline.php:239
+msgid "Icon Color"
+msgstr ""
+
+#: includes/widgets/timeline.php:260
+msgid "Point Background"
+msgstr ""
+
+#: includes/widgets/timeline.php:281
+msgid "Focused Point Background"
+msgstr ""
+
+#: includes/widgets/timeline.php:302
+msgid "Card Background"
+msgstr ""
+
+#: includes/widgets/timeline.php:324
+msgid "Focused Card Background"
+msgstr ""
+
+#: includes/widgets/timeline.php:346
+msgid "Point Size"
+msgstr ""
+
+#: includes/widgets/timeline.php:384
+msgid "Items"
+msgstr ""
+
+#: includes/widgets/timeline.php:388
+msgid "February 2, 2014"
+msgstr ""
+
+#: includes/widgets/timeline.php:391
+msgid "May 10, 2015"
+msgstr ""
+
+#: includes/widgets/timeline.php:394
+msgid "June 21, 2016"
+msgstr ""
+
+#: includes/widgets/timeline.php:412
+msgid "Query"
+msgstr ""
+
+#: includes/widgets/timeline.php:431
+msgid "Advanced"
+msgstr ""
+
+#: includes/widgets/timeline.php:439
+msgid "Order By"
+msgstr ""
+
+#: includes/widgets/timeline.php:445
+msgid "Menu Order"
+msgstr ""
+
+#: includes/widgets/timeline.php:446
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/timeline.php:454
+msgid "Order"
+msgstr ""
+
+#: includes/widgets/timeline.php:458
+msgid "ASC"
+msgstr ""
+
+#: includes/widgets/timeline.php:459
+msgid "DESC"
+msgstr ""
+
+#: includes/widgets/timeline.php:467
+msgid "Offset"
+msgstr ""
+
+#: includes/widgets/timeline.php:537
+msgid "Horizontal Spacing"
+msgstr ""
+
+#: includes/widgets/timeline.php:557
+msgid "Vertical Spacing"
+msgstr ""
+
+#: includes/widgets/timeline.php:579
+msgid "Cards"
+msgstr ""
+
+#: includes/widgets/timeline.php:634
+msgid "Animate Cards"
+msgstr ""
+
+#: includes/widgets/timeline.php:705 includes/widgets/timeline.php:887
+msgid "Focused"
+msgstr ""
+
+#: includes/widgets/timeline.php:751
+msgid "Dates"
+msgstr ""
+
+#: includes/widgets/timeline.php:771
+msgid "Margin"
+msgstr ""
+
+#: includes/widgets/timeline.php:794
+msgid "Points"
+msgstr ""
+
+#: includes/widgets/timeline.php:802
+msgid "Choose Icon"
+msgstr ""
+
+#: includes/widgets/timeline.php:841
+msgid "Icon Size"
+msgstr ""
+
+#: includes/widgets/timeline.php:876 includes/widgets/timeline.php:929
+msgid "Icons Color"
+msgstr ""
+
+#: includes/widgets/timeline.php:892
+msgid "Size Ratio"
+msgstr ""
+
+#: includes/widgets/timeline.php:947
+msgid "Line"
+msgstr ""
+
+#: includes/widgets/timeline.php:970
+msgid "Progress Color"
+msgstr ""
+
+#: includes/widgets/timeline.php:985
+msgid "Thickness"
+msgstr ""

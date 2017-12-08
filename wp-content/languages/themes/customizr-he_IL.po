@@ -1,0 +1,3775 @@
+# Translation of Themes - Customizr in Hebrew
+# This file is distributed under the same license as the Themes - Customizr package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-12 08:47:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: he_IL\n"
+"Project-Id-Version: Themes - Customizr\n"
+
+#. Theme Name of the plugin/theme
+msgid "Customizr"
+msgstr "Customizr"
+
+#: templates/parts/content/singular/navigation/single_attachment_image_navigation.php:24
+msgid "Next"
+msgstr "הבא"
+
+#: templates/parts/content/singular/navigation/single_attachment_image_navigation.php:17
+msgid "Previous"
+msgstr "הקודם"
+
+#: templates/parts/content/singular/navigation/single_attachment_image_navigation.php:12
+msgid "Images navigation"
+msgstr "ניווט בתמונות"
+
+#: core/front/models/content/post-metas/class-model-post_metas.php:71
+msgid "Updated"
+msgstr "עודכן"
+
+#: inc/czr-front-ccat.php:9759 templates/parts/footer/footer_credits.php:13
+msgid "Designed with the %s"
+msgstr "עוצב באמצעות %s"
+
+#: inc/czr-front-ccat.php:9759 templates/parts/footer/footer_credits.php:13
+msgid "Customizr theme"
+msgstr "תבנית Customizr"
+
+#: inc/czr-init-ccat.php:4588
+msgid "Quick tip : you can choose between two styles for the Customizr theme. Give it a try %s"
+msgstr "טיפ מהיר: ניתן לבחור בין שני עיצובים של תבנית קסטומייזר. נסו זאת %s"
+
+#: inc/czr-init-ccat.php:4591
+msgid "in the live customizer."
+msgstr "בתצוגה החיה של Customizr"
+
+#: core/czr-admin-ccat.php:872
+msgid "Read the full article"
+msgstr "קראו את המאמר המלא"
+
+#: core/czr-admin-ccat.php:864
+msgid "Please enter a search term."
+msgstr "נא להזין ביטוי לחיפוש"
+
+#: core/czr-admin-ccat.php:568
+msgid "Read the changelog"
+msgstr "קראו את יומן השינויים"
+
+#: core/czr-admin-ccat.php:863
+msgid "No results found&hellip;"
+msgstr "לא נמצאו תוצאות&hellip;"
+
+#: core/czr-admin-ccat.php:862
+msgid "We found {count} articles that may help:"
+msgstr "נמצאו {count} מאמרים שיכולים לעזור:"
+
+#: core/czr-admin-ccat.php:861
+msgid "We found {count} article that may help:"
+msgstr "נמצא מאמר אחד שיכול לעזור:"
+
+#: core/core-settings-map.php:2149
+msgid "Appearance > themes"
+msgstr "תצוגה > תבניות"
+
+#: core/czr-admin-ccat.php:866
+msgid "There was an error fetching search results."
+msgstr "ארעה תקלה בהבאת תוצאות החיפוש."
+
+#: core/czr-admin-ccat.php:897
+msgid "In a few keywords, describe the information you are looking for."
+msgstr "במספר מילים, תארו את המידע אותו אתם מחפשים."
+
+#: core/core-settings-map.php:1101
+msgid "Display navigation dots"
+msgstr "הצגת נקודות ניווט"
+
+#: core/core-settings-map.php:2056
+msgid "Lazy load the images in sliders"
+msgstr "טעינת תמונות 'עצלה' בסליידר"
+
+#: core/core-settings-map.php:1109
+msgid "When this option is checked, navigation dots are displayed at the bottom of the home slider."
+msgstr "כאשר אפשרות זו פעילה, נקודות ניווט מוצגות בתחתית הסליידר בדף הבית."
+
+#: core/czr-admin-ccat.php:1650
+msgid "Display navigation dots at the bottom of your slider."
+msgstr "הצגת נקודות ניווט בתחתית הסליידר"
+
+#: core/czr-admin-ccat.php:865
+msgid "Search must be at least {minLength} characters."
+msgstr "חיפוש חייב לכלול לפחות {minLength} תווים."
+
+#: core/czr-admin-ccat.php:896
+msgid "Search the knowledge base"
+msgstr "חיפוש במאגר הידע"
+
+#: core/core-settings-map.php:2061
+msgid "Check this option to delay the loading of non visible images in sliders. This can greatly improve the speed of your website."
+msgstr "סמנו אפשרות זו כדי להשהות את טעינת תמונות שעדיין לא מוצגות בסליידר. זו אפשרות להאצה משמעותית של האתר."
+
+#: core/core-settings-map.php:2148
+msgid "You are using a child theme. This option must be changed from the parent theme. Activate the parent from %s."
+msgstr "הנכם משתמשים בתבנית-בת. אפשרות זו ניתן לשנות רק בתבנית האם. הפעילו את תבנית האם דרך %s"
+
+#: core/core-settings-map.php:455
+msgid "Header background color"
+msgstr "צבע רקע כותרת ראשית"
+
+#: core/core-settings-map.php:465
+msgid "Header foreground color"
+msgstr "צבע קדמה כותרת ראשית"
+
+#: core/czr-admin-ccat.php:543
+msgid "Thank you for using"
+msgstr "תודה שהשתמשתם"
+
+#: core/core-settings-map.php:2539
+msgid "Discover the features and benefits"
+msgstr "גלו את התכונות והיתרונות"
+
+#: core/core-settings-map.php:571
+msgid "You need to enable your topbar to display social links in your header. Enable the topbar in this option panel, or %s."
+msgstr ""
+"יש לאפשר את הבר העליון כדי להציג קישורים חברתיים בכותרת העליונה.\n"
+"הפעילו את ההבר העליון בפאנל זה, או %s"
+
+#: core/core-settings-map.php:1089 core/czr-admin-ccat.php:1633
+msgid "Apply a dark overlay on your slider's images"
+msgstr "הוספת שכבה כהה על תמנות הסליידר"
+
+#: core/core-settings-map.php:670
+msgid "When your header ( containing the site title or logo ) is gluing to the top of a page, this option will make the title or logo smaller."
+msgstr "כאשר הכותרת (כולל הלוגו ושם האתר) מוצמדים לראש הדף, אפשרות זו תקטין את הלוגו או שם האתר."
+
+#: core/core-settings-map.php:549
+msgid "Display a topbar"
+msgstr "הצגת איזור עליון (טופ-בר)"
+
+#: core/core-settings-map.php:2172
+msgid "Title, Logo, Fonts, Primary color, Social, ..."
+msgstr "כותרת, לוגו, גופנים, צבע ראשי, קישורים חברתיים, ..."
+
+#: core/core-settings-map.php:2179
+msgid "Style, Desktops and mobiles layout, Menus, Search, ..."
+msgstr "עיצוב, פריסת מחשב שולחני ומובייל, תפריטים, חיפוש, ..."
+
+#: core/core-settings-map.php:2526
+msgid "Theme style"
+msgstr "סגנון התבנית"
+
+#: core/core-settings-map.php:2402
+msgid "Front Page Content"
+msgstr "תוכן עמוד ראשי"
+
+#: core/front/models/modules/featured-pages/class-model-featured_pages.php:135
+msgid "Customize it now"
+msgstr "כעת קסטומיזר"
+
+#: core/init-base.php:394
+msgid "Mobile Menu"
+msgstr "תפריט לנייד"
+
+#: inc/czr-init-ccat.php:2296
+msgid "Primary theme color with a shadow"
+msgstr "צבע ראשי לתבנית עם צל"
+
+#: inc/czr-init-ccat.php:2441
+msgid "Improve your page speed by loading smaller slider images for mobile devices"
+msgstr "שיפור מהירות הדף באמצעות טעינת תמונות קטנות יותר למכשירים ניידים"
+
+#: core/core-settings-map.php:2185
+msgid "Main Content"
+msgstr "תוכן עיקרי"
+
+#: core/core-settings-map.php:2206
+msgid "Performances, Custom CSS ..."
+msgstr "ביצועים, CSS מותאם אישית..."
+
+#: core/core-settings-map.php:2318
+msgid "Primary color of the theme"
+msgstr "הצבע העיקרי של התבנית"
+
+#: core/core-settings-map.php:2308
+msgid "Site Identity : Logo, Title, Tagline and Site Icon"
+msgstr "מזהה האתר: לוגו, כותרת, שורת תיוג וסמל האתר"
+
+#: core/core-settings-map.php:2320
+msgid "Pick a primary color for the theme"
+msgstr "בחירת צבע עיקרי לתבנית"
+
+#: core/core-settings-map.php:2336
+msgid "Formatting : links, paragraphs ..."
+msgstr "עיצוב : קישורים, פסקאות..."
+
+#: core/core-settings-map.php:2353
+msgid "Sliders options"
+msgstr "אפשרויות מצגת שקופיות (סליידר)"
+
+#: core/core-settings-map.php:2375
+msgid "General design settings"
+msgstr "הגדרת עיצוב כלליות"
+
+#: core/core-settings-map.php:2199
+msgid "Style, Back to top button, Sticky mode, ... "
+msgstr "עיצוב, כפתור 'חזרה למעלה', מצב דביק, ..."
+
+#: core/core-settings-map.php:2380
+msgid "Design settings for desktop and laptops"
+msgstr "הגדרות עיצוב למחשבים שולחניים ונישאים"
+
+#: core/core-settings-map.php:2385
+msgid "Design settings for smartphones and tablets in portrait orientation"
+msgstr "הגדרות עיצוב לסמארטפונים וטאבלטים בתצוגה אנכית"
+
+#: core/core-settings-map.php:2186
+msgid "Column layout, Post lists design, Thumbnails, Post Metas, Navigation, ..."
+msgstr "פריסת עמודות, עיצוב רשימת פוסטים, תמונות קטנות, מטא של פוסטים, ניווט, ..."
+
+#: core/core-settings-map.php:2143
+msgid "Modern"
+msgstr "מודרני"
+
+#: core/core-settings-map.php:2144
+msgid "Classical"
+msgstr "קלאסי"
+
+#: core/core-settings-map.php:2139
+msgid "Select a design style for the theme"
+msgstr "בחרו סגנון עיצוב עבור התבנית"
+
+#: core/core-settings-map.php:2139
+msgid "Set the Modern or Classical design style"
+msgstr "קביעת הסגנון המודרני או הקלאסי"
+
+#: core/core-settings-map.php:2134
+msgid "The Modern style provides a \"material design\" look and feel. It relies on the flexbox css mode, offering a better support for the most recent mobile devices and browsers. The Classical style provides a more \"flat design\" feeling, with icons next to titles for example. It supports both modern and older devices and browsers."
+msgstr "The Modern style provides a \"material design\" look and feel. It relies on the flexbox css mode, offering a better support for the most recent mobile devices and browsers. The Classical style provides a more \"flat design\" feeling, with icons next to titles for example. It supports both modern and older devices and browsers."
+
+#: core/core-settings-map.php:1943
+msgid "Footer style"
+msgstr "סגנון כותרת תחתית (פוטר)"
+
+#: core/core-settings-map.php:1790
+msgid "Display the number of comments below the post titles"
+msgstr "הצגת מספר התגובות מתחת לכותרת הפוסט"
+
+#: core/core-settings-map.php:2119
+msgid "Automatically adapt the font size to the width of the devices"
+msgstr "התאמה אוטומטית של גודל הגופן לרוחב התצוגה של המכשירים"
+
+#: core/core-settings-map.php:2122
+msgid "When this option is enabled, your font size will automatically resize to be better displayed in mobile devices."
+msgstr "כאשר אפשרות זו פעילה, גודל הגופן יותאם אוטומטית כך שיוצג באופן מיטבי במכשירים ניידים."
+
+#: core/core-settings-map.php:1972
+msgid "Enabling this option will glue your footer to the bottom of the screen, when pages are shorter than the viewport's height."
+msgstr "הפעלת אפשרות זו \"תדביק\" את הכותרות התחתית (פוטר) לתחתית המסך כאשר הדפים קצרים מאורך איזור הצפיה."
+
+#: core/core-settings-map.php:1236
+msgid "This option defines the maximum number of posts or search results displayed in any list of posts of your website : blog page, archive page, search page. If the number of items to displayed is greater than your setting, the theme will automatically add a pagination link block at the bottom of the page."
+msgstr "אפשרות זו מגדירה את המספר המירבי של פוסטים או תוצאות חיפוש המוצגות בכל רשימת פוסטים באתר שלך: עמוד בלוג, עמוד ארכיון, עמוד תוצאות חיפוש. אם מספר הפריטים להצגה גבוה מהערך שהוגדר, התבנית תוסיף אוטומטית קישור לעמוד הבא בתחתית הדף."
+
+#: core/core-settings-map.php:588 core/core-settings-map.php:607
+#: core/core-settings-map.php:623
+msgid "Do not display"
+msgstr "לא להציג"
+
+#: core/core-settings-map.php:581 core/core-settings-map.php:602
+#: core/core-settings-map.php:617 core/core-settings-map.php:634
+#: core/core-settings-map.php:648
+msgid "Desktop devices"
+msgstr "מכשירים שולחניים"
+
+#: core/core-settings-map.php:590
+msgid "Below the logo"
+msgstr "מתחת ללוגו"
+
+#: core/core-settings-map.php:591
+msgid "Next to the logo"
+msgstr "ליד הלוגו"
+
+#: core/core-settings-map.php:640 core/core-settings-map.php:746
+msgid "Always visible"
+msgstr "מוצג תמיד"
+
+#: core/core-settings-map.php:639 core/core-settings-map.php:745
+msgid "Reveal on scroll up"
+msgstr "מוצג בגלילה"
+
+#: core/core-settings-map.php:638 core/core-settings-map.php:744
+msgid "Not visible when scrolling the page"
+msgstr "לא מוצג בגלילה של העמוד"
+
+#: core/core-settings-map.php:609 core/core-settings-map.php:625
+msgid "Display in the primary navbar"
+msgstr "הצגת איזור הניווט הראשי"
+
+#: core/core-settings-map.php:634
+msgid "set the header visibility on scroll"
+msgstr "קביעת נראות הכותרת בגלילה"
+
+#: core/core-settings-map.php:691
+msgid "Secondary"
+msgstr "משני"
+
+#: core/core-settings-map.php:684 core/core-settings-map.php:685
+#: core/core-settings-map.php:707 core/core-settings-map.php:719
+#: core/core-settings-map.php:728 core/core-settings-map.php:740
+#: core/core-settings-map.php:2521
+msgid "Mobile devices"
+msgstr "מכשירים ניידים"
+
+#: core/core-settings-map.php:689
+msgid "Specific Mobile Menu"
+msgstr "תפריט יעודי לניידים"
+
+#: core/core-settings-map.php:684
+msgid "Header settings for"
+msgstr "הגדרות כותרת עבור"
+
+#: core/core-settings-map.php:653
+msgid "Primary navbar"
+msgstr "איזור ניווט ראשי"
+
+#: core/core-settings-map.php:602
+msgid "set the search button location"
+msgstr "קביעת מיקום כפתור החיפוש"
+
+#: core/core-settings-map.php:648
+msgid "select the header block to stick on scroll"
+msgstr "בחירת גוש הכותרת שתודבק בגלילה"
+
+#: core/core-settings-map.php:652
+msgid "Topbar"
+msgstr "איזור(בר) עליון"
+
+#: core/core-settings-map.php:581
+msgid "set the tagline location"
+msgstr "קביעת מיקום שורת התיוג"
+
+#: core/core-settings-map.php:589
+msgid "In the topbar"
+msgstr "באיזור העליון"
+
+#: core/core-settings-map.php:692
+msgid "Topbar Menu"
+msgstr "תפריט האיזור העליון"
+
+#: core/core-settings-map.php:740
+msgid "header menu visibility on scroll"
+msgstr "ניראות תפריט הכותרת בגלילה"
+
+#: core/core-settings-map.php:776
+msgid "An horizontal menu can be displayed in the main header with this option. Make sure you have assigned a menu to this location in the menu panel."
+msgstr "באפשרות זו, תפריט אופקי יכול להיות מוצג בכותרת הראשית. נא לוודא שהוגדר תפריט עבור מיקום זה בהגדרות התפריטים"
+
+#: core/core-settings-map.php:792
+msgid "Make sure that you have assigned your menus to the relevant locations %s."
+msgstr "נא לוודא שהוגדרו התפריטים עבור המיקומים הרלוונטיים %s."
+
+#: core/core-settings-map.php:685
+msgid "Select the menu(s) to use for mobile devices"
+msgstr "בחירת התפריט(ים) לשימוש במכשירים ניידים"
+
+#: core/core-settings-map.php:553
+msgid "You can display a topbar above the header including various blocks like a menu, your social links, the search icon or the WooCommerce cart."
+msgstr "ניתן להציג איזור עליון שנמצא מעל הכותרת, האיזור יכיל מספר גושים כגון - תפריט, קישורים חברתיים, צלמית החיפוש או עגלת הקניות (ווקומרס)."
+
+#: core/core-settings-map.php:574
+msgid "jump to the topbar option"
+msgstr "דילוג להגדרת איזור עליון"
+
+#: core/core-settings-map.php:696
+msgid "If the selected menu location has no menu assigned, the theme will try to assign another menu in this order : mobile, main, secondary, topbar."
+msgstr "אם לא שובץ תפריט למיקום הנבחר, התבנית תנסה לשבץ תפריט אחר לפי הסדר הבא: נייד, ראשי, משני, איזור עליון."
+
+#: core/core-settings-map.php:695
+msgid "When your visitors are using a smartphone or a tablet, the header becomes a thin bar on top, where the menu is revealed when clicking on the hamburger button. This option let you choose which menu will be displayed."
+msgstr "כאשר המבקרים באתר משתמשים במכשיר נייד או טאבלט, הכותרת הופכת לפס צר בראש הדף, והתפריט נגלה בלחיצה על כפתור ה\"המבורגר\". אפשרות זו מספקת את הבחירה איזה תפריט יוצג."
+
+#: core/class-fire-resources_scripts.php:531
+msgid "Customizr Demo 1"
+msgstr "הדגמת קסטומייזר 1"
+
+#: core/class-fire-resources_scripts.php:533
+msgid "Customizr Demo 2"
+msgstr "הדגמת קסטומיזר 2"
+
+#: core/class-fire-resources_scripts.php:536
+msgid "To help you getting started with Customizr, we have published"
+msgstr "כדי לעזור לך בתחילת הדרך עם 'קסטומיזר', פרסמנו"
+
+#: core/class-fire-resources_scripts.php:538
+msgid "a short guide here."
+msgstr "כאן מדריך קצר."
+
+#: core/class-fire-resources_scripts.php:370 inc/czr-init-ccat.php:4168
+msgid "Permanently dismiss"
+msgstr "בטל לצמיתות"
+
+#: core/core-settings-map.php:204
+msgid "Primary color"
+msgstr "צבע ראשי"
+
+#: core/core-settings-map.php:442
+msgid "Header style"
+msgstr "סגנון כותרת עליונה"
+
+#: core/core-settings-map.php:484
+msgid "Underline the site title in the header"
+msgstr "סימון קו תחתון לשם האתר בכותרת"
+
+#: core/class-fire-resources_scripts.php:520
+msgid "Welcome in the Customizr theme"
+msgstr "ברוכים הבאים לתבנית קסטומיזר"
+
+#: core/class-fire-resources_scripts.php:523
+msgid "The theme offers a wide range"
+msgstr "התבנית מציעה טווח גדול"
+
+#: core/class-fire-resources_scripts.php:525
+msgid "of customization options"
+msgstr "של אפשרויות התאמה אישית"
+
+#: core/class-fire-resources_scripts.php:526
+msgid "to let you create the best possible websites."
+msgstr "אשר מאפשרות לכם ליצור את האתר הטוב ביותר שניתן."
+
+#: core/class-fire-resources_scripts.php:529
+msgid "If you need inspiration, you can visit our online demos"
+msgstr "אם אתם זקוקים להשראה, תוכלו לבקר בדוגמאות המקוונות שלנו."
+
+#: core/core-settings-map.php:286
+msgid "Animated underline effect on link hover"
+msgstr "אפקט קו-תחתון מונפש בריחוף מעל קישור"
+
+#: core/core-settings-map.php:354
+msgid "Improve your page speed by loading smaller images for mobile devices"
+msgstr "שיפור מהירות הדף באמצעות טעינת תמונות קטנות יותר במכשירים ניידים"
+
+#: core/core-settings-map.php:211
+msgid "This is the color used to style your links and other clickable elements of the theme like buttons and slider arrows."
+msgstr "צבע זה משמש לעצב את הקישורים ושאר האלמנטים הלחיצים של התבנית, כמו כפתורים וחיצי סליידר."
+
+#: core/core-settings-map.php:1516
+msgid "Related posts"
+msgstr "פוסטים קשורים"
+
+#: core/core-settings-map.php:1523
+msgid "Related by categories"
+msgstr "קשורים דרך קטגוריות"
+
+#: core/core-settings-map.php:1524
+msgid "Related by tags"
+msgstr "קשורים דרך תגיות"
+
+#: core/core-settings-map.php:1526
+msgid "Display randomized related articles below the post"
+msgstr "הצגת פוסטים קשורים אקראיים מתחת לפוסט"
+
+#: core/core-settings-map.php:1517
+msgid "Single - Related Posts"
+msgstr "פוסט יחיד - פוסטים קשורים"
+
+#: core/core-settings-map.php:1484 core/core-settings-map.php:1543
+msgid "Featured Image"
+msgstr "תמונה מובלטת"
+
+#: core/czr-admin-ccat.php:1250
+msgid "Link title"
+msgstr "כותרת קישור"
+
+#: core/init-base.php:393
+msgid "Topnav (horizontal) Menu"
+msgstr "תפריט ניווט עליון (אופקי)"
+
+#: core/czr-admin-ccat.php:1303
+msgid "Quote text"
+msgstr "מלל ציטוט"
+
+#: core/czr-admin-ccat.php:1308
+msgid "Enter the text"
+msgstr "הזן את המלל"
+
+#: core/czr-admin-ccat.php:1323
+msgid "Quote author"
+msgstr "מחבר הציטוט"
+
+#: core/czr-admin-ccat.php:1329
+msgid "Enter the author"
+msgstr "הזן את המחבר"
+
+#: core/czr-admin-ccat.php:1356
+msgid "Audio url"
+msgstr "כתובת אודיו"
+
+#: core/czr-admin-ccat.php:1360
+msgid "Enter the audio url"
+msgstr "הזן את כתובת האודיו"
+
+#: core/czr-admin-ccat.php:1390
+msgid "Video url"
+msgstr "כתובת וידאו"
+
+#: core/czr-admin-ccat.php:1394
+msgid "Enter the video url"
+msgstr "הזן את כתובת הוידאו"
+
+#: templates/parts/footer/footer_credits.php:13
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: templates/parts/modules/related-posts/related_posts.php:22
+msgid "Previous related articles"
+msgstr "מאמרים קשורים קודמים"
+
+#: templates/parts/modules/related-posts/related_posts.php:23
+msgid "Next related articles"
+msgstr "מאמרים קשורים הבאים"
+
+#: core/core-settings-map.php:1321
+msgid "Regular"
+msgstr "רגיל"
+
+#: core/core-settings-map.php:445 core/core-settings-map.php:1946
+msgid "Light"
+msgstr "בהיר"
+
+#: core/core-settings-map.php:444 core/core-settings-map.php:1945
+msgid "Dark"
+msgstr "כהה"
+
+#: core/front/models/content/post-metas/class-model-post_metas.php:133
+#: core/front/template-tags/template-tags.php:121
+#: templates/parts/content/common/media.php:14
+msgid "Permalink to:&nbsp;"
+msgstr "קישור ישיר אל:&nbsp;"
+
+#: core/front/template-tags/template-tags.php:64
+msgid "Comment on"
+msgid_plural "Comments on"
+msgstr[0] "תגובה על"
+msgstr[1] "תגובות על"
+
+#: core/czr-admin-ccat.php:1194
+msgid "Format: quote"
+msgstr "פורמט: ציטוט"
+
+#: core/czr-admin-ccat.php:1218
+msgid "Format: audio"
+msgstr "פורמט: אודיו"
+
+#: core/czr-admin-ccat.php:1206
+msgid "Format: video"
+msgstr "פורמט: וידאו"
+
+#: core/czr-admin-ccat.php:1255
+msgid "Enter the title"
+msgstr "הזן את הכותרת"
+
+#: core/czr-admin-ccat.php:1182
+msgid "Format: link"
+msgstr "פורמט: קישור"
+
+#: core/czr-admin-ccat.php:1271
+msgid "Link URL"
+msgstr "כתובת הקישור"
+
+#: core/czr-admin-ccat.php:1276
+msgid "Enter the URL"
+msgstr "הזן את הכתובת"
+
+#: core/core-settings-map.php:608 core/core-settings-map.php:624
+msgid "Display in the topbar"
+msgstr "הצג את הסרגל העליון"
+
+#: core/core-settings-map.php:719
+msgid "Display a search button in the header"
+msgstr "הצג כפתור חיפוש בכותרת העליונה"
+
+#: core/core-settings-map.php:1398
+msgid "Plain full layout"
+msgstr "פריסה מלאה פשוטה"
+
+#: inc/czr-init-ccat.php:2912
+msgid "Display post format icons"
+msgstr "הצג את סמלילי פורמט הפוסט"
+
+#: core/core-settings-map.php:1464
+msgid "Display thumbnail placeholder if no images available"
+msgstr "הצג מציין מקום כאשר אין תמונה זמינה"
+
+#: core/czr-admin-ccat.php:622
+msgid "The Customizr Pro WordPress theme allows anyone to create a beautiful, professional and mobile friendly website in a few minutes. In the Pro version, you'll get all features included in the free version plus many conversion oriented ones, to help you attract and retain more visitors on your websites."
+msgstr "תבנית וורדפרד Customizr Pro מאפשר לכל אחד ליצור אתר אינטרנט יפהפה, מקצועי וידידותי למובייל, תוך דקות ספורות. בגרסא המקצועית, תקבלו את כל היכולות המופיעות בגרסא החינמית, בתוספת יכולות יעודיות, מוכוונות המרה, אשר יעזרו לכם למשוך ולשמר מבקרים רבים יותר באתרים שלכם."
+
+#: inc/czr-init-ccat.php:2665 inc/czr-init-ccat.php:2686
+msgid "Menu centered"
+msgstr "מירכוז תפריט"
+
+#: inc/czr-init-ccat.php:2673 inc/czr-init-ccat.php:2694
+msgid "the logo is centered"
+msgstr "הלוגו ממורכז"
+
+#: inc/czr-init-ccat.php:2671 inc/czr-init-ccat.php:2692
+msgid "Note : the menu centered position is available only when"
+msgstr "הערה: מיקום התפרטי במרכז אפשרי רק כאשר"
+
+#: inc/czr-front-ccat.php:4734
+msgid "You can display your page's featured image here if you have set one."
+msgstr "תוכלו להציג כאן את התמונה המייצגת של הדף אם הגדרתם תמונה כזו."
+
+#: core/core-settings-map.php:2434
+msgid "Single pages"
+msgstr "דפים בודדים"
+
+#: core/core-settings-map.php:1554
+msgid "You can display the featured image (also called the post thumbnail) of your pages before their content, when they are displayed individually."
+msgstr "תוכלו להציג את התמונה המאפיינת (נקראת גם תמונה ממוזערת של הפוסט) של הדפים שלכם, לפני התוכן, כאשר הם מוצגים באופן יחידני."
+
+#: core/core-settings-map.php:1555 inc/czr-front-ccat.php:4738
+msgid "Don't know how to set a featured image to a page? Learn how in the %s."
+msgstr "אינכם יודעים כיצד להגדיר תמונה אופיינית של דף? למדו כיצד לעשות זאת ב %s."
+
+#: core/czr-customize-ccat.php:1008
+msgid "Settings"
+msgstr "הגדרות"
+
+#: core/czr-customize-ccat.php:1009
+msgid "Options for"
+msgstr "אפשרויות עבור"
+
+#: core/czr-customize-ccat.php:2156
+msgid "default:"
+msgstr "ברירת מחדל:"
+
+#: core/core-settings-map.php:2541
+msgid "Go Pro"
+msgstr "עבור ל-PRO"
+
+#: core/czr-customize-ccat.php:1597
+msgid "An error occurred: malformed social links"
+msgstr "אפשרויות עבור"
+
+#: core/czr-customize-ccat.php:1973
+msgid "Add New"
+msgstr "הוסף חדש"
+
+#: core/czr-customize-ccat.php:1785
+msgid "Press return or enter to open this panel"
+msgstr "הקש על RETURN או ENTER כדי לפתוח פאנל זה"
+
+#: core/czr-customize-ccat.php:982
+msgid "Rss"
+msgstr "RSS"
+
+#: core/czr-customize-ccat.php:983
+msgid "Select a social icon"
+msgstr "בחר סמליל רשת חברתית"
+
+#: core/czr-customize-ccat.php:984
+msgid "Follow us on"
+msgstr "עקבו אחרינו ב-"
+
+#: core/czr-customize-ccat.php:987 core/czr-customize-ccat.php:1007
+msgid "Learn more about this in the documentation"
+msgstr "קראו עוד על כך בתיעוד"
+
+#: core/czr-customize-ccat.php:990
+msgid "Close Editor"
+msgstr "סגירת העורך"
+
+#: core/czr-customize-ccat.php:992
+msgid "New Slide created ! Scroll down to edit it."
+msgstr "שקופית חדשה נוצרה! יש לגלול מטה כדי לערוך אותה."
+
+#: core/czr-customize-ccat.php:1978
+msgid "Cancel"
+msgstr "ביטול"
+
+#: core/core-settings-map.php:1093 core/core-settings-map.php:1105
+#: core/czr-customize-ccat.php:1986
+msgid "Yes"
+msgstr "כן"
+
+#: core/czr-customize-ccat.php:2119
+msgid "Size in px"
+msgstr "גודל בפיקסלים"
+
+#: core/czr-customize-ccat.php:2128
+msgid "Id"
+msgstr "מזהה"
+
+#: core/czr-customize-ccat.php:2134
+msgid "Social icon"
+msgstr "סמליל רשת חברתית"
+
+#: core/czr-customize-ccat.php:2141
+msgid "Social link"
+msgstr "קישור רשת חברתית"
+
+#: core/czr-customize-ccat.php:993
+msgid "Slide"
+msgstr "שקופית"
+
+#: core/czr-customize-ccat.php:2102
+msgid "Select an icon"
+msgstr "בחר סמליל"
+
+#: core/czr-customize-ccat.php:2108
+msgid "Social link url"
+msgstr "כתובת קישור חברתי"
+
+#: core/czr-customize-ccat.php:2156
+msgid "Icon color"
+msgstr "צבע סמליל"
+
+#: core/czr-customize-ccat.php:2230 core/czr-customize-ccat.php:2235
+msgid "Select Image"
+msgstr "בחירת תמונה"
+
+#: core/czr-customize-ccat.php:2231
+msgid "Change Image"
+msgstr "שינוי תמונה"
+
+#: core/czr-customize-ccat.php:2233
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: core/czr-customize-ccat.php:2234
+msgid "No image selected"
+msgstr "לא נבחרה שום תמונה"
+
+#: core/czr-customize-ccat.php:2236
+msgid "Choose Image"
+msgstr "בחירת תמונה"
+
+#: core/core-settings-map.php:1636
+msgid "Yoast SEO breadcrumbs settings"
+msgstr "הגדרות \"פירורי לחם\" של Yoast SEO"
+
+#: core/core-settings-map.php:2094
+msgid "Load Font Awesome resources"
+msgstr "טען משאבי Font Awesome"
+
+#: core/core-settings-map.php:1635
+msgid "customization panel"
+msgstr "פאנל התאמות"
+
+#: core/core-settings-map.php:1629
+msgid "Use Yoast SEO breadcrumbs"
+msgstr "השתמש ב\"פירורי לחם\" של Yoast SEO"
+
+#: core/core-settings-map.php:1632
+msgid "Jump to the Yoast SEO breadcrumbs %s"
+msgstr "עבור אל הגדרות \"פירורי-לחם\" של Yoast SEO %s"
+
+#: core/core-settings-map.php:259
+msgid "Create and organize your social links"
+msgstr "יצירה וארגון של הקישורים החברתיים"
+
+#: core/czr-customize-ccat.php:2166
+msgid "Link target"
+msgstr "יעד הקישור"
+
+#: core/czr-customize-ccat.php:2170
+msgid "Check this option to open the link in a another tab of the browser."
+msgstr "סמן אפשרות זו כדי לפתוח את הקישור בלשונית אחרת של הדפדפן"
+
+#: core/czr-customize-ccat.php:981
+msgid "Not set"
+msgstr "לא הוגדר"
+
+#: core/czr-customize-ccat.php:985
+msgid "Done !"
+msgstr "בוצע!"
+
+#: core/czr-customize-ccat.php:1978
+msgid "Add it"
+msgstr "הוסף"
+
+#: core/czr-customize-ccat.php:1985
+msgid "Are you sure you want to remove : <strong>{{ data.title }} ?</strong>"
+msgstr "האם אתם בטוחים שברצונכם להסיר את : <strong>{{ data.title }} ?</strong>"
+
+#: core/czr-customize-ccat.php:2110 core/czr-customize-ccat.php:2143
+msgid "http://...,mailto:...,..."
+msgstr "http://...,mailto:...,..."
+
+#: core/czr-customize-ccat.php:2112 core/czr-customize-ccat.php:2145
+msgid "Enter the full url of your social profile (must be valid url)."
+msgstr "הזן את כתובת ה-url המלאה של פרופיל הרשת החברתית שלך (חייבת להיות כתובת תקינה)."
+
+#: core/czr-customize-ccat.php:2150
+msgid "Enter a title"
+msgstr "הזן כותרת"
+
+#: core/czr-customize-ccat.php:2152
+msgid "This is the text displayed on mouse over."
+msgstr "מלל זה מוצג במעבר העכבר."
+
+#: core/czr-customize-ccat.php:2160
+msgid "Set a unique color for your icon."
+msgstr "בחרו צבע ייחודי לסמליל שלכם."
+
+#: core/czr-customize-ccat.php:986
+msgid "New Social Link created ! Scroll down to edit it."
+msgstr "קישור רשת חברתית חדש נוצר! יש לגלול מטה כדי לערוך אותו."
+
+#: core/czr-customize-ccat.php:996
+msgid "The side on which the menu is revealed depends on the choosen header layout."
+msgstr "הצד בו נגלה התפריט תלוי בפריסה הנבחרת של הכותרת העליונה."
+
+#: core/czr-customize-ccat.php:1641
+msgid "Please fill the social link inputs with a valid URLs"
+msgstr "נא למלא את הערכים של הקישור החברתי בערכים תקינים של url."
+
+#: core/core-settings-map.php:707 inc/czr-init-ccat.php:2494
+msgid "Display the tagline in the header"
+msgstr "הצגת שורת תיוג בכותרת העליונה."
+
+#: core/core-settings-map.php:2099
+msgid "When checked, the Font Awesome icons and CSS will be loaded on front end. You might want to load the Font Awesome icons with a custom code, or let a plugin do it for you."
+msgstr "כאשר אפשרות זו מסומנת, הסמלילים של Font Awesome וה- CSS, ייטענו בצד הקדמי. אולי תרצו לטעון את סמלילי Font Awesome בעזרת קטע קוד מותאם או להשתמש בתוסף לעשות זאת עבורכם."
+
+#: inc/czr-front-ccat.php:9128
+msgid "Discover the Customizr WordPress theme &raquo;"
+msgstr "גלו את תבנית הוורדפרס Customizr &laquo;"
+
+#: core/core-settings-map.php:1985
+msgid "Back to top arrow position"
+msgstr "מיקום חץ \"חזרה למעלה\""
+
+#: core/front/models/modules/slider/class-model-slider_of_posts.php:26
+msgid "Customize or remove the posts slider"
+msgstr "התאמה אישית או הסרת סליידר הפוסטים "
+
+#: core/front/models/content/post-lists/headings/class-model-archive_heading.php:55
+msgid "Daily Archives:"
+msgstr "ארכיון יומי:"
+
+#: core/front/models/content/post-lists/headings/class-model-archive_heading.php:56
+msgid "Monthly Archives:"
+msgstr "ארכיון חודשי:"
+
+#: core/front/models/content/post-lists/headings/class-model-archive_heading.php:57
+msgid "Yearly Archives:"
+msgstr "ארכיון שנתי:"
+
+#: templates/parts/content/common/media.php:24
+#: templates/parts/content/post-lists/item-parts/headings/post_list_item_header-no_metas.php:21
+#: templates/parts/content/post-lists/item-parts/headings/post_list_item_header.php:27
+#: templates/parts/content/post-lists/item-parts/headings/post_list_item_header_date.php:26
+msgid "Permalink to "
+msgstr "קישור קבוע אל"
+
+#: core/init-base.php:176
+msgid "Contact me on Snapchat"
+msgstr "צרו איתי קשר בסנאפצ'אט"
+
+#: templates/parts/content/singular/authors/author_info.php:11
+msgid "AUTHOR"
+msgstr "מחבר"
+
+#: templates/parts/content/singular/authors/author_info.php:14
+msgid "View all the posts of the author"
+msgstr "צפיה בכל הפוסטים של המחבר"
+
+#: templates/parts/content/singular/comments/comment.php:31
+msgid "Edit comment"
+msgstr "עריכת תוכן"
+
+#: templates/parts/content/singular/comments/comment_list.php:24
+msgid "pingback"
+msgid_plural "pingbacks"
+msgstr[0] "פינגבק"
+msgstr[1] "פינגבק-ים"
+
+#: templates/parts/content/no-results/404.php:7
+msgid "404"
+msgstr "404"
+
+#: templates/parts/content/no-results/search_no_results.php:7
+msgid "Nothing Found"
+msgstr "לא נמצאו תוצאות"
+
+#: templates/parts/content/post-lists/headings/archive_heading.php:36
+#: templates/parts/content/post-lists/headings/regular_archive_heading.php:23
+msgid "%s post"
+msgid_plural "%s posts"
+msgstr[0] "פוסט אחד"
+msgstr[1] "%s פוסטים"
+
+#: templates/parts/content/post-lists/headings/regular_search_heading.php:15
+#: templates/parts/content/post-lists/headings/search_heading.php:15
+msgid "%s result"
+msgid_plural "%s results"
+msgstr[0] "תוצאה אחת"
+msgstr[1] "%s תוצאות"
+
+#: templates/parts/content/post-lists/headings/regular_search_heading.php:8
+#: templates/parts/content/post-lists/headings/search_heading.php:9
+msgid "Search results for:"
+msgstr "תוצאות החיפוש עבור:"
+
+#: templates/parts/content/post-lists/navigation/post_list_posts_navigation.php:31
+msgid "Posts navigation"
+msgstr "ניווט בפוסטים"
+
+#: templates/parts/content/post-lists/navigation/post_list_posts_navigation.php:10
+msgid "Older posts"
+msgstr "פוסטים ישנים יותר"
+
+#: templates/parts/content/post-lists/navigation/post_list_posts_navigation.php:11
+msgid "Newer posts"
+msgstr "פוסטים חדשים יותר"
+
+#: templates/parts/content/singular/navigation/singular_posts_navigation.php:45
+#: templates/parts/content/singular/navigation/singular_posts_navigation.php:47
+msgid "Back to post list"
+msgstr "חזרה לרשימת הפוסטים"
+
+#: templates/parts/content/singular/navigation/singular_posts_navigation.php:53
+msgid "Next post"
+msgstr "הפוסט הבא"
+
+#: templates/parts/content/singular/navigation/singular_posts_navigation.php:39
+msgid "Previous post"
+msgstr "הפוסט הקודם"
+
+#: templates/parts/footer/footer_credits.php:9
+msgid "All rights reserved"
+msgstr "כל הזכויות שמורות"
+
+#: core/front/models/content/common/text/class-model-quote.php:157
+#: templates/parts/modules/grid/grid_item.php:27
+#: templates/parts/modules/grid/grid_item.php:43
+msgid "Permalink to"
+msgstr "קישור ישיר אל"
+
+#: core/czr-admin-ccat.php:873
+msgid "read more"
+msgstr "להמשך קריאה"
+
+#: templates/parts/modules/related-posts/related_posts.php:9
+msgid "You may also like"
+msgstr "אולי תאהב גם"
+
+#: templates/parts/modules/search/searchform.php:10
+msgctxt "label"
+msgid "Search"
+msgstr "חיפוש"
+
+#: templates/parts/modules/search/searchform.php:11
+msgctxt "title"
+msgid "Search &hellip;"
+msgstr "חיפוש &hellip;"
+
+#: core/class-fire-prevdem.php:130
+msgid "What We Do"
+msgstr "מה אנו עושים?"
+
+#: core/class-fire-prevdem.php:126
+msgid "Who We Are"
+msgstr "מי אנחנו"
+
+#: core/class-fire-prevdem.php:395 core/class-fire-prevdem.php:441
+msgid "Search"
+msgstr "חפש"
+
+#: core/class-fire-prevdem.php:401 core/class-fire-prevdem.php:419
+msgid "Recent Posts"
+msgstr "פוסטים אחרונים"
+
+#: core/class-fire-prevdem.php:408 core/class-fire-prevdem.php:430
+msgid "Recent Comments"
+msgstr "הערות אחרונות"
+
+#: core/class-fire-prevdem.php:310
+msgid "The Customizr theme fits nicely on any mobile devices."
+msgstr "תבנית Customizr מתאימה היטב לכל מכשיר נייד."
+
+#: core/class-fire-prevdem.php:134
+msgid "Contact Us"
+msgstr "צרו איתנו קשר"
+
+#: core/class-fire-prevdem.php:318
+msgid "Call to action"
+msgstr "הנעה לפעולה"
+
+#: core/class-fire-prevdem.php:316
+msgid "Engage your visitors with a carousel in any pages."
+msgstr "חברו את הגולשים שלכם עם קרוסלה בכל סוגי העמודים."
+
+#: core/core-settings-map.php:378
+msgid "Sliders : use parallax scrolling"
+msgstr "סליידרים : השתמשו בגלילת פאראלקס"
+
+#: core/core-settings-map.php:382
+msgid "If enabled, your slides scroll slower than the page (parallax effect)."
+msgstr "כשמופעלת אפשרות זו, השקופיות יגללו לאט יותר מאשר הדף עצמו (אפקט פאראלקס)."
+
+#: inc/czr-init-ccat.php:2553
+msgid "WooCommerce: if checked, your WooCommerce cart icon will remain visible when scrolling."
+msgstr "ווקומרס : אם אפשרו זו מסומנת, עגלת הקניות של ווקומרס תישאר מוצגת בעת גלילה."
+
+#: core/core-settings-map.php:2098
+msgid "Use with caution"
+msgstr "להשתמש בזהירות"
+
+#: core/core-settings-map.php:2516
+msgid "Front-end Icons (Font Awesome)"
+msgstr "סמלילי ממשק קדמי (Font Awsome)"
+
+#: core/core-settings-map.php:2101
+msgid "Check out some example of uses"
+msgstr "בדקו מספר דוגמאות לשימושים"
+
+#: core/init-base.php:170
+msgid "Follow me on Yelp"
+msgstr "עקבו אחרי ב- YELP"
+
+#: core/init-base.php:167
+msgid "Follow me on VKontakte"
+msgstr "עקבו אחרי ב-VKontakte"
+
+#: core/init-base.php:173
+msgid "Follow me on Xing"
+msgstr "עקבו אחרי ב-Xing"
+
+#: core/core-settings-map.php:953
+msgid "Display navigation in your home blog"
+msgstr "הצגת ניווט בבלוג הבית"
+
+#: inc/czr-init-ccat.php:2546
+msgid "Sticky header: display the shopping cart"
+msgstr "כותרת דביקה : הצגת עגלת הקניות"
+
+#: core/core-settings-map.php:617 core/core-settings-map.php:728
+#: inc/czr-init-ccat.php:2506
+msgid "Display the shopping cart in the header"
+msgstr "הצג את עגלת הקניות בכותרת הראשית"
+
+#: inc/czr-init-ccat.php:1479
+#: templates/parts/header/parts/woocommerce_cart.php:7
+msgid "View your shopping cart"
+msgstr "הצגת עגלת הקניות שלך"
+
+#: core/core-settings-map.php:620 core/core-settings-map.php:731
+#: inc/czr-init-ccat.php:2509
+msgid "WooCommerce: check to display a cart icon showing the number of items in your cart next to your header's tagline."
+msgstr "ווקומרס : סמן כדי להציג סמליל של עגלה המציין את מספר הפריטים שבעגלה לצד הכותרת הראשית"
+
+#: core/core-settings-map.php:358
+msgid "This feature has been introduced in WordPress v4.4+ (dec-2015), and might have minor side effects on some of your existing images. Check / uncheck this option to safely verify that your images are displayed nicely."
+msgstr "אפשרות זו הוצגה מגרסת וורדפרס 4.4 ומעלה (דצמ' 2015), וייתכן שיש לה תופעות לוואי מזעריות על חלק מהתמונות הקיימות. סמנו/בטלו את הסימון כדי לוודא בבטחה שהתמונות באתר מוצגות כראוי."
+
+#: core/class-fire-plugins_compat.php:372 inc/czr-init-ccat.php:839
+msgid "Front page slider name"
+msgstr "שם הסליידר בדף הראשי"
+
+#: core/core-settings-map.php:1011
+msgid "Include only sticky posts"
+msgstr "לכלול רק פוסטים דביקים"
+
+#: core/core-settings-map.php:1016
+msgid "You can choose to display only the sticky posts. If you're not sure how to set a sticky post, check"
+msgstr "תוכלו לבחור בצהגת פוסטים דביקים, אם אינכם יודעים כיצד לסמן פוסט דביק, סמנו"
+
+#: core/class-fire-plugins_compat.php:374 inc/czr-init-ccat.php:841
+msgid "Posts slider button text"
+msgstr "מלל כפתור סליידר פוסטים"
+
+#: inc/czr-front-ccat.php:9754 templates/parts/footer/footer_credits.php:13
+msgid "Powered by WordPress"
+msgstr "מונע באמצעות וורדפרס"
+
+#: inc/czr-front-ccat.php:9753 templates/parts/footer/footer_credits.php:13
+msgid "Powered by"
+msgstr "מונע באמצעות"
+
+#: inc/czr-front-ccat.php:9001
+msgid "this slider"
+msgstr "סליידר זה"
+
+#: inc/czr-front-ccat.php:9001
+msgid "the posts slider"
+msgstr "סליידר הפוסטים"
+
+#: inc/czr-front-ccat.php:9000
+msgid "Customize or remove %s"
+msgstr "התאמה אישית או הסרת %s"
+
+#: inc/czr-init-ccat.php:4903
+msgid "Did you know you can easily speed up your page load by deferring the loading of the non visible images?"
+msgstr "הידעתם שניתן להאיץ את את טעינת הדף בעזרת דחיית תמונות שאינן נראות?"
+
+#: inc/czr-init-ccat.php:4904
+msgid "%s and check the option 'Load images on scroll' under 'Website Performances' section."
+msgstr "%s וסמנו את האפשרות \"טעינת תמונות בגלילה\" בתיבת \"ביצועי האתר\"."
+
+#: core/init-base.php:128
+msgid "E-mail"
+msgstr "אימייל"
+
+#: core/core-settings-map.php:898
+msgid "Set the number of posts to display"
+msgstr "קביעת מספר הפוסטים להצגה"
+
+#: core/core-settings-map.php:962
+msgid "Apply a category filter to your home / blog posts"
+msgstr "הפעל מסנן קטגוריה על הפוסטים בדף הבית / בלוג"
+
+#: core/core-settings-map.php:891
+msgid "Learn more about post categories in WordPress"
+msgstr "למדו עוד על קטגוריות בוורדפרס"
+
+#: core/core-settings-map.php:889
+msgid "Click inside the above field and pick post categories you want to display. No filter will be applied if empty."
+msgstr "הקליקו בתוך השדה לעיל ובחרו את הקטגוריות שברצונכם להציג. לא יופעל מסנן כשהשדה ישאר ריק."
+
+#: core/front/models/modules/slider/class-model-slider_of_posts.php:409
+#: inc/czr-front-ccat.php:9490
+msgid "There is no excerpt because this is a protected post."
+msgstr "זהו פוסט מוגן ואין לו תקציר."
+
+#: core/front/models/modules/slider/class-model-slider_of_posts.php:386
+#: inc/czr-front-ccat.php:9465
+msgid "Protected: %s"
+msgstr "מוגן: %s"
+
+#: core/core-settings-map.php:1047
+msgid "Entire slide"
+msgstr "כל השקופית"
+
+#: core/core-settings-map.php:1046
+msgid "Call to action button"
+msgstr "לחצן קריאה לפעולה"
+
+#: core/core-settings-map.php:1024
+msgid "Display the title"
+msgstr "הצגת הכותרת"
+
+#: core/core-settings-map.php:1017
+msgid "the WordPress documentation."
+msgstr "התעוד של וורדפרס."
+
+#: core/core-settings-map.php:1037
+msgid "The excerpt will be limited to 80 chars max"
+msgstr "התקציר יוגבל לאורך של 80 תוים"
+
+#: core/core-settings-map.php:1028
+msgid "The title will be limited to 80 chars max"
+msgstr "הכותרת תוגבל ל-80 תוים לכל היותר"
+
+#: core/core-settings-map.php:1042
+msgid "Link post with"
+msgstr "קישור הפוסט עם"
+
+#: core/core-functions.php:1533
+msgid "&mdash; Auto-generated slider from your blog posts &mdash;"
+msgstr "&mdash;סליידר מחולל אוטומטית מהפוסטים בבלוג &mdash;"
+
+#: core/core-settings-map.php:1048
+msgid "Entire slide and call to action button"
+msgstr "כל השקופית וכפתור הנעה לפעולה"
+
+#: core/core-settings-map.php:1070
+msgid "When checked, the front page slider occupies the full viewport's width"
+msgstr "כאשר התיבה מסומנת, סליידר הדף הראשי יתפרס על כל רוחב המסך"
+
+#: core/core-settings-map.php:1059
+msgid "The button text will be limited to 80 chars max. Leave this field empty to hide the button"
+msgstr "מלל הלחצן מוגבל ל-80 תווים, יש להשאיר שדה זה ריק כדי להסתיר את הלחצן."
+
+#: core/front/models/modules/slider/class-model-slider.php:611
+msgid "Customize or remove this slider"
+msgstr "התאמה אישית או הסרת סליידר זה"
+
+#: core/core-settings-map.php:1000
+msgid "Number of posts to display"
+msgstr "מספר פוסטים לתצוגה"
+
+#: core/czr-admin-ccat.php:2500
+msgid "Slider documentation"
+msgstr "תעוד הסליידר"
+
+#: core/core-settings-map.php:2538 core/czr-admin-ccat.php:385
+msgid "Upgrade to Customizr Pro"
+msgstr "שדרגו ל Customizr Pro"
+
+#: core/czr-admin-ccat.php:2498
+msgid "For more informations about sliders, check the documentation page :"
+msgstr "למידע נוסף אודות סליידרים, בדקו את עמוד התיעוד:"
+
+#: core/czr-customize-ccat.php:994
+msgid "This option generates a home page slider based on your last posts, starting from the most recent or the featured (sticky) post(s) if any."
+msgstr "אפשרות זו מחוללת סליידר ראשי בדף הבית, המבוסס על הפוסטים האחרונים, החל מהפוסט האחרון או הפוסטים הדביקים (אם ישנם כאלה)."
+
+#: core/core-settings-map.php:1006
+msgid "Only the posts with a featured image or at least an image inside their content will qualify for the slider. The number of post slides displayed won't exceed the number of available posts in your website."
+msgstr "רק פוסטים עם תמונה מייצגת או תמונה בתוכן עצמו מתאימים להצגה בסליידר. מספר שקופיות הפוסטים לא יעלה על מספר הפוסטים הקיימים באתר."
+
+#: core/czr-admin-ccat.php:2497
+msgid "To add another slide : navigate to your media library (click on Media), open the edit screen of an image ( or add a new image ), and add it to your desired slider by using the dedicated option block at the bottom of the page."
+msgstr "להוספת עוד שקופית : נווטו אל ספרית המדיה (קליק על 'מדיה'), פתחו את מסך עריכת תמונה (או הסיפו תמונה חדשה), והוסיפו אותה לסליידר הרצוי על-ידי התיבה היעודית בתחתית העמוד."
+
+#: core/czr-customize-ccat.php:623
+msgid "SITE ICON"
+msgstr "סמליל האתר"
+
+#: core/czr-customize-ccat.php:1001
+msgid "Change the header layout"
+msgstr "שנה את פריסת הכותרת הראשית"
+
+#: core/czr-customize-ccat.php:997
+msgid "To change the global header layout, %s"
+msgstr "לשינוי פריסת הכותרת הכללית, %s"
+
+#: core/czr-customize-ccat.php:1000
+msgid "jump to the Design and Layout section"
+msgstr "עבור לאיזור העיצוב והפריסה"
+
+#: core/front/models/header/parts/class-model-menu.php:304
+#: inc/czr-front-ccat.php:1513
+msgid "Pages"
+msgstr "עמודים"
+
+#: inc/czr-front-ccat.php:864
+msgid "Open the menu"
+msgstr "פתיחת התפריט"
+
+#: inc/czr-front-ccat.php:1082
+msgid "Manage menus in the header"
+msgstr "ניהול התפריטים בכותרת הראשית"
+
+#: inc/czr-front-ccat.php:1056
+msgid "change your menu design now"
+msgstr "שנו את עיצוב התפריט כעת"
+
+#: inc/czr-front-ccat.php:1055
+msgid "Try it with the demo"
+msgstr "נסו זאת בעזרת ההדגמה"
+
+#: inc/czr-front-ccat.php:1081
+msgid "%s or read the %s."
+msgstr "%s או קראו את %s"
+
+#: inc/czr-front-ccat.php:1082
+msgid "Manage your menus in the header now"
+msgstr "נהלו כעת את התפריטים בכותרת הראשית שלכם"
+
+#: inc/czr-front-ccat.php:1054
+msgid "%s or %s."
+msgstr "%s או %s."
+
+#: inc/czr-front-ccat.php:1080
+msgid "You can display your main menu or a second menu here horizontally."
+msgstr "תוכלו להציג כאן בצורה אופקית את התפריט הראשי או תפריט משני."
+
+#: inc/czr-front-ccat.php:1053
+msgid "You can now display your menu as a vertical and mobile friendly side menu, animated when revealed."
+msgstr "ניתן להציג את התפריט כתפריט צד אנכי וידידותי לנייד, עם הנפשה בעת חשיפתו."
+
+#: core/front/models/header/parts/class-model-menu.php:183
+#: core/front/template-tags/template-tags.php:206 inc/czr-front-ccat.php:1056
+msgid "open the customizer menu section"
+msgstr "פתיחת תפריט ההתאמות"
+
+#: inc/czr-front-ccat.php:857
+msgid "Menu"
+msgstr "תפריט"
+
+#: core/czr-customize-ccat.php:980 inc/czr-front-ccat.php:857
+#: inc/czr-front-ccat.php:864
+msgid "Close"
+msgstr "סגירה"
+
+#: inc/czr-front-ccat.php:800
+msgid "change the default menu"
+msgstr "שינוי תפריט ברירת המחדל"
+
+#: inc/czr-front-ccat.php:3724
+msgid "Edit now."
+msgstr "ערוך כעת."
+
+#: inc/czr-front-ccat.php:3591
+msgid "Remove the featured pages"
+msgstr "הסרת הדפים המובלטים"
+
+#: inc/czr-front-ccat.php:3590 inc/czr-front-ccat.php:8048
+#: inc/czr-front-ccat.php:9059 inc/czr-front-ccat.php:9662
+msgid "now"
+msgstr "עכשיו"
+
+#: inc/czr-front-ccat.php:3590
+msgid "Edit those featured pages"
+msgstr "עריכת דפים מובלטים אלה"
+
+#: core/core-settings-map.php:2480
+msgid "Socials in Sidebars"
+msgstr "קישורים חברתיים בסרגלי הצד"
+
+#: inc/czr-front-ccat.php:801
+msgid "menu creation screen"
+msgstr "מסך יצירת התפריטים"
+
+#: inc/czr-front-ccat.php:8868 templates/parts/modules/slider/slide.php:9
+msgid "Go to"
+msgstr "מעבר אל"
+
+#: inc/czr-front-ccat.php:8051 inc/czr-front-ccat.php:9664
+msgid "dismiss this notice"
+msgstr "ביטול הודעה זו"
+
+#: inc/czr-front-ccat.php:3591
+msgid "remove them"
+msgstr "הסר אותם"
+
+#: inc/czr-front-ccat.php:9060
+msgid "remove this demo slider"
+msgstr "הסר את סליידר הדוגמא הזה"
+
+#: inc/czr-front-ccat.php:9059
+msgid "Select your own slider"
+msgstr "בחר את הסליידר שלך"
+
+#: inc/czr-front-ccat.php:8040
+msgid "The %s sidebar has no widgets."
+msgstr "אין ווידג'טים בסרגל הצדדי ה%s"
+
+#: inc/czr-front-ccat.php:4736 inc/czr-front-ccat.php:5068
+#: inc/czr-init-ccat.php:4905
+msgid "Jump to the customizer now"
+msgstr "עבור להתאמה אישית כעת"
+
+#: inc/czr-front-ccat.php:9060
+msgid "Remove the home page slider"
+msgstr "הסר את סליידר דף הבית"
+
+#: inc/czr-front-ccat.php:800
+msgid "replace this default menu by another one"
+msgstr "החלף תפריט ברירת מחדל זה בתפריט אחר"
+
+#: inc/czr-front-ccat.php:797
+msgid "This is a default page menu."
+msgstr "זוהי ברירת מחדל לתפריט העמודים."
+
+#: inc/czr-front-ccat.php:9661
+msgid "Add widgets to the footer %s or %s."
+msgstr "הסוף ווידג'טים לכותרת התחתית (פווטר) %s או %s."
+
+#: inc/czr-front-ccat.php:8044
+msgid "Add widgets to this sidebar %s or %s."
+msgstr "הוספת ווידג'טים לסרגל צד זה %s או %s."
+
+#: inc/czr-front-ccat.php:9058
+msgid "Select your own slider %s, or %s (you'll be able to add one back later)."
+msgstr "בחר את הסליידר שלך %s או %s (תוכל להוסיף סליידר גם מאוחר יותר)"
+
+#: inc/czr-front-ccat.php:3589
+msgid "Edit those featured pages %s, or %s (you'll be able to add yours later)."
+msgstr "ערכו דפים מובלטים אלה %s, או %s (תוכלו להוסיף את הדפים שלכם מאוחר יותר)"
+
+#: inc/czr-front-ccat.php:798
+msgid "( If you don't have any pages in your website, then this side menu is empty for the moment. )"
+msgstr "(אם בכלל אין לכם דפים באתר שלכם, תפריט צד זה הוא ריק כרגע)"
+
+#: inc/czr-front-ccat.php:799
+msgid "If you have already created menu(s), you can %s. If you need to create a new menu, jump to the %s."
+msgstr "אם כבר יצרתם תפריטים, תוכלו %s. אם אתם צריכים ליצור תפריט דשח, דלגו אל ה-%s. "
+
+#: inc/czr-front-ccat.php:5066
+msgid "You can display your post's featured image here if you have set one."
+msgstr "תוכלו להציג כאן את התמונה המייצגת של הפוסט שלכם אם הגדרתם אחת כזו."
+
+#: inc/czr-front-ccat.php:4735 inc/czr-front-ccat.php:5067
+msgid "%s to display a featured image here."
+msgstr "%s כדי להציג כאן תמונה מייצגת."
+
+#: core/core-settings-map.php:2511
+msgid "Front-end placeholders and help blocks"
+msgstr "מצייני מיקום ותיבות עזרה בממשק הקדמי"
+
+#: core/core-settings-map.php:2390
+msgid "Navigation Menus"
+msgstr "תפריטים"
+
+#: core/core-settings-map.php:862
+msgid "Remove all the menus."
+msgstr "הסר את כל התפריטים"
+
+#: core/core-settings-map.php:863
+msgid "Don't display any menus in the header of your website"
+msgstr "לא להציג שום תפריט בכותרת הראשית של האתר"
+
+#: core/core-settings-map.php:796 core/core-settings-map.php:2284
+#: core/core-settings-map.php:2292
+msgid "create/edit menus"
+msgstr "יצירה / עריכה של תפריטים"
+
+#: core/core-settings-map.php:2192
+msgid "Sidebars"
+msgstr "סרגלי צד"
+
+#: core/core-settings-map.php:1967
+msgid "Stick the footer to the bottom of the page"
+msgstr "הצמדת הכותרת התחתונה (פוטר) לתחתית הדף"
+
+#: core/core-settings-map.php:1253
+msgid "Customizr theme documentation"
+msgstr "תעוד התבנית קסטומייזר (Customizr)"
+
+#: core/core-settings-map.php:2365
+msgid "Smooth Scroll"
+msgstr "גלילה חלקה"
+
+#: core/core-settings-map.php:795 core/core-settings-map.php:2291
+msgid "in the menu panel"
+msgstr "בפאנל התפריטים"
+
+#: core/core-settings-map.php:2078
+msgid "Display help notices on front-end for logged in users."
+msgstr "הצגת הודעות סיוע בקצה הקדמי (Front-end) עבור משתמשים רשומים."
+
+#: core/core-settings-map.php:1496 inc/czr-front-ccat.php:5070
+msgid "Don't know how to set a featured image to a post? Learn how in the %s."
+msgstr "לא יודעים כיצד להגדיר את התמונה המייצגת של הפוסט? למדו עכשיו כיצד לעשות זאת ב-%s."
+
+#: core/core-settings-map.php:1495
+msgid "You can display the featured image (also called the post thumbnail) of your posts before their content, when they are displayed individually."
+msgstr "תוכלו להציג את התמונה המייצגת (נקראת גם תמונה ממוזערת) של הפוסטים, לפני תוכנם, כאשר הם מוצגים ביחידות."
+
+#: core/core-settings-map.php:1256
+msgid "If you need to change the layout design of the front page, then open the 'Front Page' section above this one."
+msgstr "אם אתם צריכים לשנות את עיצוב פריסת הדף הראשי, פתחו את חלק \"דף ראשי\" מעל חלק זה."
+
+#: core/core-settings-map.php:2280 core/core-settings-map.php:2288
+msgid "You can create new menu and edit your menu's content %s."
+msgstr "תוכלו ליצור תפריט חדש ולערוך את תוכן התפריט %s."
+
+#: core/core-settings-map.php:2283
+msgid "on the Menus screen in the Appearance section"
+msgstr "במסך התפריטים בחלק התצוגה"
+
+#: core/core-settings-map.php:2298
+msgid "If a menu location has no menu assigned to it, a default page menu will be used."
+msgstr "אם למיקום תפריט לא משויך שום תפריט, התפריט שיוצג הוא ברירת המחדל לתפריט דפים."
+
+#: core/core-settings-map.php:867
+msgid "Use with caution : provide an alternative way to navigate in your website for your users."
+msgstr "להתשמש בזהירות : יש לספק למשתמשים שלכם דרך חלופית לנווט באתר."
+
+#: core/core-settings-map.php:1252
+msgid "The above layout options will set your layout globally for your post and pages. But you can also define the layout for each post and page individually. Learn how in the %s."
+msgstr "אפשריות הפריסה לעיל, מגדירות את הפריסה הכללית של הפוסטים והעמודים. אך ניתן להגדיר את הפרישה בצורה פרטנית לכל עמוד ופוסט. ניתן ללמוד על כך ב-%s ."
+
+#: core/core-settings-map.php:2081
+msgid "When this option is enabled, various help notices and some placeholder blocks are displayed on the front-end of your website. They are only visible by logged in users with administration capabilities."
+msgstr "כאשר אפשרות זו פעילה, הודעות עזרה שונות ומצייני מקום מוצגים בממשק הקדמי של האתר. הם נראים רק למשתמשים רשומים בעלי הרשאות מנהל."
+
+#: inc/czr-init-ccat.php:2707
+msgid "Hide"
+msgstr "הסתר"
+
+#: inc/czr-init-ccat.php:2706
+msgid "Display in the header"
+msgstr "הצג בכותרת הראשית"
+
+#: core/core-settings-map.php:789
+msgid "Side Menu (vertical)"
+msgstr "תפריט צדדי (אנכי)"
+
+#: inc/czr-init-ccat.php:2650
+msgid "Display a label next to the menu button."
+msgstr "להציג תוית לצד כפתור התפריט"
+
+#: core/core-settings-map.php:803 inc/czr-init-ccat.php:2660
+msgid "Menu position (for \"main\" menu)"
+msgstr "מיקום התפריט (עבור התפריט הראשי)"
+
+#: inc/czr-init-ccat.php:2654
+msgid "Note : the label is hidden on mobile devices."
+msgstr "הערה: התוית מוסתרת במכשרים ניידים (ב-\"מובייל\")"
+
+#: core/core-settings-map.php:817 inc/czr-init-ccat.php:2681
+msgid "Menu position (for the horizontal menu)"
+msgstr "מיקום התפריט (עבור התפריט האופקי)"
+
+#: core/core-settings-map.php:788
+msgid "Regular (horizontal)"
+msgstr "רגיל (אופקי)"
+
+#: inc/czr-init-ccat.php:2700
+msgid "Choose a mobile devices (responsive) behaviour for the secondary menu."
+msgstr "בחירת התנהגות מותאמת לנייד (רספונסיבית) עבור התפריט המשני."
+
+#: inc/czr-init-ccat.php:2704
+msgid "Move before inside the side menu "
+msgstr "Move before inside the side menu "
+
+#: inc/czr-init-ccat.php:2705
+msgid "Move after inside the side menu "
+msgstr "Move after inside the side menu "
+
+#: inc/czr-init-ccat.php:2572
+msgid "Also applied to the secondary menu if any."
+msgstr "מיושם גם על התפריט המשני (אם קיים)"
+
+#: core/core-settings-map.php:772
+msgid "Display a secondary (horizontal) menu in the header."
+msgstr "להציג תפריט משני (אופקי) בכותרת הראשית"
+
+#: core/core-settings-map.php:784
+msgid "Select a design : side menu (vertical) or regular (horizontal)"
+msgstr "בחרו עיצוב : תפריט צידי (אנכי) או רגיל (אופקי)"
+
+#: inc/czr-init-ccat.php:2641
+msgid "For mobile devices (responsive), limit the height of the dropdown menu block to the visible viewport."
+msgstr "עבור מכשירים ניידים (רספונסיבי), הגבלת גובה תיבת התפריט הנפתח מטה לגודל התצוגה הנראית."
+
+#: core/core-settings-map.php:816 inc/czr-init-ccat.php:2680
+msgid "Secondary (horizontal) menu design"
+msgstr "עיצוב התפריט המשני (אופקי)"
+
+#: core/core-settings-map.php:783
+msgid "Main menu design"
+msgstr "עיצוב התפריט הראשי"
+
+#: core/core-settings-map.php:281
+msgid "Important note"
+msgstr "הערה חשובה"
+
+#: core/init-base.php:391
+msgid "Secondary (horizontal) Menu"
+msgstr "תפריט משני (אופקי)"
+
+#: core/core-settings-map.php:419
+msgid "Enable Smooth Scroll"
+msgstr "לאפשר גלילה חלקה"
+
+#: core/core-settings-map.php:534
+msgid "Choose a layout for the header"
+msgstr "בחירת פריסה לכותרת הראשית"
+
+#: core/core-settings-map.php:423
+msgid "This option enables a smoother page scroll."
+msgstr "אפשרות זו מפעילה את הגלילה החלקה בדפים"
+
+#: inc/czr-init-ccat.php:2201
+msgid "Disabled if the random option is on."
+msgstr "מושבת כאשר האפשרות לאקראיות מופעלת"
+
+#: core/core-settings-map.php:544
+msgid "This setting might impact the side on which the menu is revealed."
+msgstr "הגדרה זו עשויה להשפיע על הצד בו יתגלה התפריט."
+
+#: core/core-settings-map.php:281
+msgid "this option can create conflicts with some plugins, make sure that your plugins features (if any) are working fine after enabling this option."
+msgstr "אפשרות זו עלול ליצור התנגשויות עם מספר תוספים, יש לוודא שתכונות התוספים שלכם (אם ישנם כאלה) מתפקדות תקין לאחר הפעלת אפשרות זו."
+
+#: core/czr-admin-ccat.php:564
+msgid "demo website"
+msgstr "אתר הדגמה"
+
+#: core/czr-admin-ccat.php:616
+msgid "Go Customizr Pro"
+msgstr "התקדמו ל-Customizr Pro"
+
+#: core/czr-admin-ccat.php:561
+msgid "The best way to start with %s is to read the %s and visit the %s."
+msgstr "הדרך הטובה ביותר להתחיל עם %s היא לקרוא את %s ולבקר ב-%s ."
+
+#: core/czr-admin-ccat.php:563 inc/czr-front-ccat.php:1083
+msgid "documentation"
+msgstr "תעוד"
+
+#: core/czr-admin-ccat.php:392
+msgid "close"
+msgstr "סגור"
+
+#: core/czr-admin-ccat.php:372
+msgid "version"
+msgstr "גרסה"
+
+#: core/czr-admin-ccat.php:370
+msgid "Good, you've just upgraded to"
+msgstr "יופי, הרגע שדרגת ל"
+
+#: core/czr-admin-ccat.php:391
+msgid "I already know what's new thanks !"
+msgstr "אני כבר יודע מה חדש, תודה!"
+
+#: core/czr-admin-ccat.php:385
+msgid "Visit the demo"
+msgstr "ביקור בהדגמה"
+
+#: core/czr-admin-ccat.php:383
+msgid "Read the latest release notes"
+msgstr "קריאת הודעות העדכון האחרון"
+
+#: core/czr-admin-ccat.php:381
+msgid "We'd like to introduce the new features we've been working on."
+msgstr "אנו רוצים להציג את התכונות החדשות שעבדנו עליהן."
+
+#: core/czr-admin-ccat.php:2415
+msgid "Link"
+msgstr "קישור"
+
+#: core/czr-admin-ccat.php:2220
+msgid "Link the whole slide"
+msgstr "קישור כל השקופית"
+
+#: core/core-settings-map.php:1497 core/core-settings-map.php:1556
+#: inc/czr-front-ccat.php:4739 inc/czr-front-ccat.php:5071
+msgid "WordPress documentation"
+msgstr "תיעוד של וורדפרס"
+
+#: core/czr-admin-ccat.php:2207
+msgid "or a custom link (leave this empty if you already selected a page or post above)"
+msgstr "או קישור מותאם אישית (יש להשאיר ריק אם כבר נבחר עמוד או פוסט לעיל)"
+
+#: core/czr-admin-ccat.php:2213
+msgid "Open link in a new page/tab"
+msgstr "פתיחת קישור בעמוד חדש או לשונית חדשה"
+
+#. Template Name of the plugin/theme
+msgid "Custom Page Example"
+msgstr "דוגמא לדף מותאם אישית"
+
+#: core/front/models/header/parts/class-model-menu.php:182
+#: core/front/template-tags/template-tags.php:205 inc/czr-front-ccat.php:890
+msgid "Add a menu"
+msgstr "הוספת תפריט"
+
+#: inc/czr-front-ccat.php:8047 inc/czr-front-ccat.php:9662
+msgid "Add widgets"
+msgstr "הוספת ווידג'טים"
+
+#: inc/czr-front-ccat.php:307 templates/parts/header/parts/logo.php:6
+msgid "Back Home"
+msgstr "חזרה לראשי"
+
+#: inc/czr-front-ccat.php:9784
+msgid "Back to top"
+msgstr "חזרה למעלה"
+
+#: inc/czr-front-ccat.php:8059
+msgid "Changing the layout in the Customizr theme"
+msgstr "שינוי הפריסנ בתבנית Customizr"
+
+#: inc/czr-front-ccat.php:8060
+msgid "See the theme documentation."
+msgstr "ראו בתיעוד התבנית."
+
+#: inc/czr-front-ccat.php:9657
+msgid "The footer has no widgets"
+msgstr "הכותרת התחתית (פוטר) לא מכילה ווידג'טים"
+
+#: inc/czr-front-ccat.php:8036 inc/czr-front-ccat.php:9653
+msgid "This block is visible for admin users only."
+msgstr "בלוק זה מוצג רק למשתמשים ברמת מנהל (Admin)"
+
+#: inc/czr-front-ccat.php:8057
+msgid "You can also remove this sidebar by changing the current page layout."
+msgstr "תוכלו להסיר סרגל צדדי זה באמצעות שינוי פריסת העמוד הנוכחי"
+
+#: inc/czr-front-ccat.php:805 inc/czr-front-ccat.php:1060
+#: inc/czr-front-ccat.php:1087 inc/czr-front-ccat.php:3595
+#: inc/czr-front-ccat.php:4743 inc/czr-front-ccat.php:5075
+#: inc/czr-front-ccat.php:8064 inc/czr-front-ccat.php:9064
+#: inc/czr-front-ccat.php:9670 inc/czr-init-ccat.php:4909
+msgid "dismiss notice"
+msgstr "ביטול הודעה"
+
+#: core/front/models/modules/slider/class-model-slider.php:430
+#: inc/czr-front-ccat.php:9134
+msgid "Check the slider doc now &raquo;"
+msgstr "עיין בתעוד הסליידר כעת &lequo;"
+
+#: core/front/models/modules/slider/class-model-slider.php:428
+msgid "Easily create sliders and add them in any posts or pages."
+msgstr "צור בקלות סליידרים והוסף אותם לכל פוסט או עמוד"
+
+#: core/front/models/modules/slider/class-model-slider.php:422
+#: inc/czr-front-ccat.php:9132
+msgid "Discover how to replace or remove this demo slider."
+msgstr "גלו כיצד להחליף או להסיר סליידר הדגמה זה."
+
+#: core/front/models/modules/slider/class-model-slider.php:424
+msgid "Check the front page slider doc &raquo;"
+msgstr "עיינו בתיעוד של הסליידר לדף הראשי &lequo;"
+
+#: inc/czr-front-ccat.php:7489
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "פוסטים חדשים יותר <span class=\"meta-nav\">&larr;</span>"
+
+#: inc/czr-front-ccat.php:7469
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&rarr;</span> פוסטים ישנים יותר"
+
+#: core/front/models/content/post-metas/class-model-post_metas.php:58
+#: inc/czr-front-ccat.php:7291
+msgid "by"
+msgstr "מאת"
+
+#: inc/czr-front-ccat.php:7401 inc/czr-front-ccat.php:7456
+#: templates/parts/content/singular/navigation/singular_posts_navigation.php:35
+msgid "Post navigation"
+msgstr "ניווט בפוסטים"
+
+#: inc/czr-front-ccat.php:7218
+msgid "Open"
+msgstr "לפתוח"
+
+#: inc/czr-front-ccat.php:7268
+msgid "tagged"
+msgstr "תויג"
+
+#: core/front/models/content/post-metas/class-model-post_metas.php:162
+#: inc/czr-front-ccat.php:7198
+msgid "View all posts by %s"
+msgstr "צפיה בכל הפוסטים של %s"
+
+#: inc/czr-front-ccat.php:6998
+msgid "(updated %s days ago)"
+msgstr "(עודכן לפני %s ימים)"
+
+#: inc/czr-front-ccat.php:6999
+msgid "(updated 1 day ago)"
+msgstr "(עודכן אתמול)"
+
+#: inc/czr-front-ccat.php:7002
+msgid "(updated on %1$s)"
+msgstr "(עודכן ב-%1$s)"
+
+#: inc/czr-front-ccat.php:6998
+msgid "(updated today)"
+msgstr "(עודכן היום)"
+
+#: core/front/models/content/post-metas/class-model-post_metas.php:85
+#: inc/czr-front-ccat.php:6891
+msgid "Return to "
+msgstr "לחזור אל"
+
+#: inc/czr-front-ccat.php:6982
+msgid "This entry was posted"
+msgstr "רשומה זו פורסמה"
+
+#: inc/czr-front-ccat.php:6955
+msgid "This entry was posted in %1$s"
+msgstr "רשומה זו פורסמה ב-%1$s"
+
+#: inc/czr-front-ccat.php:6953
+msgid "This entry was posted in %1$s and tagged %2$s"
+msgstr "רשומה זו פורסמה בקטגוריה %1$s ,תויגה ב-%2$s "
+
+#: inc/czr-front-ccat.php:6966
+msgid "This entry was posted on %1$s"
+msgstr "רשומה זו פורסמה ב-%1$s"
+
+#: inc/czr-front-ccat.php:6957
+msgid "This entry was tagged %2$s"
+msgstr "רשומה זו תויגה ב-%2$s"
+
+#: core/front/models/content/post-metas/class-model-post_metas.php:210
+#: inc/czr-front-ccat.php:7063
+msgid "View all posts in %s"
+msgstr "צפיה בכל הפוסטים ב-%s"
+
+#: inc/czr-front-ccat.php:6970
+msgid "and posted on %1$s"
+msgstr "ופורסם ב-%1$s"
+
+#: inc/czr-front-ccat.php:6982 inc/czr-front-ccat.php:6984
+msgid "by %1$s"
+msgstr "על-ידי %1$s"
+
+#: inc/czr-front-ccat.php:6968
+msgid "on %1$s"
+msgstr "ב-%1$s"
+
+#: core/front/models/content/post-metas/class-model-post_metas.php:85
+#: inc/czr-front-ccat.php:6891 inc/czr-front-ccat.php:7267
+msgid "in"
+msgstr "ב"
+
+#: core/front/models/content/post-metas/class-model-post_metas.php:83
+#: inc/czr-front-ccat.php:6890
+msgid "Link to full-size image"
+msgstr "קישור לתמונה בגודל מלא"
+
+#: core/front/models/content/post-metas/class-model-post_metas.php:83
+#: inc/czr-front-ccat.php:6890
+msgid "at dimensions"
+msgstr "בגודל"
+
+#: core/front/models/content/post-metas/class-model-post_metas.php:64
+#: inc/czr-front-ccat.php:6887
+msgid "Published"
+msgstr "פורסם ב-"
+
+#: inc/czr-front-ccat.php:6867
+msgid "This entry was posted on %1$s<span class=\"by-author\"> by %2$s</span>."
+msgstr "רשומה זו פורסמה ב-%1$s  <span class=\"by-author\"> על-ידי %2$s</span>."
+
+#: inc/czr-front-ccat.php:5000
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "צפה בכל הפוסטים מאת %s <span class=\"meta-nav\">&larr;</span>"
+
+#: inc/czr-front-ccat.php:4655 inc/czr-front-ccat.php:4958
+#: inc/czr-front-ccat.php:5426
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: core/front/models/content/post-lists/item-parts/contents/class-model-post_list_item_content_inner.php:183
+#: inc/czr-front-ccat.php:4653 inc/czr-front-ccat.php:4957
+#: inc/czr-front-ccat.php:5424
+#: templates/parts/content/singular/page_content.php:16
+#: templates/parts/content/singular/post_content.php:18
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "המשך קריאה <span class=\"meta-nav\">&larr;</span>"
+
+#: core/front/models/content/post-lists/headings/class-model-archive_heading.php:71
+#: inc/czr-front-ccat.php:4393
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/czr-front-ccat.php:4393
+msgid "Yearly Archives: %s"
+msgstr "ארכיון שנתי : %s"
+
+#: core/front/models/content/post-lists/headings/class-model-archive_heading.php:70
+#: inc/czr-front-ccat.php:4392
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/czr-front-ccat.php:4392
+msgid "Monthly Archives: %s"
+msgstr "ארכיון חודשי : %s"
+
+#: inc/czr-front-ccat.php:4391
+msgid "Archives"
+msgstr "ארכיון"
+
+#: inc/czr-front-ccat.php:4391
+msgid "Daily Archives: %s"
+msgstr "ארכיון יומי : %s"
+
+#: inc/czr-front-ccat.php:4351 inc/czr-front-ccat.php:4996
+msgid "About %s"
+msgstr "אודות %s"
+
+#: core/core-settings-map.php:1094 core/core-settings-map.php:1106
+#: core/czr-customize-ccat.php:1986 inc/czr-front-ccat.php:4317
+msgid "No"
+msgstr "לא"
+
+#: inc/czr-front-ccat.php:4303 templates/parts/content/no-results/404.php:8
+msgid "Ooops, page not found"
+msgstr "אופס, הדף לא נמצא"
+
+#: inc/czr-front-ccat.php:4165
+msgid "Permalink to %s"
+msgstr "קישור קבוע אל %s"
+
+#: inc/czr-front-ccat.php:4161 inc/czr-front-ccat.php:4166
+msgid "{no title} Read the post &raquo;"
+msgstr "{ללא כותרת} קראו את הפוסט >"
+
+#: core/front/models/modules/featured-pages/class-model-featured_pages.php:134
+#: inc/czr-front-ccat.php:3723
+msgid "Customizer screen"
+msgstr "מסך התאמות"
+
+#: core/front/models/modules/featured-pages/class-model-featured_pages.php:142
+#: inc/czr-front-ccat.php:3731
+msgid "Featured page"
+msgstr "עמוד מובלט"
+
+#: inc/czr-front-ccat.php:3948
+msgid "Missing Attachment"
+msgstr "חסר הקובץ המצורף"
+
+#: core/front/models/modules/featured-pages/class-model-featured_pages.php:146
+#: inc/czr-front-ccat.php:3735
+msgid "Featured page description text : use the page excerpt or set your own custom text in the Customizr screen."
+msgstr "מלל תיאור עמוד מובלט : השתמשו בתקציר העמוד או קבעו את המלל המותאם שלכם במסך העריכה של Customizr."
+
+#: core/front/template-tags/template-tags.php:65 inc/czr-front-ccat.php:3394
+#: templates/parts/content/singular/comments/comment_list.php:19
+msgid "comment"
+msgid_plural "comments"
+msgstr[0] "תגובה"
+msgstr[1] "תגובות"
+
+#: inc/czr-front-ccat.php:3375
+msgid "Comment(s) on"
+msgstr "תגובות על"
+
+#: inc/czr-front-ccat.php:3352 templates/comments-no-model.php:24
+msgid "Leave a comment"
+msgstr "כתיבת תגובה"
+
+#: inc/czr-front-ccat.php:3317
+#: templates/parts/content/singular/comments/comment_list.php:89
+msgid "Comments are closed."
+msgstr "סגור לתגובות."
+
+#: inc/czr-front-ccat.php:3277
+#: templates/parts/content/singular/comments/comment_list.php:72
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&rarr;</span> תגובות ישנות יותר"
+
+#: inc/czr-front-ccat.php:3285
+#: templates/parts/content/singular/comments/comment_list.php:80
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "תגובות חדשות יותר <span class=\"meta-nav\">&larr;</span>"
+
+#: inc/czr-front-ccat.php:3271
+#: templates/parts/content/singular/comments/comment_list.php:66
+msgid "Comment navigation"
+msgstr "ניווט בתגובות"
+
+#: inc/czr-front-ccat.php:3236
+#: templates/parts/content/singular/comments/comment.php:37
+msgid "Your comment is awaiting moderation."
+msgstr "תגובתך ממתינה לאישור"
+
+#. translators: 1: date, 2: time
+#: inc/czr-front-ccat.php:3231
+msgid "%1$s at %2$s"
+msgstr "%1$s בשעה %2$s"
+
+#: inc/czr-front-ccat.php:3224
+#: templates/parts/content/singular/comments/comment.php:22
+msgid "Post author"
+msgstr "מחבר הפוסט"
+
+#: inc/czr-front-ccat.php:3211
+msgid "Reply"
+msgstr "להשיב"
+
+#: inc/czr-front-ccat.php:3183
+msgid "(Edit)"
+msgstr "(עריכה)"
+
+#: inc/czr-front-ccat.php:3120
+#: templates/parts/content/singular/comments/comment_list.php:11
+msgid "One thought on"
+msgstr "מחשבה אחת על"
+
+#: inc/czr-front-ccat.php:3182
+msgid "Pingback:"
+msgstr "פינגבק:"
+
+#: inc/czr-front-ccat.php:3122
+#: templates/parts/content/singular/comments/comment_list.php:11
+msgid "thoughts on"
+msgstr "מחשבות על"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:804
+#: inc/czr-front-ccat.php:2814
+msgid "F Y"
+msgstr "F Y"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:808
+#: inc/czr-front-ccat.php:2818
+msgid "F j, Y"
+msgstr "j בF Y"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:654
+#: inc/czr-front-ccat.php:2663
+msgid "Merge"
+msgstr "מזג"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:570
+#: inc/czr-front-ccat.php:2582
+msgid "404 Not Found"
+msgstr "404 לא נמצא"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:523
+#: core/front/models/modules/common/class-model-breadcrumb.php:544
+#: core/front/models/modules/common/class-model-breadcrumb.php:546
+#: core/front/models/modules/common/class-model-breadcrumb.php:804
+#: inc/czr-front-ccat.php:2535 inc/czr-front-ccat.php:2556
+#: inc/czr-front-ccat.php:2558 inc/czr-front-ccat.php:2814
+msgid "F"
+msgstr "F"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:576
+#: core/front/models/modules/common/class-model-breadcrumb.php:578
+#: inc/czr-front-ccat.php:2588 inc/czr-front-ccat.php:2590
+msgid "Page %d"
+msgstr "עמוד %d"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:563
+#: core/front/models/modules/common/class-model-breadcrumb.php:565
+#: inc/czr-front-ccat.php:2575 inc/czr-front-ccat.php:2577
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "תוצאות חיפוש של  &quot;%1$s&quot;"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:650
+#: inc/czr-front-ccat.php:2659
+msgid "Split"
+msgstr "פצל"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:535
+#: core/front/models/modules/common/class-model-breadcrumb.php:537
+#: inc/czr-front-ccat.php:2547 inc/czr-front-ccat.php:2549
+msgid "Week %1$s"
+msgstr "שבוע %1$s"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:526
+#: core/front/models/modules/common/class-model-breadcrumb.php:528
+#: core/front/models/modules/common/class-model-breadcrumb.php:808
+#: inc/czr-front-ccat.php:2538 inc/czr-front-ccat.php:2540
+#: inc/czr-front-ccat.php:2818
+msgid "d"
+msgstr "d"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:535
+#: core/front/models/modules/common/class-model-breadcrumb.php:537
+#: inc/czr-front-ccat.php:2547 inc/czr-front-ccat.php:2549
+msgid "W"
+msgstr "W"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:503
+#: inc/czr-front-ccat.php:2515
+msgid "Minute %1$s"
+msgstr "דקה %1$s"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:522
+#: core/front/models/modules/common/class-model-breadcrumb.php:532
+#: core/front/models/modules/common/class-model-breadcrumb.php:541
+#: core/front/models/modules/common/class-model-breadcrumb.php:552
+#: core/front/models/modules/common/class-model-breadcrumb.php:554
+#: core/front/models/modules/common/class-model-breadcrumb.php:800
+#: inc/czr-front-ccat.php:2534 inc/czr-front-ccat.php:2544
+#: inc/czr-front-ccat.php:2553 inc/czr-front-ccat.php:2564
+#: inc/czr-front-ccat.php:2566 inc/czr-front-ccat.php:2810
+msgid "Y"
+msgstr "Y"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:506
+#: inc/czr-front-ccat.php:2518
+msgid "g a"
+msgstr "g a"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:503
+#: inc/czr-front-ccat.php:2515
+msgid "i"
+msgstr "i"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:500
+#: inc/czr-front-ccat.php:2512
+msgid "g:i a"
+msgstr "g:i a"
+
+#: core/front/models/modules/common/class-model-breadcrumb.php:60
+#: inc/czr-front-ccat.php:2017
+msgid "Browse:"
+msgstr "Browse:"
+
+#: core/front/models/header/parts/class-model-menu.php:255
+#: core/front/models/modules/common/class-model-breadcrumb.php:51
+#: core/front/models/modules/common/class-model-breadcrumb.php:63
+#: inc/czr-front-ccat.php:1465 inc/czr-front-ccat.php:2008
+#: inc/czr-front-ccat.php:2020
+msgid "Home"
+msgstr "דף הבית"
+
+#: inc/czr-front-ccat.php:1857
+msgid "Next &rarr;"
+msgstr "הבא &larr;"
+
+#: inc/czr-front-ccat.php:1856
+msgid "&larr; Previous"
+msgstr "&rarr; הקודם"
+
+#: core/core-settings-map.php:1440
+msgid "Apply a colored bottom border to each grid items"
+msgstr "הפעלת גבול תחתון בצבע לכל פריט במטריצה"
+
+#: core/core-settings-map.php:1431
+msgid "Apply a shadow to each grid items"
+msgstr "הפעלת הצללה לפריטים במטריצה"
+
+#: inc/czr-init-ccat.php:2903
+msgid "Apply the grid layout to Search results"
+msgstr "הפעלת פריסת מטריצה על תוצאות חיפוש"
+
+#: core/core-settings-map.php:1451
+msgid "Max. length for post titles (in words)"
+msgstr "אורך מירבי של כותרת פוסט (במילים)"
+
+#: inc/czr-init-ccat.php:2952
+msgid "Set the post grid thumbnail's max height in pixels"
+msgstr "קביעת הגובה המירבי בפיקסלים של התמונות בתצוגת רשת"
+
+#: inc/czr-init-ccat.php:2951
+msgid "Thumbnails max height for the grid layout"
+msgstr "גובה מירבי לתמונה ממוזערת בתצוגת מטריצה"
+
+#: inc/czr-init-ccat.php:2907
+msgid "Unchecked contexts are displayed with the alternate thumbnails layout."
+msgstr "קונטקסטים לא מסומנים מוצגים בפריסת תמונה מתחלפת"
+
+#: core/core-settings-map.php:1411
+msgid "1"
+msgstr "1"
+
+#: core/core-settings-map.php:1412
+msgid "2"
+msgstr "2"
+
+#: core/core-settings-map.php:1413
+msgid "3"
+msgstr "3"
+
+#: core/core-settings-map.php:1414
+msgid "4"
+msgstr "4"
+
+#: core/core-settings-map.php:1395
+msgid "Alternate thumbnails layout"
+msgstr "פריסת תמונות ממוזערות מתחלפות"
+
+#: inc/czr-init-ccat.php:2895
+msgid "Apply the grid layout to Archives (archives, categories, author posts)"
+msgstr "הפעלת פריסת המטריצה על ארכיבים (ארכיון, קטגוריות, פוסטים של מחבר)"
+
+#: inc/czr-init-ccat.php:2887
+msgid "Apply the grid layout to Home/Blog"
+msgstr "הפעלת פריסת מטריצה על דף הבית/בלוג"
+
+#: core/core-settings-map.php:1422
+msgid "Expand the last sticky post (for home and blog page only)"
+msgstr "הרחבת הפוסט הדביק האחרון (לדף הבית ובלוג בלבד)"
+
+#: core/core-settings-map.php:1396
+msgid "Grid layout"
+msgstr "פריסת הרשת"
+
+#: core/core-settings-map.php:1139
+msgid "If this option is checked, your images will be resized with your custom height on upload. This is better for your overall loading performance."
+msgstr "אם אפשרות זו מסומנת, התמונות שלך יותאמו לגובה המותאם שבחרת בעת טעינתן. הדבר ישפר את ביצועי הטעינה הכלליים."
+
+#: core/core-settings-map.php:1417
+msgid "Note : columns are limited to 3 for single sidebar layouts and to 2 for double sidebar layouts."
+msgstr "הערה: עמודות מוגבלות ל-3 בפריסת סרגל צדדי יחיד, ול-2 בפריסת שני סרגלים צדדיים."
+
+#: core/core-settings-map.php:1407
+msgid "Number of columns per row"
+msgstr "מספר עמודות לכל שורה"
+
+#: core/core-settings-map.php:1390
+msgid "Post List Design"
+msgstr "עיצוב רשימת פוסטים"
+
+#: core/core-settings-map.php:1391
+msgid "Select a Layout"
+msgstr "בחירת פריסה"
+
+#: core/core-settings-map.php:1402
+msgid "When you select the grid Layout, the post content is limited to the excerpt."
+msgstr "כשבוחרים תצוגת מטריצה, תוכן הפוסטים מוגבל לתקציר."
+
+#: core/core-settings-map.php:1140
+msgid "You might want to regenerate your thumbnails."
+msgstr "אולי תרצה לחולל מחדש את התמונות הממוזערות?"
+
+#: core/core-settings-map.php:1125
+msgid "Apply this height to all sliders"
+msgstr "הפעל גובה זה על כל השקופיות"
+
+#: core/core-settings-map.php:1833
+msgid "By default, WordPress displays the past comments, even if comments are disabled in posts or pages. Unchecking this option allows you to not display this comment history."
+msgstr "כברירת מחדל, וורדפרס מציג תגובות, גם כאשר התגובות חסומות לדף או לפוסט. ביטול סימון אפשרות זו תאפשר לכם למנוע הצגת הסטוריית התגובות."
+
+#: core/core-settings-map.php:2052
+msgid "Check this option to delay the loading of non visible images. Images below the viewport will be loaded dynamically on scroll. This can boost performances by reducing the weight of long web pages with images."
+msgstr "סימון אפשרות זו משהה את טעינת התמונות שאינן ניראות במסך הראשון. תמונות מתחת לקו התצוגה ייטענו באופן דינאמי בהתאם לגלילה. שיפור ביצועים יורגש בטעינת דפים ארוכים עם תמונות."
+
+#: core/core-settings-map.php:1977
+msgid "Display a back to top arrow on scroll"
+msgstr "הצג חץ \"חזרה למעלה\" בגלילה"
+
+#: core/core-settings-map.php:1860
+msgid "Display navigation in pages"
+msgstr "הצגת ניווט בעמודים."
+
+#: core/core-settings-map.php:1848
+msgid "Display posts navigation"
+msgstr "הצגת ניווט בפוסטים"
+
+#: core/core-settings-map.php:1878
+msgid "Display posts navigation in post lists (archives, blog page, categories, search results ..)"
+msgstr "הצגת לחצני ניווט ברשימת פוסטים (ארכיון, עמוד בלוג, קטגוריות, תוצאות חיפוש...)"
+
+#: core/core-settings-map.php:1869
+msgid "Display posts navigation in single posts"
+msgstr "הצגת לחצני ניווט בפוסט יחיד."
+
+#: core/core-settings-map.php:1813
+msgid "Enable comments on posts"
+msgstr "אפשר תגובות על פוסטים"
+
+#: core/core-settings-map.php:1818
+msgid "If checked, this option enables comments on all types of single posts. You can disable comments for a single post in quick edit mode from the"
+msgstr "אפשרות זו תאפשר תגובות על כל סוגי הפוסטים הבודדים. תוכלו להשבית תגובות לפוסט בודד במצב עריכה מהירה"
+
+#: core/core-settings-map.php:1804
+msgid "If checked, this option will enable comments on pages. You can disable comments for a single page in the quick edit mode of the page list screen."
+msgstr "אפשרות זו תאפשר תגובות על עמודים. תוכלו להשבית תגובות לעמוד בודד במצב עריכה מהירה במסך רשימת העמודים."
+
+#: core/core-settings-map.php:2047
+msgid "Load images on scroll"
+msgstr "טעינת תמונות בגלילה"
+
+#: core/core-settings-map.php:1798
+msgid "Other comments settings"
+msgstr "הגדרות נוספות לתגובות"
+
+#: core/core-settings-map.php:1133
+msgid "Replace the default image slider's height"
+msgstr "החלף את גובה ברירת המחדל של מצגת (סליידר) התמונות"
+
+#: core/core-settings-map.php:1115
+msgid "Set slider's height in pixels"
+msgstr "הגדר גובה הסליידר בפיקסלים"
+
+#: inc/czr-init-ccat.php:3087
+msgid "Social link title in sidebars"
+msgstr "כותרת הקישורים החברתיים בסרגל הצדדי"
+
+#: core/core-settings-map.php:1851
+msgid "When this option is checked, the posts navigation is displayed below the posts"
+msgstr "כאשר אפשרות זו מופעלת, לחצני הניווט מוצגים בתחתית הפוסט."
+
+#: inc/czr-init-ccat.php:3093
+msgid "Will be hidden if empty"
+msgstr "יוסתר כאשר ריק"
+
+#: core/core-settings-map.php:1805
+msgid "You can also change other comments settings in :"
+msgstr "ניתן לשנות הגדרות נוספות לתגובות ב :"
+
+#: core/core-settings-map.php:1821
+msgid "You can also change other comments settings in the"
+msgstr "ניתן לשנות הגדרות נוספות לתגובות ב"
+
+#: core/core-settings-map.php:1823
+msgid "discussion settings page."
+msgstr "דף הגדרות דיון"
+
+#: core/core-settings-map.php:1820
+msgid "post screen"
+msgstr "מסך פוסטים"
+
+#: core/core-settings-map.php:1807
+msgid "the discussion settings page."
+msgstr "דף הגדרות דיון"
+
+#: core/core-settings-map.php:1829
+msgid "Display the comment list"
+msgstr "הצגת רשימת התגובות"
+
+#: inc/czr-init-ccat.php:2283
+msgid "(number of words)"
+msgstr "(מספר מילים)"
+
+#: core/core-settings-map.php:1491 core/core-settings-map.php:1550
+msgid "After the title"
+msgstr "אחרי הכותרת"
+
+#: core/core-settings-map.php:1342
+msgid "Alternate thumbnail/content"
+msgstr "תוכן / תמונה ממוזערת מתחלפים"
+
+#: core/core-settings-map.php:1752
+msgid "Apply Customizr effects to galleries images"
+msgstr "הפעלת אפקטי Customizr על תמונות בגלריות"
+
+#: inc/czr-init-ccat.php:2312
+msgid "Apply a drop cap to the first paragraph of your pages"
+msgstr "הפעלת אות ראשונה מוגדלת בפסקה הראשונה בדפים"
+
+#: inc/czr-init-ccat.php:2304
+msgid "Apply a drop cap to the first paragraph of your single posts content"
+msgstr "הפעל אות ראשונה מוגדלת בפסקה הראשונה בתוכן של פוסט יחיד"
+
+#: core/core-settings-map.php:1761
+msgid "Apply lightbox effects to galleries images"
+msgstr "הפעלת אפקט לייטבוקס על תמונות בגלריות"
+
+#: core/core-settings-map.php:1770
+msgid "Apply nice on hover expansion effect to the galleries images"
+msgstr "הפעלת אפקט נאה של הרחבה בריחוף על תמונות בגלריה"
+
+#: core/core-settings-map.php:1351
+msgid "Archive titles"
+msgstr "כותרות ארכיון"
+
+#: core/core-settings-map.php:1370
+msgid "Author pages titles"
+msgstr "כותרות דפי מחבר"
+
+#: core/core-settings-map.php:1490 core/core-settings-map.php:1549
+msgid "Before the title boxed"
+msgstr "לפני תיבת הכותרת"
+
+#: core/core-settings-map.php:1489 core/core-settings-map.php:1548
+msgid "Before the title in full width"
+msgstr "לפני הכותרת ברוחב מלא"
+
+#: core/core-settings-map.php:1352
+msgid "Category pages titles"
+msgstr "כותרות דפי קטגוריה"
+
+#: inc/czr-init-ccat.php:3018 inc/czr-init-ccat.php:3031
+msgid "Comments bubble color"
+msgstr "צבע הבועות של התגובות"
+
+#: inc/czr-init-ccat.php:3005
+msgid "Comments bubble shape"
+msgstr "צורת הבועות של התגובות"
+
+#: core/core-settings-map.php:446 inc/czr-init-ccat.php:3023
+msgid "Custom"
+msgstr "CSS מותאם אישית"
+
+#: core/core-settings-map.php:1790
+msgid "Display the number of comments in a bubble next to the post title"
+msgstr "הצג את מספר התגובות בתוך בועה לצד כותרת הפוסט"
+
+#: core/core-settings-map.php:1488 core/core-settings-map.php:1547
+msgid "Don't display"
+msgstr "לא להציג"
+
+#: inc/czr-init-ccat.php:2292
+msgid "Drop cap style"
+msgstr "סגנון אות מודגשת"
+
+#: inc/czr-init-ccat.php:2271
+msgid "Drop caps"
+msgstr "אות מודגשת בראש פסקה (Drop Caps)"
+
+#: core/core-settings-map.php:1768
+msgid "Enable Customizr effects on hover"
+msgstr "אפשר אפקטי Customizr בריחוף"
+
+#: core/core-settings-map.php:1750
+msgid "Enable Customizr galleries"
+msgstr "אפשר גלריות Customizr"
+
+#: core/core-settings-map.php:1759
+msgid "Enable Lightbox effect in galleries"
+msgstr "אפשר אפקט Lightbox בגלריות"
+
+#: inc/czr-init-ccat.php:2272
+msgid "Enable drop caps"
+msgstr "אפשר אות מודגשת"
+
+#: inc/czr-init-ccat.php:2310
+msgid "Enable drop caps in pages"
+msgstr "אפשר אות מודגשת בדפים"
+
+#: inc/czr-init-ccat.php:2302
+msgid "Enable drop caps in posts"
+msgstr "אפשר אות מודגשת בפוסטים"
+
+#: inc/czr-init-ccat.php:3010
+msgid "Large bubbles"
+msgstr "בועות גדולות"
+
+#: core/core-settings-map.php:1378 inc/czr-front-ccat.php:4318
+msgid "Search Results for :"
+msgstr "תוצאות חיפוש של:"
+
+#: core/core-settings-map.php:1379
+msgid "Search results page titles"
+msgstr "כותרות דפי תוצאות חיפוש"
+
+#: inc/czr-init-ccat.php:2297
+msgid "Simple black"
+msgstr "שחור פשוט"
+
+#: inc/czr-init-ccat.php:3022
+msgid "Skin color"
+msgstr "צבע מעטפת"
+
+#: inc/czr-init-ccat.php:3009
+msgid "Small bubbles"
+msgstr "בועות קטנות"
+
+#: core/core-settings-map.php:1361
+msgid "Tag pages titles"
+msgstr "כותרות דפי תגיות"
+
+#: inc/czr-init-ccat.php:2274
+msgid "Apply a drop cap to the first paragraph of your post / page content"
+msgstr "הפעלת אות ראשונה מוגדלת על הפיסקה הראשונה בתוכן של העמודים / פוסטים."
+
+#: inc/czr-init-ccat.php:2282
+msgid "Apply a drop cap when the paragraph includes at least the following number of words :"
+msgstr "הפעל אות ראשונה מוגדלת כאשר הפסקה הראשונה מכילה לפחות את כמות המילים הבאה:"
+
+#: core/core-settings-map.php:1483 core/core-settings-map.php:1542
+msgid "Post thumbnail position"
+msgstr "מיקום תמונה ממוזערת בפוסטים"
+
+#: core/core-settings-map.php:1335 core/core-settings-map.php:1989
+msgid "Left"
+msgstr "משמאל"
+
+#: inc/czr-init-ccat.php:2980
+msgid "Bottom"
+msgstr "למטה"
+
+#: core/core-settings-map.php:1334 core/core-settings-map.php:1990
+msgid "Right"
+msgstr "מימין"
+
+#: inc/czr-init-ccat.php:2979
+msgid "Top"
+msgstr "למעלה"
+
+#: inc/czr-init-ccat.php:2825
+msgid "Alert (orange)"
+msgstr "התראה (כתום)"
+
+#: inc/czr-init-ccat.php:2780
+msgid "Date of the last update"
+msgstr "תאריך עדכון אחרון"
+
+#: inc/czr-init-ccat.php:2823
+msgid "Default (grey)"
+msgstr "ברירת מחדל (אפור)"
+
+#: inc/czr-init-ccat.php:2789
+msgid "Display a recent update notice"
+msgstr "הצג הודעת \"עודכן לאחרונה\""
+
+#: core/core-settings-map.php:1704
+msgid "Display non-hierarchical taxonomies (like tags)"
+msgstr "הצג טקסונומיות לא היררכיות (כמו תגיות)"
+
+#: core/core-settings-map.php:1713
+msgid "Display the author"
+msgstr "הצג את שם המחבר"
+
+#: inc/czr-init-ccat.php:2799
+msgid "Display the notice if the last update is less (strictly) than n days old"
+msgstr "הצג את ההודעה אם העדכון האחרון הוא לפני פחות ממספר הימים שתבחר"
+
+#: core/core-settings-map.php:1295
+msgid "Display the post thumbnails"
+msgstr "הצג את המובאה (תקציר)"
+
+#: core/core-settings-map.php:1721
+msgid "Display the publication date"
+msgstr "הצג את תאריך הפרסום"
+
+#: core/core-settings-map.php:1731
+msgid "Display the update date"
+msgstr "הצג את תאריך העדכון"
+
+#: inc/czr-init-ccat.php:2793
+msgid "If this option is checked, a customizable recent update notice is displayed next to the post title."
+msgstr "אם אפשרות זו מסומנת, הודעת \"עודכן לאחרונה\" מותאמת אישית תוצג לצד כותרת הפוסט."
+
+#: inc/czr-init-ccat.php:2838
+msgid "If this option is checked, additional date informations about the the last post update can be displayed (nothing will show up if the post has never been updated)."
+msgstr "אפ אפשרות זו מסומנת, מידע תאריכי נוסף אודות העדכון האחרון יוכל להיות מוצג (לא יוצג שום דבר אם לא היה עדכון לפוסט)."
+
+#: inc/czr-init-ccat.php:2826
+msgid "Important (red)"
+msgstr "חשוב (אדום)"
+
+#: inc/czr-init-ccat.php:2827
+msgid "Info (blue)"
+msgstr "מידע (כחול)"
+
+#: inc/czr-init-ccat.php:2779
+msgid "No. of days since last update"
+msgstr "מספר הימים מאז העדכון האחרון"
+
+#: core/core-settings-map.php:1299
+msgid "Note : thumbnails are always displayed when the grid layout is choosen."
+msgstr "הערה: תמונות ממוזערות מוצגות תמיד כשבוחרים בפריסת מטריצה"
+
+#: inc/czr-init-ccat.php:2788
+msgid "Recent update notice after post titles"
+msgstr "הודעת \"עודכן לאחרונה\" לאחר כותרות פוסטים"
+
+#: inc/czr-init-ccat.php:2808
+msgid "Recently updated !"
+msgstr "עודכן לאחרונה!"
+
+#: inc/czr-init-ccat.php:2970
+msgid "Rectangular with blur effect on hover"
+msgstr "מלבניות, עם אפקט טשטוש בריחוף"
+
+#: inc/czr-init-ccat.php:2969
+msgid "Rectangular with no effect"
+msgstr "מלבניות, ללא אפקט"
+
+#: inc/czr-init-ccat.php:2971
+msgid "Rectangular with unblur effect on hover"
+msgstr "מלבניות, מתבהרות בריחוף"
+
+#: core/core-settings-map.php:1319
+msgid "Rounded, expand on hover"
+msgstr "מעוגלות, מוגדלות בריחוף"
+
+#: core/core-settings-map.php:1320
+msgid "Rounded, no expansion"
+msgstr "מעוגלות, ללא הגדלה"
+
+#: inc/czr-init-ccat.php:2775
+msgid "Select the last update format"
+msgstr "בחר את מבנה \"עדכון אחרון\""
+
+#: inc/czr-init-ccat.php:2805
+msgid "Set a maximum interval (in days) during which the last update notice will be displayed."
+msgstr "קבע את פרק הזמן המירבי (בימים) שבמהלכו תוצג הודעת \"עודכן לאחרונה!\""
+
+#: core/core-settings-map.php:1280
+msgid "Set the excerpt length (in number of words) "
+msgstr "קביעת אורך המובאה/תקציר (במספר המילים שיוצגו)"
+
+#: core/core-settings-map.php:1505 core/core-settings-map.php:1564
+#: inc/czr-init-ccat.php:2939
+msgid "Set the thumbnail's max height in pixels"
+msgstr "קביעת הגובה המירבי בפיקסלים של התמונות הממוזערות"
+
+#: inc/czr-init-ccat.php:2967
+msgid "Squared, expand on hover"
+msgstr "ריבועיות, מוגדלות בריחוף"
+
+#: inc/czr-init-ccat.php:2968
+msgid "Squared, no expansion"
+msgstr "ריבועיות, ללא הגדלה"
+
+#: inc/czr-init-ccat.php:2824
+msgid "Success (green)"
+msgstr "הצלחה (ירוק)"
+
+#: core/core-settings-map.php:1294
+msgid "Thumbnails options"
+msgstr "אפשרויות תמונות מוקטנות"
+
+#: core/core-settings-map.php:1314
+msgid "Thumbnails options for the alternate thumbnails layout"
+msgstr "אפשרויות תמונות ממוזערות עבור פריסת תמונת מתחלפות"
+
+#: core/core-settings-map.php:1328
+msgid "Thumbnails position"
+msgstr "מיקום תמונות ממוזערות"
+
+#: core/core-settings-map.php:1315
+msgid "Thumbnails shape"
+msgstr "צורת תמונות ממוזערות"
+
+#: inc/czr-init-ccat.php:2819
+msgid "Update notice style"
+msgstr "סגנון הודעת עדכון"
+
+#: inc/czr-init-ccat.php:2810
+msgid "Update notice text"
+msgstr "מלל הודעת עדכון"
+
+#: inc/czr-init-ccat.php:2921
+msgid "Upload a default thumbnail"
+msgstr "טעינת תמונת ברירת מחדל ממוזערת"
+
+#: core/core-settings-map.php:1299
+msgid "When this option is checked, the post thumbnails are displayed in all post lists : blog, archives, author page, search pages, ..."
+msgstr "כשאפשרות זו מסומנת, התמונה ההמוזערת של הפוסט תוצג בכל רשימות הפוסטים: בלוג, ארכיונים, דפי מחבר, דפי חיפוש וכו'."
+
+#: core/core-settings-map.php:1304
+msgid "If no featured image is set for a post, use the last image attached to this post."
+msgstr "אם אין תמונה ראשית, השתמשו בתמונה האחרונה המוצמדת לפוסט."
+
+#: inc/czr-init-ccat.php:2767
+msgid "Buttons and text"
+msgstr "לחצנים ומלל"
+
+#: core/core-settings-map.php:1695
+msgid "Display hierarchical taxonomies (like categories)"
+msgstr "הצג טקסונומיות היררכיות (כמו קטגוריות)"
+
+#: core/core-settings-map.php:1655
+msgid "Display posts metas"
+msgstr "הצג תוכן מטא של הפוסט"
+
+#: core/core-settings-map.php:1675
+msgid "Display posts metas for single posts"
+msgstr "הצג תוכן מטא של פוסט עבור פוסט בודד"
+
+#: core/core-settings-map.php:1684
+msgid "Display posts metas in post lists (archives, blog page)"
+msgstr "הצג תוכן מטא של פוסט ברשימת פוסטים (ארכיב, דף בלוג)"
+
+#: core/core-settings-map.php:1666
+msgid "Display posts metas on home"
+msgstr "הצג תוכן מטא של פוסט בדף הבית"
+
+#: core/core-settings-map.php:1603
+msgid "Display the breadcrumb in pages"
+msgstr "הצג פירורי לחם (breadcrumb) בדפים"
+
+#: core/core-settings-map.php:1621
+msgid "Display the breadcrumb in posts lists : blog page, archives, search results..."
+msgstr "הצג את 'פירורי הלחם' ברשימת פוסטים: בלוג, דפי ארכיון, תוצאות חיפוש וכו'."
+
+#: core/core-settings-map.php:1612
+msgid "Display the breadcrumb in single posts"
+msgstr "הצג פירורי לחם (breadcrumb) בפוסט בודד"
+
+#: core/core-settings-map.php:1595
+msgid "Display the breadcrumb on home page"
+msgstr "הצג פירורי לחם (breadcrumb) בדף הבית"
+
+#: core/core-settings-map.php:286 inc/czr-init-ccat.php:2230
+msgid "Fade effect on link hover"
+msgstr "אפקט עמעום בריחוף על קישור"
+
+#: core/core-settings-map.php:853
+msgid "Hover move effect for the sub menu items"
+msgstr "אפקט תנועה בריחוף בתת-בתפריטים"
+
+#: core/core-settings-map.php:807 core/core-settings-map.php:821
+#: inc/czr-init-ccat.php:2664 inc/czr-init-ccat.php:2685
+msgid "Menu on the left"
+msgstr "תפריט בצד שמאל"
+
+#: core/core-settings-map.php:808 core/core-settings-map.php:822
+#: inc/czr-init-ccat.php:2666 inc/czr-init-ccat.php:2687
+msgid "Menu on the right"
+msgstr "תפריט בצד ימין"
+
+#: inc/czr-init-ccat.php:2762
+msgid "Metas Design"
+msgstr "עיצוב תגי מטא"
+
+#: inc/czr-init-ccat.php:2263
+msgid "Open external links in a new tab"
+msgstr "פתיחת קישורים חיצוניים בלשונית חדשה"
+
+#: core/core-settings-map.php:844
+msgid "Reveal the sub-menus blocks with a fade effect"
+msgstr "חשיפת תת-תפריט באפקט עמעום"
+
+#: inc/czr-init-ccat.php:2763
+msgid "Select a design for the post metas"
+msgstr "בחירת עיצוב לתגי מטא של פוסטים"
+
+#: core/core-settings-map.php:1665 core/core-settings-map.php:1859
+msgid "Select the contexts"
+msgstr "בחר את התוכן"
+
+#: core/core-settings-map.php:1694
+msgid "Select the metas to display"
+msgstr "בחר את סוגי המטא להצגה"
+
+#: inc/czr-init-ccat.php:2768
+msgid "Text only"
+msgstr "מלל בלבד"
+
+#: inc/czr-init-ccat.php:2256 inc/czr-init-ccat.php:2266
+msgid "This will be applied to the links included in post or page content only."
+msgstr "אפשרות זו תיושם על קישורים בפוסטים או דפים בלבד."
+
+#: inc/czr-init-ccat.php:2335
+msgid "When this option is checked, a contextual icon is displayed next to the titles of pages, posts, archives, and WP built-in widgets."
+msgstr "כשאפשרות זו מסומנת, סמליל קונטקסט מוצג בכותרת של דפים, פוסטים, ארכיונים, ו-ווידג'טים של וורדפרס."
+
+#: inc/czr-init-ccat.php:2372
+msgid "When this option is checked, a post type icon is displayed on the left of each post titles in an archive page. An archive page can be : category, tag, author, date archive, custom taxonomies, search results."
+msgstr "כשאפשרות זו מסומנת, סמליל סוג פוסט יוצג לצד כותרות הפוסטים בדף ארכיון. דף ארכון יכול להיות: קטגוריה, תגית, מחבר, ארכיון תאריכי, טקסונומיות או תוצאות חיפוש."
+
+#: inc/czr-init-ccat.php:2362
+msgid "When this option is checked, an archive type icon is displayed in the heading of every types of archives, on the left of the title. An archive page can be : category, tag, author, date archive, custom taxonomies, search results."
+msgstr "כשאפשרות זו מסומנת, סמליל של ארכיב מוצג בכותרת של כל סוגי הארכיון, משמאל לכותרת. דף ארכיון יכול להיות : קטגוריה, תגית, מחבר, תאריך ארכיב, טקסונומיות ותוצאות חיפוש."
+
+#: core/core-settings-map.php:1658
+msgid "When this option is checked, the post metas (like taxonomies, date and author) are displayed below the post titles."
+msgstr "כשאפשרות זו מסומנת, תוכן מטא של הפוסט (כמו טקסונומיות, תאריך ומחבר) יוצג מתחת לכותרות הפוסטים."
+
+#: core/core-settings-map.php:517
+msgid "the z-index"
+msgstr "אינדקס ה-Z"
+
+#: inc/czr-init-ccat.php:2253
+msgid "Display an icon next to external links"
+msgstr "הצגת סמליל לצד קישורים חיצוניים"
+
+#: inc/czr-init-ccat.php:2331
+msgid "Display icons next to titles"
+msgstr "הצגת סמלילים ליד הכותרות"
+
+#: inc/czr-init-ccat.php:2341
+msgid "Display a page icon next to the page title"
+msgstr "הצגת סמליל של דף ליד כותרת העמוד"
+
+#: inc/czr-init-ccat.php:2350
+msgid "Display a post icon next to the single post title"
+msgstr "הצגת סמליל של פוסט ליד כותרת הפוסט"
+
+#: inc/czr-init-ccat.php:2359
+msgid "Display an icon next to the archive title"
+msgstr "הצגת סמליל לצד כותרת הארכיב"
+
+#: inc/czr-init-ccat.php:2369
+msgid "Display an icon next to each post title in an archive page"
+msgstr "הצגת סמליל לצד כותרת כל פוסט בדף הארכיב"
+
+#: inc/czr-init-ccat.php:2379
+msgid "WP sidebar widgets : display icons next to titles"
+msgstr "ווידג'טים של וורדפרס בסרגל הצדדי : הצגת סמלילים לצד הכותרות"
+
+#: inc/czr-init-ccat.php:2388
+msgid "WP footer widgets : display icons next to titles"
+msgstr "ווידג'טים של וורדפרס בפוטר: הצגת סמלילים לצד הכותרות"
+
+#: inc/czr-init-ccat.php:2533
+msgid "If checked, this option makes the header stick to the top of the page on scroll down."
+msgstr "אם סומנה, אפשרות זו תגרום לכותרת להיצמד לחלק העליון של הדף בעת גלילה מטה."
+
+#: core/core-settings-map.php:540
+msgid "Logo / title centered"
+msgstr "לוגו / שם אתר במרכז"
+
+#: core/core-settings-map.php:538
+msgid "Logo / title on the left"
+msgstr "לוגו / שם אתר בצד שמאל"
+
+#: core/core-settings-map.php:539
+msgid "Logo / title on the right"
+msgstr "לוגו / שם אתר בצד ימין"
+
+#: core/core-settings-map.php:507
+msgid "Set the header z-index"
+msgstr "קביעת אידקס-Z של הכותרת העליונה"
+
+#: inc/czr-init-ccat.php:2567
+msgid "Sticky header : display the menu"
+msgstr "כותרת דביקה : הצג את התפריט"
+
+#: inc/czr-init-ccat.php:2538
+msgid "Sticky header : display the tagline"
+msgstr "כותרת דביקה : הצג את תיאור האתר"
+
+#: inc/czr-init-ccat.php:2558
+msgid "Sticky header : display the title / logo"
+msgstr "כותרת דביקה : הצג את הלוגו / שם האתר"
+
+#: core/core-settings-map.php:497
+msgid "Sticky header : semi-transparent on scroll"
+msgstr "כותרת דביקה : שקופה למחצה בגלילה"
+
+#: core/core-settings-map.php:661
+msgid "Sticky header : shrink title / logo"
+msgstr "כותרת דביקה : מזער לוגו / שם האתר"
+
+#: inc/czr-init-ccat.php:2527
+msgid "Sticky header settings"
+msgstr "הגדרות כותרת  דביקה"
+
+#: inc/czr-init-ccat.php:2528
+msgid "Sticky on scroll"
+msgstr "דביק בגלילה"
+
+#: core/core-settings-map.php:515
+msgid "What is"
+msgstr "מהו"
+
+#: inc/czr-init-ccat.php:2517
+msgid "Display menu in a box"
+msgstr "הצג את התפריט בתוך מסגרת"
+
+#: inc/czr-init-ccat.php:2522
+msgid "If checked, this option wraps the header menu/tagline/social in a light grey box."
+msgstr "אם סומנה, אפשרות זו תעטוף את התפריט/שם האתר/קישורים חברתיים שבכותרת העליונה, בתיבה אפורה בהירה."
+
+#: core/core-settings-map.php:237
+msgid "Set your website default font size in pixels."
+msgstr "קבעו את גודל ברירת המחדל של הגופן באתר, בפיקסלים."
+
+#: core/core-settings-map.php:245
+msgid "This option sets the default font size applied to any text element of your website, when no font size is already applied."
+msgstr "אפשרות זו קובעת את גודל ברירת המחדל שייושם על כל אלמנט מלל באתר, אם לא הוגדר לו גודל גופן יעודי."
+
+#: core/core-settings-map.php:398
+msgid "Display an author box after each single post content"
+msgstr "הצג תיבת מחבר לאחר תוכן כל פוסט בודד"
+
+#: core/core-settings-map.php:2489
+msgid "Footer global settings"
+msgstr "הגדרות כלליות לכותרת תחתונה"
+
+#: core/core-settings-map.php:1229
+msgid "Global Post Lists Settings"
+msgstr "הגדרות כלליות לרשימות פוסטים"
+
+#: core/core-settings-map.php:1199
+msgid "Note : the home page layout has to be set in the home page section"
+msgstr "הערה: הגדרת פריסת דף הבית מתבצעת בחלק של \"דף הבית\" בתפריט"
+
+#: core/core-settings-map.php:2469
+msgid "Post/Page Navigation"
+msgstr "ניווט בפוסטים/עמודים"
+
+#: core/core-settings-map.php:2505
+msgid "Website Performances"
+msgstr "ביצועי האתר"
+
+#: core/core-settings-map.php:225
+msgid "Select a beautiful font pair (headings &amp; default fonts) or single font for your website."
+msgstr "בחרו צמדי גופנים יפים (כותרת ותוכן) או גופן יחיד עובר האתר שלכם."
+
+#: core/core-settings-map.php:232
+msgid "This font picker allows you to preview and select among a handy selection of font pairs and single fonts. If you choose a pair, the first font will be applied to the site main headings : site name, site description, titles h1, h2, h3., while the second will be the default font of your website for any texts or paragraphs."
+msgstr "תיבת בחירה זו מאפשרת בחירה מתוך אוסף זמין של זוגות גופנים וגופנים יחידים ותצוגה מקדימה שלהם אם תבחרו בזוג, הגופן הראשון ישמש לכותרות הראשיות : שם האתר, תיאור האתר, כותרות h1,h2,h3, ואילו הגופן השני יהיה גופן ברירת המחדל של האתר בכל טקסט או פיסקה."
+
+#: core/core-settings-map.php:402
+msgid "Check this option to display an author info block after each single post content. Note : the Biographical info field must be filled out in the user profile."
+msgstr "בחר באפשרות זו כדי להציג את תיבת המידע של מחבר הפוסט לאחר תוכנו של כל פוסט יחיד. הערה : יש למלא תוכן בשדה המידע הביוגרפי בפרופיל המשתמש."
+
+#: core/core-settings-map.php:2452
+msgid "Galleries"
+msgstr "גלריות"
+
+#: core/core-settings-map.php:2440
+msgid "Breadcrumb"
+msgstr "פירורי לחם (breadcrumb)"
+
+#: core/core-settings-map.php:2422
+msgid "Post lists : blog, archives, ..."
+msgstr "רשימת פוסטים : בלוג, ארכיון,..."
+
+#: core/core-settings-map.php:2446
+msgid "Post metas (category, tags, custom taxonomies)"
+msgstr "תוכן מטא של פוסט (קטגוריה, תגיות, טקסונומיות מותאמות)"
+
+#: core/core-settings-map.php:2428
+msgid "Single posts"
+msgstr "פוסטים בודדים"
+
+#: core/core-settings-map.php:2277
+msgid "Your theme supports %s menu. Select which menu you would like to use."
+msgid_plural "Your theme supports %s menus. Select which menu appears in each location."
+msgstr[0] "ערכת העיצוב תומכת בתפריט %s. בחר באיזה תפריט ברצונך להשתמש."
+msgstr[1] "ערכת העיצוב תומכת ב-%s תפריטים. בחר באילו תפריטים ברצונך להשתמש."
+
+#: core/core-settings-map.php:2375
+msgid "Header design and layout"
+msgstr "עיצוב פריסת כותרת עליונה"
+
+#: core/core-settings-map.php:2359
+msgid "Authors"
+msgstr "מחברים"
+
+#: core/core-settings-map.php:2324
+msgid "Fonts"
+msgstr "גופני גוגל"
+
+#: core/core-settings-map.php:2342
+msgid "Image settings"
+msgstr "הגדרות תמונה"
+
+#: inc/czr-init-ccat.php:3180
+msgid "Set up the titles icons options"
+msgstr "הגדרת אפשרויות לסמלילי הכותרות"
+
+#: inc/czr-init-ccat.php:3178
+msgid "Titles icons settings"
+msgstr "הגדרות סמלילים לכותרות"
+
+#: inc/czr-init-ccat.php:3126
+msgid "Activate this option to move the sidebars (if any) after the main content block, for smartphones or tablets viewport."
+msgstr "הפעילו אפשרות זו על-מנת להזיז את סרגלי הצד (אם יש כאלה) לאחר בלוק התוכן הראשי, עבור תצוגת סמארטפונים וטאבלטים."
+
+#: core/core-settings-map.php:2017
+msgid "Add your custom css here and design live! (for advanced users)"
+msgstr "הוסף כאן את ה-CSS שלך ותעצב ב\"חי\"! (עבור משתמשים מתקדמים)"
+
+#: inc/czr-init-ccat.php:2417
+msgid "Autoscale images on zoom"
+msgstr "התאמה אוטומטית של תמונות בעת זום"
+
+#: core/core-settings-map.php:1246
+msgid "Choose the pages default layout"
+msgstr "בחירת פריסת ברירת מחדל עבור עמודים"
+
+#: core/core-settings-map.php:1217
+msgid "Choose the posts default layout"
+msgstr "בחירת פריסת ברירת המחדל עבור פוסטים"
+
+#: core/core-settings-map.php:1033 inc/czr-init-ccat.php:2878
+msgid "Display the excerpt"
+msgstr "הצג את המובאה (תקציר)"
+
+#: inc/czr-init-ccat.php:2879
+msgid "Display the full content"
+msgstr "הצג את כל התוכן"
+
+#: inc/czr-init-ccat.php:3123
+msgid "Dynamic sidebar reordering on small devices"
+msgstr "סידור דינאמי של סרגל צד במסכים קטנים"
+
+#: core/core-settings-map.php:332
+msgid "Dynamic slider images centering on any devices"
+msgstr "מירכוז שקופיות דינאמי בסליידר לכל המכשירים"
+
+#: core/core-settings-map.php:341
+msgid "Dynamic thumbnails centering on any devices"
+msgstr "מירכוז דינאמי של תמונות ממוזערות לכל המכשירים"
+
+#: core/core-settings-map.php:1799
+msgid "Enable comments on pages"
+msgstr "אפשר תגובות על עמודים"
+
+#: core/core-settings-map.php:1207
+msgid "Force default layout everywhere"
+msgstr "כפיית פריסת ברירת מחדל בכל מקום"
+
+#: core/core-settings-map.php:317
+msgid "High resolution (Retina) support"
+msgstr "תמיכה ברזולוציה גבוהה (רטינה)"
+
+#: core/core-settings-map.php:2023
+msgid "How to create and use a child theme ?"
+msgstr "כיצד ליצור תבנית בת ולהשתמש בה?"
+
+#: core/core-settings-map.php:311
+msgid "If enabled, this option activates a popin window whith a zoom effect when an image is clicked. Note : to enable this effect on the images of your pages and posts, images have to be linked to the Media File."
+msgstr "אפשרות זו תפעיל חלון עם אפקט זום כשמקליקים על תמונה. הערה : כדי להחיל אפקט זה על תמונות בדפים ובעמודים, יש לקשר את התמונה לקובץ המדיה שלה."
+
+#: core/core-settings-map.php:281
+msgid "If enabled, this option activates a smooth page scroll when clicking on a link to an anchor of the same page."
+msgstr "אפשרות זו תפעיל גלילת מסך חלקה כאשר מקליקים על קישור למיקום אחר באותו דף"
+
+#: inc/czr-init-ccat.php:2421
+msgid "If enabled, this option will force images to fit the screen on lightbox zoom."
+msgstr "אפשרות זו תכפה התאמת תמונות לגדול המסך בלייטבוקס זום"
+
+#: core/core-settings-map.php:322
+msgid "If enabled, your website will include support for high resolution devices."
+msgstr "אפשרות זו תכלול תמיכה במכשירים בעלי רזולוציית מסך גבוהה"
+
+#: core/core-settings-map.php:323
+msgid "It is strongly recommended to regenerate your media library images in high definition with this free plugin"
+msgstr "מומלץ מאוד לחולל מחדש באיכות גבוהה (HD) את התמונות בספריית המדיה שלך עם תוסף חינמי זה"
+
+#: core/core-settings-map.php:307
+msgid "Lightbox effect on images"
+msgstr "אפקט לייטבוקס על תמונות"
+
+#: core/core-settings-map.php:1230
+msgid "Maximum number of posts per page"
+msgstr "מקסימום פוסטים לעמוד"
+
+#: core/core-settings-map.php:326
+msgid "Open the description page of the Regenerate thumbnails plugin"
+msgstr "פתיחת עמוד ההסבר של התוסף המחולל תמונות ממוזערות"
+
+#: inc/czr-init-ccat.php:2874
+msgid "Select the length of posts in lists (home, search, archives, ...)"
+msgstr "בחירת אורך פוסטים ברשימות (ראשי, חיפוש, ארכיון,...)"
+
+#: core/core-settings-map.php:278
+msgid "Smooth scroll on click"
+msgstr "גלילה חלקה בקליק"
+
+#: core/core-settings-map.php:1954
+msgid "Social links in footer"
+msgstr "קישורים חברתיים בכותרת תחתונה"
+
+#: core/core-settings-map.php:561
+msgid "Social links in header"
+msgstr "קישורים חברתיים בכותרת עליונה"
+
+#: core/core-settings-map.php:1901
+msgid "Social links in left sidebar"
+msgstr "קישורים חברתיים בסרגל צדדי שמאלי"
+
+#: core/core-settings-map.php:1914
+msgid "Social links in right sidebar"
+msgstr "קישורים חברתיים בסרגל צדדי ימני"
+
+#: core/core-settings-map.php:345
+msgid "This option dynamically centers your images on any devices, vertically or horizontally according to their initial aspect ratio."
+msgstr "אפשרות זו ממרכזת בצורה דינאמית את התמונות בכל מכשיר, במאונזן או במאונך על-פי יחס רוחב/גובה המקורי שלהן"
+
+#: core/core-settings-map.php:1210
+msgid "This option will override the specific layouts on all posts/pages, including the front page."
+msgstr "אפשרות זו תדרוס כל פריסה ספציפית שתוגדר לעמודים/פוסטים, כולל הדף הראשי."
+
+#: core/core-settings-map.php:2021
+msgid "Use this field to test small chunks of CSS code. For important CSS customizations, you'll want to modify the style.css file of a"
+msgstr "השתמשו בשדה זה כדי לבדוק פיסות קטנות של קוד CSS. להתאמות חשובות של -CSS, תרצו לעדכן את קובץ ה-style.css של "
+
+#: inc/czr-init-ccat.php:2431
+msgid "When checked, this option displays a loading icon when the slides are being setup."
+msgstr "כשאפשרות זו מסומנת יוצג סמליל \"בטעינה\" כאשר הסליידר נטען ומוגדר"
+
+#: core/core-settings-map.php:2022
+msgid "child theme."
+msgstr "תבנית בת"
+
+#: core/core-settings-map.php:324
+msgid "regenerate thumbnails"
+msgstr "יצירת תמונות מוקטנות מחדש"
+
+#: inc/czr-init-ccat.php:2427
+msgid "Sliders : display on loading icon before rendering the slides"
+msgstr "סליידרים : הצגת סמליל \"בטעינה\" לפני יצירת הסליידר"
+
+#: core/core-settings-map.php:1055 core/core-settings-map.php:1174
+msgid "Button text"
+msgstr "מלל הלחצן"
+
+#: core/core-settings-map.php:1195
+msgid "Choose the global default layout"
+msgstr "בחירת פריסת ברירת מחדל כללית"
+
+#: core/core-settings-map.php:1586
+msgid "Display Breadcrumb"
+msgstr "הצג פירורי לחם (breadcrumb)"
+
+#: core/core-settings-map.php:1154 core/core-settings-map.php:1522
+msgid "Disable"
+msgstr "השבת"
+
+#: core/core-settings-map.php:1054 core/core-settings-map.php:1172
+#: core/front/template-tags/template-tags.php:122
+msgid "Read more &raquo;"
+msgstr "קרא עוד &raquo;"
+
+#: core/core-settings-map.php:1163
+msgid "Show images"
+msgstr "הצג תמונות"
+
+#: core/core-settings-map.php:1166
+msgid "The images are set with the \"featured image\" of each pages (in the page edit screen). Uncheck the option above to disable the featured page images."
+msgstr "התמונות נקבעות תחת האפשרות של \"תמונה מייצגת\" של כל עמוד (במסך עריכת העמוד). בטל את האפשרות הנ\"ל כדי להשבית את התמונה המייצגת"
+
+#: core/core-settings-map.php:1078
+msgid "Delay between each slides"
+msgstr "השהייה בין שקופיות"
+
+#: core/core-settings-map.php:1149
+msgid "Display home featured pages area"
+msgstr "הצג עמודים מובלטים בדף הבית"
+
+#: core/core-settings-map.php:1153
+msgid "Enable"
+msgstr "אפשר"
+
+#: core/core-settings-map.php:1148
+msgid "Featured pages options"
+msgstr "אפשרויות עמודים מובלטים"
+
+#: core/core-settings-map.php:1066
+msgid "Full width slider"
+msgstr "סליידר ברוחב מלא"
+
+#: core/core-settings-map.php:989
+msgid "Select front page slider"
+msgstr "הגדרת סליידר הדף הראשי"
+
+#: core/core-settings-map.php:1083
+msgid "in ms : 1000ms = 1s"
+msgstr "במילישניות : 1000מילישניות = שניה אחת"
+
+#: core/core-settings-map.php:972
+msgid "Set up the front page layout"
+msgstr "הגדרת פריסת הדף הראשי"
+
+#: core/core-settings-map.php:988
+msgid "Slider options"
+msgstr "אפשרויות סליידר"
+
+#: core/core-settings-map.php:937
+msgid "Front page"
+msgstr "עמוד ראשי"
+
+#: core/core-settings-map.php:945
+msgid "Posts page"
+msgstr "עמוד פוסטים"
+
+#: core/core-settings-map.php:931
+msgid "A static page"
+msgstr "עמוד סטאטי"
+
+#: core/core-settings-map.php:929
+msgid "Don't show any posts or page"
+msgstr "לא להציג שום פוסט או עמוד"
+
+#: core/core-settings-map.php:930
+msgid "Your latest posts"
+msgstr "הפוסטים האחרונים שלך"
+
+#: core/core-settings-map.php:168
+msgid "LOGO"
+msgstr "לוגו"
+
+#: core/core-settings-map.php:916
+msgid "Choose content and layout"
+msgstr "בחירת תוכן ופריסה"
+
+#: core/core-settings-map.php:475
+msgid "Display top border"
+msgstr "הצג גבול עליון"
+
+#: inc/czr-init-ccat.php:2157
+msgid "FAVICON"
+msgstr "סמליל מייצג (FAVICON)"
+
+#: inc/czr-init-ccat.php:2156
+msgid "Favicon Upload (supported formats : .ico, .png, .gif)"
+msgstr "טעינת סמליל (פורמטים נתמכים :.ico, .png, .gif )"
+
+#: core/core-settings-map.php:924
+msgid "Front page displays"
+msgstr "להציג בדף הראשי"
+
+#: core/core-settings-map.php:167
+msgid "Logo Upload (supported formats : .jpg, .png, .gif, svg, svgz)"
+msgstr "טעינת לוגו (פורמטים נתמכים: .jpg, .png, .gif. svg, svgz)"
+
+#: inc/czr-init-ccat.php:2139
+msgid "Sticky Logo Upload (supported formats : .jpg, .png, .gif, svg, svgz)"
+msgstr "טעינת לוגו דביק (פורמטים נתמכים: .jpg, .png, .gif. svg, svgz)"
+
+#: core/core-settings-map.php:479
+msgid "Uncheck this option to remove the colored top border."
+msgstr "בטל סימון אפשרות זו כדי להסיר את הגבול העליון הצבעוני"
+
+#: core/core-settings-map.php:2040
+msgid "Performance : use the minified CSS stylesheets"
+msgstr "ביצועים : השתמש בגליון עיצוב CSS ממוזער"
+
+#: core/core-settings-map.php:2043
+msgid "Using the minified version of the stylesheets will speed up your webpage load time."
+msgstr "שימוש בגירסא המצומצמת של גליונות העיצוב יאיצו את זמן הטעינה של האתר."
+
+#: core/core-settings-map.php:190
+msgid "Uncheck this option to keep your original logo dimensions."
+msgstr "ביטול סימון אפשרות זו ישמור על מימדי הלוגו המקוריים"
+
+#: core/core-settings-map.php:185
+msgid "Force logo dimensions to max-width:250px and max-height:100px"
+msgstr "כפיית מימדי הלוגו לרוחב מירבי של 250 פיקסל וגובה מרבי של 100 פיקסל"
+
+#: inc/czr-init-ccat.php:2151
+msgid "Use this upload control to specify a different logo on sticky header mode."
+msgstr "השתמשו בפקד טעינה זה כדי להגדיר לוגו שונה למצב כותרת דביקה"
+
+#: inc/czr-init-ccat.php:2209
+msgid "Apply a random color skin on each page load."
+msgstr "הפעלת צבע מעטפת אקראי בכל טעינת עמוד"
+
+#: inc/czr-init-ccat.php:2196
+msgid "Choose a predefined skin"
+msgstr "בחירת מעטפת מוגדרת מראש"
+
+#: core/core-settings-map.php:836
+msgid "Expand submenus on click"
+msgstr "הרחב תפריטים בלחיצה"
+
+#: core/core-settings-map.php:837
+msgid "Expand submenus on hover"
+msgstr "הרחב תפריטים בריחוף"
+
+#: inc/czr-init-ccat.php:2206
+msgid "Randomize the skin"
+msgstr "מעטפת אקראית"
+
+#: inc/czr-init-ccat.php:3188
+msgid "Responsive settings"
+msgstr "הגדרות רספונסיביות"
+
+#: core/core-settings-map.php:832
+msgid "Select a submenu expansion option"
+msgstr "בחר אפשרות הרחבה של תת-תפריט"
+
+#: inc/czr-init-ccat.php:3190
+msgid "Various settings for responsive display"
+msgstr "הגדרות שונות לתצוגה רספונסיבית"
+
+#: core/core-settings-map.php:2500
+msgid "Custom CSS"
+msgstr "CSS מותאם אישית"
+
+#: core/core-settings-map.php:2330 inc/czr-init-ccat.php:3086
+msgid "Social links"
+msgstr "קישורים חברתיים"
+
+#: core/core-settings-map.php:2458
+msgid "Comments"
+msgstr "תגובות"
+
+#: core/core-settings-map.php:2415
+msgid "Pages &amp; Posts Layout"
+msgstr "פריסת עמודים ופוסטים"
+
+#: core/core-settings-map.php:2205
+msgid "Advanced options"
+msgstr "אפשרויות מתקדמות"
+
+#: core/core-settings-map.php:2198
+msgid "Footer"
+msgstr "כותרת תחתונה"
+
+#: core/core-functions.php:1532
+msgid "&mdash; Demo Slider &mdash;"
+msgstr "&mdash; סליידר לדוגמא &mdash;"
+
+#: core/core-functions.php:1531
+msgid "&mdash; No slider &mdash;"
+msgstr "&mdash;ללא סליידר &mdash;"
+
+#: core/core-settings-map.php:2605
+msgid "Custom featured page %1$s"
+msgstr "דף מובלט מותאם אישי %1$s"
+
+#: core/core-settings-map.php:2171
+msgid "Global settings"
+msgstr "הגדרות כלליות"
+
+#: core/core-settings-map.php:2178
+msgid "Header"
+msgstr "כותרת עליונה"
+
+#: core/core-settings-map.php:2624
+msgid "You need to select a page first. Leave this field empty if you want to use the page excerpt."
+msgstr "ראשית עליך לבחור עמוד. יש להשאיר שדה זה ריק אם ברצונך להשתמש בתקציר העמוד."
+
+#: core/core-settings-map.php:2621
+msgid "Featured text %1$s (200 char. max)"
+msgstr "מללל מובלט %1$s (200 תווים לכל היותר)"
+
+#: core/core-settings-map.php:2581
+msgid "Home featured page one"
+msgstr "דף מובלט ראשון"
+
+#: core/core-settings-map.php:2583
+msgid "Home featured page three"
+msgstr "דף מובלט שלישי"
+
+#: core/core-settings-map.php:2582
+msgid "Home featured page two"
+msgstr "דף מובלט שני"
+
+#: core/core-settings-map.php:2586
+msgid "Featured text one (200 char. max)"
+msgstr "מלל מובלט ראשון (200 תווים לכל היותר)"
+
+#: core/core-settings-map.php:2587
+msgid "Featured text two (200 char. max)"
+msgstr "מלל מובלט שני (200 תווים לכל היותר)"
+
+#: core/core-settings-map.php:2588
+msgid "Featured text three (200 char. max)"
+msgstr "מללל מובלט שלישי (200 תווים לכל היותר)"
+
+#: core/core-functions.php:1442
+msgid "Page %s"
+msgstr "עמוד %s"
+
+#: core/init-base.php:436
+msgid "Need help with Customizr? Click here!"
+msgstr "זקוקים לעזרה עם Customizr? לחצו כאן!"
+
+#: core/core-settings-map.php:690 core/init-base.php:390
+msgid "Main Menu"
+msgstr "תפריט ראשי"
+
+#: core/class-fire-prevdem.php:274 core/class-fire-prevdem.php:280
+#: core/init-base.php:253
+msgid "Customizr is a clean responsive theme"
+msgstr "Customizr היא תבנית רספונסיבית נקיה"
+
+#: core/class-fire-prevdem.php:286 core/init-base.php:267
+msgid "Many layout and design options are available from the WordPress customizer screen : see your changes live !"
+msgstr "אפשריות רבות לפריסה ועיצוב זמינות ממסך ההתאמות של וורדפרס : תוכלו לראות את השינוי ב\"חי"
+
+#: core/class-fire-init.php:122 inc/czr-init-ccat.php:374
+msgid "Footer Widget Area Three"
+msgstr "ווידג'ט כותרת תחתונה - איזור שלישי"
+
+#: core/class-fire-init.php:116 inc/czr-init-ccat.php:370
+msgid "Footer Widget Area Two"
+msgstr "ווידג'ט כותרת תחתונה - איזור שני"
+
+#: inc/czr-front-ccat.php:4548
+#: templates/parts/content/no-results/search_no_results.php:13
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "מצטערים, אך שום דבר לא מתאים להגדרות החיפוש שלכם, אנא נסו שוב עם מילות חיפוש אחרות."
+
+#: inc/czr-front-ccat.php:1807 templates/parts/content/no-results/404.php:14
+msgid "Sorry, but the requested page is not found. You might try a search below."
+msgstr "מצטערים, הדף המבוקש לא נמצא, אולי תנסו את החיפוש המופיע מטה"
+
+#: core/class-fire-init.php:110 inc/czr-init-ccat.php:366
+msgid "Footer Widget Area One"
+msgstr "ווידג'ט כותרת תחתונה - איזור ראשון"
+
+#: core/class-fire-init.php:111 core/class-fire-init.php:117
+#: core/class-fire-init.php:123 inc/czr-init-ccat.php:367
+#: inc/czr-init-ccat.php:371 inc/czr-init-ccat.php:375
+msgid "Just use it as you want !"
+msgstr "השתמשו בו כרצונכם!"
+
+#: core/init-base.php:112 core/init-base.php:116
+msgid "Appears on posts, static pages, archives and search pages"
+msgstr "מופיע בפוסטים, עמודים סטאטיים, ארכיון ודפי חיפוש"
+
+#: core/init-base.php:111
+msgid "Left Sidebar"
+msgstr "סרגל צדדי שמאלי"
+
+#: core/init-base.php:161
+msgid "Follow me on Dribbble"
+msgstr "עקבו אחרי בדריבל"
+
+#: core/init-base.php:158
+msgid "Follow me on Github"
+msgstr "עקבו אחרי בגיטהב"
+
+#: core/init-base.php:164
+msgid "Follow me on LinkedIn"
+msgstr "עקבו אחרי בלינקדאין"
+
+#: core/init-base.php:149
+msgid "Follow me on WordPress"
+msgstr "עקבו אחרי בוורדפרס"
+
+#: core/init-base.php:152
+msgid "Follow me on Youtube"
+msgstr "עקבו אחרי ביו-טיוב"
+
+#: core/init-base.php:155
+msgid "Pin me on Pinterest"
+msgstr "Pin me on Pinterest"
+
+#: core/init-base.php:115
+msgid "Right Sidebar"
+msgstr "סרגל צדדי ימני"
+
+#: core/init-base.php:134
+msgid "Follow me on Facebook"
+msgstr "עקבו אחרי בפייסבוק"
+
+#: core/init-base.php:146
+msgid "Follow me on Flickr"
+msgstr "עקבו אחרי בפליקר"
+
+#: core/init-base.php:137
+msgid "Follow me on Google+"
+msgstr "עקבו אחרי בגוגל+"
+
+#: core/init-base.php:140
+msgid "Follow me on Instagram"
+msgstr "עקבו אחרי באינסטגרם"
+
+#: core/init-base.php:143
+msgid "Follow me on Tumblr"
+msgstr "עקבו אחרי בטמבלר"
+
+#: core/init-base.php:131
+msgid "Follow me on Twitter"
+msgstr "עקבו אחרי בטויטר"
+
+#: core/init-base.php:183
+msgid "Google fonts pairs"
+msgstr "צמדי גופני גוגל"
+
+#: inc/czr-init-ccat.php:353
+msgid "Green blue"
+msgstr "ירוק כחול"
+
+#: inc/czr-init-ccat.php:354
+msgid "Light blue "
+msgstr "כחול בהיר"
+
+#: inc/czr-init-ccat.php:352
+msgid "Light green"
+msgstr "ירוק בהיר"
+
+#: core/init-base.php:124
+msgid "Subscribe to my rss feed"
+msgstr "הרשמו להזנות RSS שלי"
+
+#: core/init-base.php:204
+msgid "Web safe fonts pairs"
+msgstr "צמדי גופנים מותאים לאינטרנט"
+
+#: core/init-base.php:213
+msgid "Single fonts"
+msgstr "גופנים בודדים"
+
+#: inc/czr-init-ccat.php:351
+msgid "Green"
+msgstr "ירוק"
+
+#: inc/czr-init-ccat.php:350
+msgid "Flat yellow"
+msgstr "צהוב שטוח"
+
+#: inc/czr-init-ccat.php:349
+msgid "Yellow"
+msgstr "צהוב"
+
+#: inc/czr-init-ccat.php:348
+msgid "Flat orange"
+msgstr "כתום שטוח"
+
+#: inc/czr-init-ccat.php:347
+msgid "Orange"
+msgstr "כתום"
+
+#: inc/czr-init-ccat.php:346
+msgid "Red"
+msgstr "אדום"
+
+#: inc/czr-init-ccat.php:345
+msgid "Flat red"
+msgstr "אדום שטוח"
+
+#: inc/czr-init-ccat.php:341
+msgid "Grey"
+msgstr "אפור"
+
+#: inc/czr-init-ccat.php:344
+msgid "Purple"
+msgstr "סגול"
+
+#: inc/czr-init-ccat.php:340
+msgid "Flat black"
+msgstr "שחור שטוח"
+
+#: inc/czr-init-ccat.php:343
+msgid "Flat purple"
+msgstr "סגול שטוח"
+
+#: inc/czr-init-ccat.php:342
+msgid "Light grey"
+msgstr "אפור בהיר"
+
+#: inc/czr-init-ccat.php:339
+msgid "Black"
+msgstr "שחור"
+
+#: inc/czr-init-ccat.php:338
+msgid "Blue"
+msgstr "כחול"
+
+#: core/class-fire-init.php:71 core/class-fire-init.php:72
+#: inc/czr-init-ccat.php:325 inc/czr-init-ccat.php:326
+msgid "2 sidebars : Right and Left"
+msgstr "שני סרגלים צדדיים : ימני ושמאלי"
+
+#: core/class-fire-init.php:64 core/class-fire-init.php:65
+#: inc/czr-init-ccat.php:319 inc/czr-init-ccat.php:320
+msgid "Left sidebar"
+msgstr "סרגל צדדי שמאלי"
+
+#: core/class-fire-init.php:78 core/class-fire-init.php:79
+#: inc/czr-init-ccat.php:331 inc/czr-init-ccat.php:332
+msgid "No sidebars : full width layout"
+msgstr "ללא סרגל צדדי :  פריסה ברוחב מלא"
+
+#: core/class-fire-init.php:57 core/class-fire-init.php:58
+#: inc/czr-init-ccat.php:313 inc/czr-init-ccat.php:314
+msgid "Right sidebar"
+msgstr "סרגל צדדי ימני"
+
+#: core/czr-customize-ccat.php:1712 core/czr-customize-ccat.php:1994
+#: core/czr-customize-ccat.php:2065 core/czr-customize-ccat.php:2232
+msgid "Remove"
+msgstr "הסרה"
+
+#: core/czr-customize-ccat.php:1089
+msgid "Check the documentation"
+msgstr "בדקו את התיעוד"
+
+#: core/czr-customize-ccat.php:1086
+msgid "Create a slider"
+msgstr "יצירת סליידר"
+
+#: core/czr-customize-ccat.php:1087
+msgid "Need help to create a slider ?"
+msgstr "זקוקים לעזרה ביצירת סליידר?"
+
+#: core/czr-admin-ccat.php:705
+msgid "Please include the following informations when posting support requests"
+msgstr "אנא צרפו את המידע הבא בעת שליחת בקשת תמיכה"
+
+#: core/czr-admin-ccat.php:704
+msgid "System Informations"
+msgstr "מידע אודות המערכת"
+
+#: core/czr-admin-ccat.php:706
+msgid "To copy the system infos, click below then press Ctrl + C (PC) or Cmd + C (Mac)."
+msgstr "כדי להעתיק את המידע אודות המערכת, הקליקו כאן ואז לחצו CTRL+C  במחשבי PC או Cmd+C במקינטוש."
+
+#: core/czr-customize-ccat.php:1711
+msgid "Upload"
+msgstr "טעינה"
+
+#: core/czr-admin-ccat.php:635
+msgid "Go to Dashboard"
+msgstr "עבור ללוח הבקרה"
+
+#: core/czr-admin-ccat.php:687
+msgid "Changelog in version %1$s"
+msgstr "יומן שינויים לגרסה %1$s"
+
+#: core/czr-admin-ccat.php:620
+msgid "Easily take your web design one step further"
+msgstr "קחו את עיצוב האתר שלכם בקלות צעד אחד קדימה"
+
+#: core/czr-admin-ccat.php:606
+msgid "Follow us"
+msgstr "עקבו אחרינו"
+
+#: core/czr-admin-ccat.php:635
+msgid "Go to Dashboard &rarr; Home"
+msgstr "עבור ללוח מחוונים &larr; ראשי"
+
+#: core/czr-admin-ccat.php:600
+msgid "Happy user of Customizr?"
+msgstr "משתמש מרוצה של Customizr?"
+
+#: core/czr-admin-ccat.php:601
+msgid "If you are happy with the theme, say it on wordpress.org and give Customizr a nice review! <br />(We are addicted to your feedbacks...)"
+msgstr "אם אתם מרוצים מהתבנית, אמרו זאת ב-wordpress.org ותנו ל-Customizr ביקורת טובה! <br />(אנחנו מכורים למשוב שלכם...)"
+
+#: core/czr-admin-ccat.php:581
+msgid "You are using a child theme of Customizr %1$s : always check the %2$s after upgrading to see if a function or a template has been deprecated."
+msgstr "אתה משתמש בתבנית-בת של Customizr %1$s : בדוק תמיד את %2$s לאחר שדרוג כדי לבדוק אם פונקציה או תבנית התישנו וכבר לא בשימוש."
+
+#: core/czr-admin-ccat.php:511
+msgid "About Customizr"
+msgstr "אודות Customizr"
+
+#: core/czr-admin-ccat.php:2486
+msgid "Current slide"
+msgstr "שקופית נוכחית"
+
+#: core/czr-admin-ccat.php:2484
+msgid "Edit this slide"
+msgstr "ערוך שקופית זו"
+
+#: core/czr-admin-ccat.php:2458
+msgid "No Image Selected"
+msgstr "לא נבחרה שום תמונה"
+
+#: core/czr-admin-ccat.php:2416 core/czr-customize-ccat.php:979
+#: core/czr-customize-ccat.php:989 core/czr-customize-ccat.php:1994
+#: core/czr-customize-ccat.php:2007 core/czr-customize-ccat.php:2065
+#: core/front/models/modules/common/class-model-breadcrumb.php:625
+#: core/front/models/modules/common/class-model-breadcrumb.php:658
+#: core/front/models/modules/common/class-model-breadcrumb.php:673
+#: core/front/models/modules/common/class-model-breadcrumb.php:701
+#: core/front/template-tags/template-tags.php:163
+#: core/front/template-tags/template-tags.php:164 inc/czr-front-ccat.php:2634
+#: inc/czr-front-ccat.php:2667 inc/czr-front-ccat.php:2682
+#: inc/czr-front-ccat.php:2710 inc/czr-front-ccat.php:3225
+#: inc/czr-front-ccat.php:3815 inc/czr-front-ccat.php:4220
+#: inc/czr-front-ccat.php:8961
+msgid "Edit"
+msgstr "עריכה"
+
+#: core/czr-admin-ccat.php:2414
+msgid "Button Text"
+msgstr "מלל הלחצן"
+
+#: core/czr-admin-ccat.php:2413
+msgid "Slide Text"
+msgstr "מלל שקופית"
+
+#: core/czr-admin-ccat.php:2412 core/czr-customize-ccat.php:2148
+msgid "Title"
+msgstr "כותרת"
+
+#: core/czr-admin-ccat.php:2248 core/czr-admin-ccat.php:2277
+msgid "Add a slider"
+msgstr "הוספת סליידר"
+
+#: core/czr-admin-ccat.php:2193
+msgid "Choose a linked page or post (among the last 100)."
+msgstr "בחר עמוד או פוסט מקושר (מתוך ה-100 האחרונים)"
+
+#: core/czr-admin-ccat.php:2198
+msgid "No link"
+msgstr "אין קישור"
+
+#: core/czr-admin-ccat.php:2411
+msgid "Slide Image"
+msgstr "תמונת שקופית"
+
+#: core/czr-admin-ccat.php:2401
+msgid "This slider has not slides to show. Go to the media library and start adding images to it."
+msgstr "סליידר זה אינו מכיל שקופיות, עבור לספריית המדיה והתחל להוסיף אליו תמונות."
+
+#: core/czr-admin-ccat.php:2178
+msgid "Title and text color"
+msgstr "צבע כותרת ומלל"
+
+#: core/czr-admin-ccat.php:2275
+msgid "You haven't create any slider yet. Write a slider name and click on the button to add you first slider."
+msgstr "לא יצרת עדיין אף סליידר. רשום שם של סליידר ולחץ על הכפתור כדי להוסיף את הסלידר הראשון שלך."
+
+#: core/czr-admin-ccat.php:2186
+msgid "Button text (80 char. max length)"
+msgstr "מלל הלחצן (אורך מירבי : 80 תווים)"
+
+#: core/czr-admin-ccat.php:1582 core/czr-admin-ccat.php:2242
+msgid "&mdash; Select a slider &mdash; "
+msgstr "&mdash; בחר סליידר &mdash; "
+
+#: core/czr-admin-ccat.php:1498
+msgid "Add a slider to this post/page"
+msgstr "הוספת סליידר לפוסט/עמוד זה"
+
+#: core/czr-admin-ccat.php:2029
+msgid "Add to a slider"
+msgstr "הוסף למצגת שקופיות (סליידר)"
+
+#: core/czr-admin-ccat.php:2031
+msgid "Add to a slider (create one if needed)"
+msgstr "הוסף לסליידר (צור חדש אם יש צורך)"
+
+#: core/czr-admin-ccat.php:1576 core/czr-admin-ccat.php:2227
+msgid "Choose a slider"
+msgstr "בחירת סליידר"
+
+#: core/czr-admin-ccat.php:1452
+msgid "Default layout %1s"
+msgstr "פריסה ברירת מחדל %1s"
+
+#: core/czr-admin-ccat.php:1609
+msgid "Delay between each slides in milliseconds (default : 5000 ms)"
+msgstr "השהייה בין שקופיות במילישניות (ברירת מחדל: 5000מילישניות)"
+
+#: core/czr-admin-ccat.php:1675 core/czr-admin-ccat.php:2258
+msgid "Delete slider"
+msgstr "מחק סליידר"
+
+#: core/czr-admin-ccat.php:1667 core/czr-admin-ccat.php:2251
+msgid "Delete this slider"
+msgstr "מחק סליידר זה"
+
+#: core/czr-admin-ccat.php:1448
+msgid "Select a specific layout for %1$s"
+msgstr "בחר פריסה ספציפית עבור %1$s"
+
+#: core/czr-admin-ccat.php:1616
+msgid "Slider Layout : set the slider in full width"
+msgstr "פריסת סליידר : הגדר את הסליידר ברוחב מלא"
+
+#: core/czr-admin-ccat.php:1672 core/czr-admin-ccat.php:2255
+msgid "The slider will be deleted permanently (images, call to actions and link will be kept)."
+msgstr "סליידר זה יימחק לצמיתות (תמונות, קריאות לפעולה וקישורים יישמרו)"
+
+#: core/czr-admin-ccat.php:1605
+msgid "To create a new slider : open the media library, edit your images and add them to your new slider."
+msgstr "ליצירת סליידר חדש : פתח את ספריית המדיה, ערוך את התמונות והוסף אותן לסליידר החדש שלך."
+
+#: core/czr-admin-ccat.php:1443
+msgid "You can define a specific layout for %1$s by using the pre-defined left and right sidebars. The default layouts can be defined in the WordPress customizer screen %2$s.<br />"
+msgstr "תוכלו להגדיר פריסה ספציפית עבור %1$s על-ידי שימוש בסרגל-צדדי ימני או שמאלי מוגדר מראש. פריסות ברירת המחדל ניתנות להגדרה במסך ההתאמה של וורדפרס %2$s"
+
+#: core/czr-admin-ccat.php:1686 core/czr-customize-ccat.php:1084
+msgid "You haven't create any slider yet. Go to the media library, edit your images and add them to your sliders."
+msgstr "לא יצרת עדיין אף סליידר. עבור לספריית המדיה, ערוך את התמונות שלך והוסף אותן לסליידררים."
+
+#: core/core-settings-map.php:900 core/core-settings-map.php:905
+#: core/core-settings-map.php:2103 core/czr-admin-ccat.php:1445
+msgid "here"
+msgstr "כאן"
+
+#: core/czr-admin-ccat.php:1444 core/czr-admin-ccat.php:1449
+msgid "this page"
+msgstr "עמוד נוכחי"
+
+#: core/czr-admin-ccat.php:1444 core/czr-admin-ccat.php:1449
+msgid "this post"
+msgstr "פוסט נוכחי"
+
+#: core/czr-admin-ccat.php:2164
+msgid "Title text (80 char. max length)"
+msgstr "מלל הכותרת (אורך מירבי : 80 תווים)"
+
+#: core/czr-admin-ccat.php:2171
+msgid "Description text (below the title, 250 char. max length)"
+msgstr "מלל התיאור (מתחת לכותרת, אורך מירבי : 250 תווים)"
+
+#: core/czr-admin-ccat.php:1440
+#: templates/parts/content/singular/authors/author_info.php:15
+msgid "posts"
+msgstr "פוסטים"
+
+#: core/czr-admin-ccat.php:1440
+msgid "pages"
+msgstr "עמודים"
+
+#: core/czr-admin-ccat.php:1440
+msgid "Default %1$s layout is set to : %2$s"
+msgstr "פריסת ברירת מחדל עבור %1$s נקבעה כ-%2$s"
+
+#: core/czr-admin-ccat.php:1170 core/czr-admin-ccat.php:2002
+msgid "Slider Options"
+msgstr "אפשריות סליידר"
+
+#: core/czr-admin-ccat.php:625
+msgid "Discover Customizr Pro"
+msgstr "גלו את Customizr Pro"
+
+#: core/core-settings-map.php:903
+msgid "Jump to the blog design options"
+msgstr "עבור לאפשרויות עיצוב הבלוג"
+
+#: core/czr-admin-ccat.php:1157
+msgid "Layout Options"
+msgstr "אפשרויות פריסה"
+
+#: core/czr-customize-ccat.php:612
+msgid "More grid design options"
+msgstr "אפשרויות עיצוב רשת נוספות"
+
+#: core/czr-customize-ccat.php:654
+msgid "This theme requires WordPress 3.4+"
+msgstr "תבנית זו דורשת גרסת וורדפרס 3.4 ומעלה"
+
+#: core/czr-customize-ccat.php:634 core/czr-customize-ccat.php:635
+msgid "Upgrade WP"
+msgstr "שדרוג WP"
+
+#: core/czr-customize-ccat.php:657 core/czr-customize-ccat.php:658
+msgid "Upgrade Wordpress Now"
+msgstr "שדרגו וורדפרס כעת"
+
+#. Author of the plugin/theme
+msgid "nikeo"
+msgstr "nikeo"
+
+#. Author URI of the plugin/theme
+msgid "https://presscustomizr.com/"
+msgstr "https://presscustomizr.com/"
+
+#. Theme URI of the plugin/theme
+msgid "https://presscustomizr.com/customizr"
+msgstr "http://presscustomizr.com/customizr"
